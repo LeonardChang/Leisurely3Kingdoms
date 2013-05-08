@@ -1,0 +1,1111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: LV1BG
+  spriteGroups:
+  - {fileID: 11400004}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: 1
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: 23ff1e8ee3411b843b081545933492c1, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 208
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/Lv1_1.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 208
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: 1
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 392, y: 0, z: 0}
+  - {x: 392, y: -208, z: 0}
+  - {x: 0, y: -208, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: -3.7252903e-08}
+  - {x: 0, y: -3.7252903e-08}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400006}
+  - {fileID: 11400008}
+  - {fileID: 11400010}
+  - {fileID: 11400012}
+  - {fileID: 11400014}
+  - {fileID: 11400016}
+  - {fileID: 11400018}
+  - {fileID: 11400020}
+  - {fileID: 11400022}
+  - {fileID: 11400024}
+  - {fileID: 11400026}
+  - {fileID: 11400028}
+  - {fileID: 11400030}
+  - {fileID: 11400032}
+  - {fileID: 11400034}
+  - {fileID: 11400036}
+  - {fileID: 11400038}
+  - {fileID: 11400040}
+  - {fileID: 11400042}
+  - {fileID: 11400044}
+  - {fileID: 11400046}
+  - {fileID: 11400048}
+  parentName: LV1BG
+  isExpand: 1
+  groupName: Untitled Group
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: 2
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: ba66b18bfcc26824b8ee914a3d6636f1, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 73
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/Lv1_2.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 73
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: 2
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 392, y: 0, z: 0}
+  - {x: 392, y: -73, z: 0}
+  - {x: 0, y: -73, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: -.0281689949}
+  - {x: 0, y: -.0281689949}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: 3
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: 7148ba926d857344d9ae003f4799b4d2, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 79
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/Lv1_3.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 79
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: 3
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 392, y: 0, z: 0}
+  - {x: 392, y: -79, z: 0}
+  - {x: 0, y: -79, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1.00255752, y: 1}
+  - {x: 1.00255752, y: -.012820526}
+  - {x: 0, y: -.012820526}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1pt1
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: d30025c40b72c404aa4735c9a21af231, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 44
+    height: 41
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/bigmap1pt1.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 44
+    height: 41
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1pt1
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 44, y: 0, z: 0}
+  - {x: 44, y: -41, z: 0}
+  - {x: 0, y: -41, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1.2571429, y: 1}
+  - {x: 1.2571429, y: .0888888687}
+  - {x: 0, y: .0888888687}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: mubei
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: e6eab885e2bf9b64fa3f11e49174139b, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 66
+    height: 91
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/mubei.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 66
+    height: 91
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: mubei
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 66, y: 0, z: 0}
+  - {x: 66, y: -91, z: 0}
+  - {x: 0, y: -91, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: .2578125, y: 1}
+  - {x: .2578125, y: .2890625}
+  - {x: 0, y: .2890625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: map
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: 3d2c537ea262b8b42a69cf99dff36186, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 348
+    height: 480
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/map01.png
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 348
+    height: 480
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: map
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 348, y: 0, z: 0}
+  - {x: 348, y: -480, z: 0}
+  - {x: 0, y: -480, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: -5.21540642e-08}
+  - {x: 0, y: -5.21540642e-08}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1pt2
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: 87d14f5cecdaf474dbf355bc8cee9636, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 44
+    height: 41
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/bigmap1pt2.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 44
+    height: 41
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1pt2
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 44, y: 0, z: 0}
+  - {x: 44, y: -41, z: 0}
+  - {x: 0, y: -41, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1.2571429, y: 1}
+  - {x: 1.2571429, y: -.464285791}
+  - {x: 0, y: -.464285791}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: TombStone01
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: e6eab885e2bf9b64fa3f11e49174139b, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 156
+    y: 52
+    width: 40
+    height: 50
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/TombStone01.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 40
+    height: 50
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: TombStone01
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 40, y: 0, z: 0}
+  - {x: 40, y: -50, z: 0}
+  - {x: 0, y: -50, z: 0}
+  uvs:
+  - {x: .609375, y: .59375}
+  - {x: .765625, y: .59375}
+  - {x: .765625, y: .203125}
+  - {x: .609375, y: .203125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: TombStone02
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: e6eab885e2bf9b64fa3f11e49174139b, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 112
+    y: 44
+    width: 40
+    height: 50
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/TombStone02.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 40
+    height: 50
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: TombStone02
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 40, y: 0, z: 0}
+  - {x: 40, y: -50, z: 0}
+  - {x: 0, y: -50, z: 0}
+  uvs:
+  - {x: .4375, y: .65625}
+  - {x: .59375, y: .65625}
+  - {x: .59375, y: .265625}
+  - {x: .4375, y: .265625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: TombStone03
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: e6eab885e2bf9b64fa3f11e49174139b, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 68
+    y: 44
+    width: 40
+    height: 50
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/TombStone03.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 40
+    height: 50
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: TombStone03
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 40, y: 0, z: 0}
+  - {x: 40, y: -50, z: 0}
+  - {x: 0, y: -50, z: 0}
+  uvs:
+  - {x: .265625, y: .65625}
+  - {x: .421875, y: .65625}
+  - {x: .421875, y: .265625}
+  - {x: .265625, y: .265625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: TombStone04
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: e6eab885e2bf9b64fa3f11e49174139b, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 172
+    y: 0
+    width: 41
+    height: 49
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/TombStone04.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 41
+    height: 49
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: TombStone04
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 41, y: 0, z: 0}
+  - {x: 41, y: -49, z: 0}
+  - {x: 0, y: -49, z: 0}
+  uvs:
+  - {x: .671875, y: 1}
+  - {x: .83203125, y: 1}
+  - {x: .83203125, y: .6171875}
+  - {x: .671875, y: .6171875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: TombStone05
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: e6eab885e2bf9b64fa3f11e49174139b, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 68
+    y: 0
+    width: 49
+    height: 42
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/TombStone05.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 49
+    height: 42
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: TombStone05
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 49, y: 0, z: 0}
+  - {x: 49, y: -42, z: 0}
+  - {x: 0, y: -42, z: 0}
+  uvs:
+  - {x: .265625, y: 1}
+  - {x: .45703125, y: 1}
+  - {x: .45703125, y: .671875}
+  - {x: .265625, y: .671875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: TombStone06
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: e6eab885e2bf9b64fa3f11e49174139b, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 120
+    y: 0
+    width: 49
+    height: 42
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/TombStone06.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 49
+    height: 42
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: TombStone06
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 49, y: 0, z: 0}
+  - {x: 49, y: -42, z: 0}
+  - {x: 0, y: -42, z: 0}
+  uvs:
+  - {x: .46875, y: 1}
+  - {x: .66015625, y: 1}
+  - {x: .66015625, y: .671875}
+  - {x: .46875, y: .671875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Lv2_1
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: 059cce8d2c0fddc46afe812c2711aff8, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 207
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv2/Lv2_1.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 207
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: Lv2_1
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 392, y: 0, z: 0}
+  - {x: 392, y: -207, z: 0}
+  - {x: 0, y: -207, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: 1.35041773e-08}
+  - {x: 0, y: 1.35041773e-08}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Lv2_2
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: c67783fbed8032c4394fcad2846487b3, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 181
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv2/Lv2_2.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 181
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: Lv2_2
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 392, y: 0, z: 0}
+  - {x: 392, y: -181, z: 0}
+  - {x: 0, y: -181, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: -3.86498868e-08}
+  - {x: 0, y: -3.86498868e-08}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Lv2_3
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: 8d4d6c98e43114042aff3eb047f02c62, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 244
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv2/Lv2_3.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 244
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: Lv2_3
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 392, y: 0, z: 0}
+  - {x: 392, y: -244, z: 0}
+  - {x: 0, y: -244, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: 5.58793545e-08}
+  - {x: 0, y: 5.58793545e-08}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: map2
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: 5075fe5db455fae409f5382048bc5ba5, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 348
+    height: 480
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv2/map02.png
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 348
+    height: 480
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: map2
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 348, y: 0, z: 0}
+  - {x: 348, y: -480, z: 0}
+  - {x: 0, y: -480, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: -5.21540642e-08}
+  - {x: 0, y: -5.21540642e-08}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: map3
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: f128dbcd6f89cdb41aeb7bc52e9a3296, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 348
+    height: 480
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv3/map03.png
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 348
+    height: 480
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: map3
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 348, y: 0, z: 0}
+  - {x: 348, y: -480, z: 0}
+  - {x: 0, y: -480, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: -5.21540642e-08}
+  - {x: 0, y: -5.21540642e-08}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Lv3_1
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: e9533535d7e5526488d5a44254a3e42f, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 206
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv3/Lv3_1.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 206
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: Lv3_1
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 392, y: 0, z: 0}
+  - {x: 392, y: -206, z: 0}
+  - {x: 0, y: -206, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: -9.31322575e-09}
+  - {x: 0, y: -9.31322575e-09}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Lv3_2
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: cd92689063649f842a0d5dc30eddedca, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 89
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv3/Lv3_2.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 89
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: Lv3_2
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 392, y: 0, z: 0}
+  - {x: 392, y: -89, z: 0}
+  - {x: 0, y: -89, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: -1.02445483e-08}
+  - {x: 0, y: -1.02445483e-08}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Lv3_3
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: d4da07abbe94ba245b61a6c731ac285f, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 53
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv3/Lv3_3.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 392
+    height: 53
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: Lv3_3
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 392, y: 0, z: 0}
+  - {x: 392, y: -53, z: 0}
+  - {x: 0, y: -53, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: -1.49011612e-08}
+  - {x: 0, y: -1.49011612e-08}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Pen_1
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: 53a0d10507972344fbe86f11c3a51b1e, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 86
+    height: 71
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/Pen_1.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 86
+    height: 71
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: Pen_1
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 86, y: 0, z: 0}
+  - {x: 86, y: -71, z: 0}
+  - {x: 0, y: -71, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: 1.86264515e-08}
+  - {x: 0, y: 1.86264515e-08}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Pen_2
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: 8c986977e9c1a484d81284121ad9c3f1, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 85
+    height: 46
+  parentName: Untitled Group
+  parentID: 9188
+  linkedTexturePath: Assets/Resources/BackGround/Lv1/EM/Pen_2.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 85
+    height: 46
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: Pen_2
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 85, y: 0, z: 0}
+  - {x: 85, y: -46, z: 0}
+  - {x: 0, y: -46, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  - {x: 1, y: -1.86264515e-08}
+  - {x: 0, y: -1.86264515e-08}
+  fullPath: 
+  useOrigSize: 0

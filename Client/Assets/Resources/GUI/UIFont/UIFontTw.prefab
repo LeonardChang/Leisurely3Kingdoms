@@ -1,0 +1,447 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: UIFontTw
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 1}
+  m_Name: 
+  material: {fileID: 2100000, guid: 86a025c1368d9e64da8f7b2d1f3619ac, type: 2}
+  sprites:
+  - name: Main_Btn_ZhanChang_Nor
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 255
+      width: 139
+      height: 155
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 255
+      width: 139
+      height: 155
+    paddingLeft: .100719422
+    paddingRight: .0935251787
+    paddingTop: .0387096778
+    paddingBottom: .0322580636
+  - name: Main_Btn_ZhanChang_Down
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 99
+      width: 139
+      height: 155
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 99
+      width: 139
+      height: 155
+    paddingLeft: .100719422
+    paddingRight: .0935251787
+    paddingTop: .0387096778
+    paddingBottom: .0322580636
+  - name: Panel_UnOpen
+    outer:
+      serializedVersion: 2
+      x: 785
+      y: 127
+      width: 148
+      height: 100
+    inner:
+      serializedVersion: 2
+      x: 785
+      y: 127
+      width: 148
+      height: 100
+    paddingLeft: .0270270277
+    paddingRight: .0270270277
+    paddingTop: 0
+    paddingBottom: .0399999991
+  - name: Main_Zombie_New
+    outer:
+      serializedVersion: 2
+      x: 140
+      y: 383
+      width: 71
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 140
+      y: 383
+      width: 71
+      height: 27
+    paddingLeft: .0563380271
+    paddingRight: .0563380271
+    paddingTop: .148148149
+    paddingBottom: .148148149
+  - name: Main_Btn_DiTu_Nor
+    outer:
+      serializedVersion: 2
+      x: 227
+      y: 52
+      width: 138
+      height: 148
+    inner:
+      serializedVersion: 2
+      x: 227
+      y: 52
+      width: 138
+      height: 148
+    paddingLeft: .101449274
+    paddingRight: .101449274
+    paddingTop: .0608108118
+    paddingBottom: .0608108118
+  - name: Main_Btn_ChenLieShi_Nor
+    outer:
+      serializedVersion: 2
+      x: 227
+      y: 357
+      width: 139
+      height: 155
+    inner:
+      serializedVersion: 2
+      x: 227
+      y: 357
+      width: 139
+      height: 155
+    paddingLeft: .0935251787
+    paddingRight: .100719422
+    paddingTop: .0387096778
+    paddingBottom: .0322580636
+  - name: Main_Btn_ShangDian_Down
+    outer:
+      serializedVersion: 2
+      x: 506
+      y: 368
+      width: 140
+      height: 144
+    inner:
+      serializedVersion: 2
+      x: 506
+      y: 368
+      width: 140
+      height: 144
+    paddingLeft: .0928571448
+    paddingRight: .0928571448
+    paddingTop: .0763888881
+    paddingBottom: .0763888881
+  - name: Main_Btn_DiTu_Down
+    outer:
+      serializedVersion: 2
+      x: 367
+      y: 364
+      width: 138
+      height: 148
+    inner:
+      serializedVersion: 2
+      x: 367
+      y: 364
+      width: 138
+      height: 148
+    paddingLeft: .101449274
+    paddingRight: .101449274
+    paddingTop: .0608108118
+    paddingBottom: .0608108118
+  - name: Main_Btn_ChenLieShi_Down
+    outer:
+      serializedVersion: 2
+      x: 227
+      y: 201
+      width: 139
+      height: 155
+    inner:
+      serializedVersion: 2
+      x: 227
+      y: 201
+      width: 139
+      height: 155
+    paddingLeft: .0935251787
+    paddingRight: .100719422
+    paddingTop: .0387096778
+    paddingBottom: .0322580636
+  - name: Main_Btn_ShangDian_Nor
+    outer:
+      serializedVersion: 2
+      x: 506
+      y: 223
+      width: 140
+      height: 144
+    inner:
+      serializedVersion: 2
+      x: 506
+      y: 223
+      width: 140
+      height: 144
+    paddingLeft: .0928571448
+    paddingRight: .0928571448
+    paddingTop: .0763888881
+    paddingBottom: .0763888881
+  - name: Main_NeedItem
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 12
+      width: 134
+      height: 40
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 12
+      width: 134
+      height: 40
+    paddingLeft: .0298507456
+    paddingRight: .0298507456
+    paddingTop: 0
+    paddingBottom: .100000001
+  - name: Panel_Collection_ShouJiDu
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 53
+      width: 137
+      height: 45
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 53
+      width: 137
+      height: 45
+    paddingLeft: .0291970801
+    paddingRight: .0291970801
+    paddingTop: .088888891
+    paddingBottom: .088888891
+  - name: Panel_Shop_Using
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 411
+      width: 226
+      height: 101
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 411
+      width: 226
+      height: 101
+    paddingLeft: .017699115
+    paddingRight: .017699115
+    paddingTop: .0396039598
+    paddingBottom: .0396039598
+  - name: Main_Bottom_ShiQi
+    outer:
+      serializedVersion: 2
+      x: 140
+      y: 359
+      width: 45
+      height: 23
+    inner:
+      serializedVersion: 2
+      x: 140
+      y: 359
+      width: 45
+      height: 23
+    paddingLeft: .088888891
+    paddingRight: .088888891
+    paddingTop: 0
+    paddingBottom: .173913047
+  - name: Main_Btn_DaoYu_Nor
+    outer:
+      serializedVersion: 2
+      x: 788
+      y: 373
+      width: 137
+      height: 139
+    inner:
+      serializedVersion: 2
+      x: 788
+      y: 373
+      width: 137
+      height: 139
+    paddingLeft: .109489053
+    paddingRight: .102189779
+    paddingTop: .100719422
+    paddingBottom: .0935251787
+  - name: Main_Btn_RiChang_Down
+    outer:
+      serializedVersion: 2
+      x: 367
+      y: 215
+      width: 138
+      height: 148
+    inner:
+      serializedVersion: 2
+      x: 367
+      y: 215
+      width: 138
+      height: 148
+    paddingLeft: .101449274
+    paddingRight: .101449274
+    paddingTop: .0608108118
+    paddingBottom: .0608108118
+  - name: Main_Btn_ChengJiu_Down
+    outer:
+      serializedVersion: 2
+      x: 647
+      y: 228
+      width: 137
+      height: 139
+    inner:
+      serializedVersion: 2
+      x: 647
+      y: 228
+      width: 137
+      height: 139
+    paddingLeft: .109489053
+    paddingRight: .102189779
+    paddingTop: .100719422
+    paddingBottom: .0935251787
+  - name: Main_Btn_DaoYu_Down
+    outer:
+      serializedVersion: 2
+      x: 647
+      y: 88
+      width: 137
+      height: 139
+    inner:
+      serializedVersion: 2
+      x: 647
+      y: 88
+      width: 137
+      height: 139
+    paddingLeft: .109489053
+    paddingRight: .102189779
+    paddingTop: .100719422
+    paddingBottom: .0935251787
+  - name: Main_Btn_RiChang_Nor
+    outer:
+      serializedVersion: 2
+      x: 367
+      y: 66
+      width: 138
+      height: 148
+    inner:
+      serializedVersion: 2
+      x: 367
+      y: 66
+      width: 138
+      height: 148
+    paddingLeft: .101449274
+    paddingRight: .101449274
+    paddingTop: .0608108118
+    paddingBottom: .0608108118
+  - name: Main_Btn_ChengJiu_Nor
+    outer:
+      serializedVersion: 2
+      x: 785
+      y: 228
+      width: 137
+      height: 139
+    inner:
+      serializedVersion: 2
+      x: 785
+      y: 228
+      width: 137
+      height: 139
+    paddingLeft: .109489053
+    paddingRight: .102189779
+    paddingTop: .100719422
+    paddingBottom: .0935251787
+  - name: Main_Btn_PaiHangBang_Nor
+    outer:
+      serializedVersion: 2
+      x: 506
+      y: 78
+      width: 140
+      height: 144
+    inner:
+      serializedVersion: 2
+      x: 506
+      y: 78
+      width: 140
+      height: 144
+    paddingLeft: .0928571448
+    paddingRight: .0928571448
+    paddingTop: .0763888881
+    paddingBottom: .0763888881
+  - name: Main_Btn_PaiHangBang_Down
+    outer:
+      serializedVersion: 2
+      x: 647
+      y: 368
+      width: 140
+      height: 144
+    inner:
+      serializedVersion: 2
+      x: 647
+      y: 368
+      width: 140
+      height: 144
+    paddingLeft: .0928571448
+    paddingRight: .0928571448
+    paddingTop: .0763888881
+    paddingBottom: .0763888881
+  - name: Main_LV
+    outer:
+      serializedVersion: 2
+      x: 186
+      y: 365
+      width: 35
+      height: 17
+    inner:
+      serializedVersion: 2
+      x: 186
+      y: 365
+      width: 35
+      height: 17
+    paddingLeft: .114285715
+    paddingRight: .114285715
+    paddingTop: .235294119
+    paddingBottom: .235294119
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

@@ -1,0 +1,406 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_HeiWuChang
+  spriteGroups:
+  - {fileID: 11400018}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: pai
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 36
+    y: 364
+    width: 26
+    height: 40
+  parentName: Untitled Group
+  parentID: 9008
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 26
+    height: 40
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 14, y: 34}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: pai
+  vertices:
+  - {x: -14, y: 34, z: 0}
+  - {x: 12, y: 34, z: 0}
+  - {x: 12, y: -6, z: 0}
+  - {x: -14, y: -6, z: 0}
+  uvs:
+  - {x: .03515625, y: .2890625}
+  - {x: .060546875, y: .2890625}
+  - {x: .060546875, y: .2109375}
+  - {x: .03515625, y: .2109375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: ShenTi
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 60
+    y: 156
+    width: 47
+    height: 63
+  parentName: Untitled Group
+  parentID: 9008
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 47
+    height: 63
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 21, y: 3}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: ShenTi
+  vertices:
+  - {x: -21, y: 3, z: 0}
+  - {x: 26, y: 3, z: 0}
+  - {x: 26, y: -60, z: 0}
+  - {x: -21, y: -60, z: 0}
+  uvs:
+  - {x: .05859375, y: .6953125}
+  - {x: .104492188, y: .6953125}
+  - {x: .104492188, y: .572265625}
+  - {x: .05859375, y: .572265625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: SheTou
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 296
+    y: 356
+    width: 24
+    height: 44
+  parentName: Untitled Group
+  parentID: 9008
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 24
+    height: 44
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 12, y: 4}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: SheTou
+  vertices:
+  - {x: -12, y: 4, z: 0}
+  - {x: 12, y: 4, z: 0}
+  - {x: 12, y: -40, z: 0}
+  - {x: -12, y: -40, z: 0}
+  uvs:
+  - {x: .2890625, y: .3046875}
+  - {x: .3125, y: .3046875}
+  - {x: .3125, y: .21875}
+  - {x: .2890625, y: .21875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: shouL
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 988
+    y: 60
+    width: 33
+    height: 44
+  parentName: Untitled Group
+  parentID: 9008
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 33
+    height: 44
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 5, y: 7}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: shouL
+  vertices:
+  - {x: -5, y: 7, z: 0}
+  - {x: 28, y: 7, z: 0}
+  - {x: 28, y: -37, z: 0}
+  - {x: -5, y: -37, z: 0}
+  uvs:
+  - {x: .96484375, y: .8828125}
+  - {x: .997070312, y: .8828125}
+  - {x: .997070312, y: .796875}
+  - {x: .96484375, y: .796875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: shouR
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 340
+    y: 324
+    width: 30
+    height: 41
+  parentName: Untitled Group
+  parentID: 9008
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 30
+    height: 41
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 20, y: 4}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: shouR
+  vertices:
+  - {x: -20, y: 4, z: 0}
+  - {x: 10, y: 4, z: 0}
+  - {x: 10, y: -37, z: 0}
+  - {x: -20, y: -37, z: 0}
+  uvs:
+  - {x: .33203125, y: .3671875}
+  - {x: .361328125, y: .3671875}
+  - {x: .361328125, y: .287109375}
+  - {x: .33203125, y: .287109375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: tou
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 228
+    y: 0
+    width: 83
+    height: 92
+  parentName: Untitled Group
+  parentID: 9008
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 83
+    height: 92
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 40.6666489, y: 82.6666718}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: tou
+  vertices:
+  - {x: -40.6666489, y: 82.6666718, z: 0}
+  - {x: 42.3333511, y: 82.6666718, z: 0}
+  - {x: 42.3333511, y: -9.33332825, z: 0}
+  - {x: -40.6666489, y: -9.33332825, z: 0}
+  uvs:
+  - {x: .22265625, y: 1}
+  - {x: .303710938, y: 1}
+  - {x: .303710938, y: .8203125}
+  - {x: .22265625, y: .8203125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: YuShan
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 384
+    y: 96
+    width: 53
+    height: 70
+  parentName: Untitled Group
+  parentID: 9008
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 53
+    height: 70
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 6, y: 65}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: YuShan
+  vertices:
+  - {x: -6, y: 65, z: 0}
+  - {x: 47, y: 65, z: 0}
+  - {x: 47, y: -5, z: 0}
+  - {x: -6, y: -5, z: 0}
+  uvs:
+  - {x: .375, y: .8125}
+  - {x: .426757812, y: .8125}
+  - {x: .426757812, y: .67578125}
+  - {x: .375, y: .67578125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: zui
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 576
+    y: 312
+    width: 43
+    height: 30
+  parentName: Untitled Group
+  parentID: 9008
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 43
+    height: 30
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 22, y: 7}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: zui
+  vertices:
+  - {x: -22, y: 7, z: 0}
+  - {x: 21, y: 7, z: 0}
+  - {x: 21, y: -23, z: 0}
+  - {x: -22, y: -23, z: 0}
+  uvs:
+  - {x: .5625, y: .390625}
+  - {x: .604492188, y: .390625}
+  - {x: .604492188, y: .33203125}
+  - {x: .5625, y: .33203125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400006}
+  - {fileID: 11400008}
+  - {fileID: 11400010}
+  - {fileID: 11400012}
+  - {fileID: 11400014}
+  - {fileID: 11400016}
+  parentName: Ku_HeiWuChang
+  isExpand: 1
+  groupName: Untitled Group

@@ -1,0 +1,278 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: choujiang
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 1}
+  m_Name: 
+  material: {fileID: 2100000, guid: 6be217e3995596f4bb8aa906faa95c53, type: 2}
+  sprites:
+  - name: "\u62BD\u5956"
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 640
+      height: 960
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 640
+      height: 960
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: beijinkuang
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 394
+      width: 469
+      height: 630
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 394
+      width: 469
+      height: 630
+    paddingLeft: .00852878485
+    paddingRight: .00852878485
+    paddingTop: .00634920644
+    paddingBottom: .00634920644
+  - name: biaotikuang
+    outer:
+      serializedVersion: 2
+      x: 1111
+      y: 954
+      width: 527
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 1111
+      y: 954
+      width: 527
+      height: 70
+    paddingLeft: .00759013277
+    paddingRight: .00759013277
+    paddingTop: .0571428575
+    paddingBottom: .0571428575
+  - name: shizijia
+    outer:
+      serializedVersion: 2
+      x: 984
+      y: 305
+      width: 73
+      height: 88
+    inner:
+      serializedVersion: 2
+      x: 984
+      y: 305
+      width: 73
+      height: 88
+    paddingLeft: .0547945201
+    paddingRight: .0547945201
+    paddingTop: .0454545468
+    paddingBottom: .0454545468
+  - name: shizijia2
+    outer:
+      serializedVersion: 2
+      x: 909
+      y: 305
+      width: 74
+      height: 88
+    inner:
+      serializedVersion: 2
+      x: 909
+      y: 305
+      width: 74
+      height: 88
+    paddingLeft: .0540540554
+    paddingRight: .0540540554
+    paddingTop: .0454545468
+    paddingBottom: .0454545468
+  - name: meirichoujiang
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 6
+      width: 233
+      height: 57
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 6
+      width: 233
+      height: 57
+    paddingLeft: .0171673819
+    paddingRight: .0171673819
+    paddingTop: .0701754391
+    paddingBottom: .0701754391
+  - name: moneypai
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 217
+      width: 133
+      height: 176
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 217
+      width: 133
+      height: 176
+    paddingLeft: .0300751887
+    paddingRight: .0300751887
+    paddingTop: .0227272734
+    paddingBottom: .0227272734
+  - name: baoshipai
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 40
+      width: 133
+      height: 176
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 40
+      width: 133
+      height: 176
+    paddingLeft: .0300751887
+    paddingRight: .0300751887
+    paddingTop: .0227272734
+    paddingBottom: .0227272734
+  - name: paidi
+    outer:
+      serializedVersion: 2
+      x: 775
+      y: 217
+      width: 133
+      height: 176
+    inner:
+      serializedVersion: 2
+      x: 775
+      y: 217
+      width: 133
+      height: 176
+    paddingLeft: .0300751887
+    paddingRight: .0300751887
+    paddingTop: .0227272734
+    paddingBottom: .0227272734
+  - name: 9
+    outer:
+      serializedVersion: 2
+      x: 234
+      y: 31
+      width: 35
+      height: 32
+    inner:
+      serializedVersion: 2
+      x: 234
+      y: 31
+      width: 35
+      height: 32
+    paddingLeft: .114285715
+    paddingRight: .114285715
+    paddingTop: .125
+    paddingBottom: .125
+  - name: start_nor
+    outer:
+      serializedVersion: 2
+      x: 775
+      y: 53
+      width: 240
+      height: 81
+    inner:
+      serializedVersion: 2
+      x: 775
+      y: 53
+      width: 240
+      height: 81
+    paddingLeft: .0166666675
+    paddingRight: .0166666675
+    paddingTop: .0493827164
+    paddingBottom: .0493827164
+  - name: start_down
+    outer:
+      serializedVersion: 2
+      x: 1111
+      y: 872
+      width: 240
+      height: 81
+    inner:
+      serializedVersion: 2
+      x: 1111
+      y: 872
+      width: 240
+      height: 81
+    paddingLeft: .0166666675
+    paddingRight: .0166666675
+    paddingTop: .0493827164
+    paddingBottom: .0493827164
+  - name: start_nor 1
+    outer:
+      serializedVersion: 2
+      x: 775
+      y: 135
+      width: 240
+      height: 81
+    inner:
+      serializedVersion: 2
+      x: 775
+      y: 135
+      width: 240
+      height: 81
+    paddingLeft: .0166666675
+    paddingRight: .0166666675
+    paddingTop: .0493827164
+    paddingBottom: .0493827164
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

@@ -1,0 +1,406 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: ku_Dudou_mini
+  spriteGroups:
+  - {fileID: 11400018}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 788
+    y: 392
+    width: 32
+    height: 26
+  parentName: Untitled Group
+  parentID: 1040
+  linkedTexturePath: "Assets/lc/zhongguoJS/DudouJS/\u53F3\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 32
+    height: 26
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 3, y: 10}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u624B"
+  vertices:
+  - {x: -3, y: 10, z: 0}
+  - {x: 29, y: 10, z: 0}
+  - {x: 29, y: -16, z: 0}
+  - {x: -3, y: -16, z: 0}
+  uvs:
+  - {x: .76953125, y: .234375}
+  - {x: .80078125, y: .234375}
+  - {x: .80078125, y: .18359375}
+  - {x: .76953125, y: .18359375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u811A"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 304
+    y: 404
+    width: 19
+    height: 24
+  parentName: Untitled Group
+  parentID: 1040
+  linkedTexturePath: "Assets/lc/zhongguoJS/DudouJS/\u53F3\u811A.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 19
+    height: 24
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 7, y: 10}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u811A"
+  vertices:
+  - {x: -7, y: 10, z: 0}
+  - {x: 12, y: 10, z: 0}
+  - {x: 12, y: -14, z: 0}
+  - {x: -7, y: -14, z: 0}
+  uvs:
+  - {x: .296875, y: .2109375}
+  - {x: .315429688, y: .2109375}
+  - {x: .315429688, y: .1640625}
+  - {x: .296875, y: .1640625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u8FB9\u80E1\u5B50"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 804
+    y: 456
+    width: 22
+    height: 16
+  parentName: Untitled Group
+  parentID: 1040
+  linkedTexturePath: "Assets/lc/zhongguoJS/DudouJS/\u53F3\u8FB9\u80E1\u5B50.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 22
+    height: 16
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 11, y: 12}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u8FB9\u80E1\u5B50"
+  vertices:
+  - {x: -11, y: 12, z: 0}
+  - {x: 11, y: 12, z: 0}
+  - {x: 11, y: -4, z: 0}
+  - {x: -11, y: -4, z: 0}
+  uvs:
+  - {x: .78515625, y: .109375}
+  - {x: .806640625, y: .109375}
+  - {x: .806640625, y: .078125}
+  - {x: .78515625, y: .078125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 572
+    y: 212
+    width: 45
+    height: 51
+  parentName: Untitled Group
+  parentID: 1040
+  linkedTexturePath: "Assets/lc/zhongguoJS/DudouJS/\u5934.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 45
+    height: 51
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 21, y: 29}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934"
+  vertices:
+  - {x: -21, y: 29, z: 0}
+  - {x: 24, y: 29, z: 0}
+  - {x: 24, y: -22, z: 0}
+  - {x: -21, y: -22, z: 0}
+  uvs:
+  - {x: .55859375, y: .5859375}
+  - {x: .602539062, y: .5859375}
+  - {x: .602539062, y: .486328125}
+  - {x: .55859375, y: .486328125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 648
+    y: 424
+    width: 29
+    height: 20
+  parentName: Untitled Group
+  parentID: 1040
+  linkedTexturePath: "Assets/lc/zhongguoJS/DudouJS/\u5DE6\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 29
+    height: 20
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 12, y: 14}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u624B"
+  vertices:
+  - {x: -12, y: 14, z: 0}
+  - {x: 17, y: 14, z: 0}
+  - {x: 17, y: -6, z: 0}
+  - {x: -12, y: -6, z: 0}
+  uvs:
+  - {x: .6328125, y: .171875}
+  - {x: .661132812, y: .171875}
+  - {x: .661132812, y: .1328125}
+  - {x: .6328125, y: .1328125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u811A"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 60
+    y: 436
+    width: 20
+    height: 25
+  parentName: Untitled Group
+  parentID: 1040
+  linkedTexturePath: "Assets/lc/zhongguoJS/DudouJS/\u5DE6\u811A.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 20
+    height: 25
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 12, y: 1}
+  position: {x: 0, y: 8}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u811A"
+  vertices:
+  - {x: -12, y: 9, z: 0}
+  - {x: 8, y: 9, z: 0}
+  - {x: 8, y: -16, z: 0}
+  - {x: -12, y: -16, z: 0}
+  uvs:
+  - {x: .05859375, y: .1484375}
+  - {x: .078125, y: .1484375}
+  - {x: .078125, y: .099609375}
+  - {x: .05859375, y: .099609375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u8FB9\u80E1\u5B50"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 928
+    y: 456
+    width: 17
+    height: 17
+  parentName: Untitled Group
+  parentID: 1040
+  linkedTexturePath: "Assets/lc/zhongguoJS/DudouJS/\u5DE6\u8FB9\u80E1\u5B50.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 17
+    height: 17
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 1, y: 10}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u8FB9\u80E1\u5B50"
+  vertices:
+  - {x: -1, y: 10, z: 0}
+  - {x: 16, y: 10, z: 0}
+  - {x: 16, y: -7, z: 0}
+  - {x: -1, y: -7, z: 0}
+  uvs:
+  - {x: .90625, y: .109375}
+  - {x: .922851562, y: .109375}
+  - {x: .922851562, y: .076171875}
+  - {x: .90625, y: .076171875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u8EAB\u4F53"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 788
+    y: 420
+    width: 25
+    height: 25
+  parentName: Untitled Group
+  parentID: 1040
+  linkedTexturePath: "Assets/lc/zhongguoJS/DudouJS/\u8EAB\u4F53.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 25
+    height: 25
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 15, y: 11}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u8EAB\u4F53"
+  vertices:
+  - {x: -15, y: 11, z: 0}
+  - {x: 10, y: 11, z: 0}
+  - {x: 10, y: -14, z: 0}
+  - {x: -15, y: -14, z: 0}
+  uvs:
+  - {x: .76953125, y: .1796875}
+  - {x: .793945312, y: .1796875}
+  - {x: .793945312, y: .130859375}
+  - {x: .76953125, y: .130859375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400006}
+  - {fileID: 11400008}
+  - {fileID: 11400010}
+  - {fileID: 11400012}
+  - {fileID: 11400014}
+  - {fileID: 11400016}
+  parentName: ku_Dudou_mini
+  isExpand: 1
+  groupName: Untitled Group

@@ -1,0 +1,3708 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 701211621, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: DH_Gongcheng_bachu3
+  dataFormatVersion: .469999999
+  _length: .300000012
+  wrapMode: 2
+  frameRate: 20
+  root:
+    name: root
+    layer: 4
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 0, y: 0}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 0
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 1
+      defaultValue: 0
+    parentIndex: -2
+    index: -1
+    children: 03000000
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: /root
+    _fullPathHash: 46911889
+    _maxIndex: 0
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  events: []
+  subComponents:
+  - name: 
+    layer: 0
+    keyFrames: []
+    curves: []
+    parentIndex: 0
+    index: 0
+    children: 
+    locked: 0
+    expand: 0
+    showCurve: 0
+    visible: 0
+    rotateLock: 0
+    minRotateAngle: 0
+    maxRotateAngle: 0
+    _fullPath: 
+    _fullPathHash: 0
+    _maxIndex: 0
+    _length: 0
+    clip: {fileID: 0}
+    childs: []
+  - name: "\u5DE6\u811A"
+    layer: 13
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400020, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 6.24027967, y: -11.589139}
+      rotation: -38
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 13
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 11400020, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 6.24031115, y: -11.5891495}
+      rotation: 7
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 13
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 11400020, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 6.24027967, y: -11.589139}
+      rotation: -38
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 13
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 11400020, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 6.24027967, y: -11.589139}
+      rotation: -38
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 13
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 6.24027967
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 6.24031115
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 6.24027967
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 6.24027967
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: 6.24027967
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -11.589139
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -11.5891495
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -11.589139
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -11.589139
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: -11.589139
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -38
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 7
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -38
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -38
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: -38
+    parentIndex: 24
+    index: 1
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u4E0B\u8EAB/\u5DE6\u811A/\u5DE6\u811A"
+    _fullPathHash: 2073396814
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u5DE6\u817F"
+    layer: 12
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400024, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -.891470432, y: .891474128}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 12
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 11400024, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -.891470432, y: .891474128}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 12
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 2
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -.891470432
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -.891470432
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 0
+      defaultValue: -.891470432
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: .891474128
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: .891474128
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 0
+      defaultValue: .891474128
+    parentIndex: 24
+    index: 2
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u4E0B\u8EAB/\u5DE6\u811A/\u5DE6\u817F"
+    _fullPathHash: 2073396915
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u50F5\u5C38"
+    layer: 4
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 5.32818508, y: 111.00383}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 1
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 5.32818508
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 0
+      defaultValue: 5.32818508
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 111.00383
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 0
+      defaultValue: 111.00383
+    parentIndex: -1
+    index: 3
+    children: 0a0000000500000007000000
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38"
+    _fullPathHash: 1688425249
+    _maxIndex: 0
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u5DE6\u624B"
+    layer: 4
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 30.5524502, y: 55.4326553}
+      rotation: 5.00000191
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 30.5524483, y: 55.4326286}
+      rotation: -21
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 30.5524483, y: 55.4326286}
+      rotation: 52
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 30.5524502, y: 55.4326553}
+      rotation: 5.00000191
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 30.5524502
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 30.5524483
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 30.5524483
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 30.5524502
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: 30.5524502
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 55.4326553
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 55.4326286
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 55.4326286
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 55.4326553
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: 55.4326553
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 5.00000191
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -21
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 52
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 5.00000191
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: 5.00000191
+    parentIndex: 5
+    index: 4
+    children: 0900000008000000
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u8EAB\u4F53/\u5DE6\u624B"
+    _fullPathHash: -469157346
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u8EAB\u4F53"
+    layer: 4
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 0, y: 0}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 1
+      defaultValue: 0
+    parentIndex: 3
+    index: 5
+    children: 0600000004000000100000001100000012000000
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u8EAB\u4F53"
+    _fullPathHash: 1515787190
+    _maxIndex: 0
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u8EAB\u4F53"
+    layer: 8
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400036, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 2.2325561, y: 70.3413467}
+      rotation: -9.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 8
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 11400036, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 2.23255634, y: 70.3413544}
+      rotation: 8
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 8
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 11400036, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 2.23255658, y: 70.3413467}
+      rotation: 33
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 8
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 11400036, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 2.2325561, y: 70.3413467}
+      rotation: -9.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 8
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 2.2325561
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 2.23255634
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 2.23255658
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 2.2325561
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: 2.2325561
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 70.3413467
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 70.3413544
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 70.3413467
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 70.3413467
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: 70.3413467
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -9.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 8
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 33
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -9.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: -9.5
+    parentIndex: 5
+    index: 6
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u8EAB\u4F53/\u8EAB\u4F53"
+    _fullPathHash: -468775167
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u4E0B\u8EAB"
+    layer: 4
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -13.3270082, y: .139005661}
+      rotation: 5.99999905
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 5.67299366, y: .139007568}
+      rotation: 17.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 35.0438843, y: 9.64129066}
+      rotation: 46
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -13.3270082, y: .139005661}
+      rotation: 5.99999905
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -13.3270082
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 5.67299366
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 35.0438843
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -13.3270082
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: -13.3270082
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: .139005661
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: .139007568
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 9.64129066
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: .139005661
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: .139005661
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 5.99999905
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 17.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 46
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 5.99999905
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: 5.99999905
+    parentIndex: 3
+    index: 7
+    children: 1500000018000000
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u4E0B\u8EAB"
+    _fullPathHash: 1515290542
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u5DE6\u624B\u81C2"
+    layer: 1
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400026, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 2.2540319, y: .170855433}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 1
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 1
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 2.2540319
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 0
+      defaultValue: 2.2540319
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: .170855433
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 0
+      defaultValue: .170855433
+    parentIndex: 4
+    index: 8
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u8EAB\u4F53/\u5DE6\u624B/\u5DE6\u624B\u81C2"
+    _fullPathHash: -335200820
+    _maxIndex: 0
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u5DE6\u624B\u8155"
+    layer: 1
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400022, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 11.4091454, y: -24.5283527}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 1
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 11400022, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 11.4091434, y: -24.5283813}
+      rotation: -7
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 1
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 11400022, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 11.4091482, y: -24.5283585}
+      rotation: -26
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 1
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 11400022, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 11.4091454, y: -24.5283527}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 1
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 11.4091454
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 11.4091434
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 11.4091482
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 11.4091454
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: 11.4091454
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -24.5283527
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -24.5283813
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -24.5283585
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -24.5283527
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: -24.5283527
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -7
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -26
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    parentIndex: 4
+    index: 9
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u8EAB\u4F53/\u5DE6\u624B/\u5DE6\u624B\u8155"
+    _fullPathHash: -335200929
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u5934"
+    layer: 5
+    keyFrames:
+    - frameIndex: 0
+      time: 1
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -2.08547902, y: 50.2006721}
+      rotation: -5.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 5
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: .203066021, y: 50.2006607}
+      rotation: 15.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 5
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 6.5530324, y: 53.6560516}
+      rotation: 36.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 5
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -2.08547902, y: 50.2006721}
+      rotation: -5.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 5
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -2.08547902
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: .203066021
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 6.5530324
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -2.08547902
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: -2.08547902
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 50.2006721
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 50.2006607
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 53.6560516
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 50.2006721
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: 50.2006721
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -5.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 15.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 36.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -5.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: -5.5
+    parentIndex: 3
+    index: 10
+    children: 0b0000000c0000000d0000000e0000000f000000
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u5934"
+    _fullPathHash: -920949306
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u5934"
+    layer: 5
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400016, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: .172890693, y: 9.9032402}
+      rotation: -3
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 5
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 11400016, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: .172890693, y: 9.9032402}
+      rotation: -3
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 5
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 2
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: .172890693
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: .172890693
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 0
+      defaultValue: .172890693
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 9.9032402
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 9.9032402
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 0
+      defaultValue: 9.9032402
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -3
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -3
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 0
+      defaultValue: -3
+    parentIndex: 10
+    index: 11
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u5934/\u5934"
+    _fullPathHash: -268995797
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u5634"
+    layer: 6
+    keyFrames:
+    - frameIndex: 0
+      time: 1
+      sprite: {fileID: 11400014, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 1.40139043, y: 8.1632843}
+      rotation: 0
+      scale: {x: 1, y: 1.10677862}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 6
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 11400014, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 1.40137351, y: 8.16337395}
+      rotation: 0
+      scale: {x: 1, y: 1.50841832}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 6
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 11400014, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 1.40139043, y: 8.1632843}
+      rotation: 0
+      scale: {x: 1, y: 1.10677862}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 6
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 11400014, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 1.40139043, y: 8.1632843}
+      rotation: 0
+      scale: {x: 1, y: 1.10677862}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 6
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 1.40139043
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 1.40137351
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 1.40139043
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 1.40139043
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: 1.40139043
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 8.1632843
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 8.16337395
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 8.1632843
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 8.1632843
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: 8.1632843
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 1.10677862
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 1.50841832
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 1.10677862
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 1.10677862
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 5
+      interpolation: 1
+      length: 4
+      defaultValue: 1.10677862
+    parentIndex: 10
+    index: 12
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u5934/\u5634"
+    _fullPathHash: -268996565
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u5934\u76D4"
+    layer: 2
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400018, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 7.58952188, y: 38.0484467}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 2
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 1
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 7.58952188
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 0
+      defaultValue: 7.58952188
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 38.0484467
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 0
+      defaultValue: 38.0484467
+    parentIndex: 10
+    index: 13
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u5934/\u5934\u76D4"
+    _fullPathHash: 251095305
+    _maxIndex: 0
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u80E1\u5B501"
+    layer: 3
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400032, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -4.41469717, y: 14.714427}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 3
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 1
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -4.41469717
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 0
+      defaultValue: -4.41469717
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 14.714427
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 0
+      defaultValue: 14.714427
+    parentIndex: 10
+    index: 14
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u5934/\u80E1\u5B501"
+    _fullPathHash: -796437575
+    _maxIndex: 0
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u80E1\u5B502"
+    layer: 4
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400034, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 6.08168554, y: 10.6555796}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 1
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 6.08168554
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 0
+      defaultValue: 6.08168554
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 10.6555796
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 0
+      defaultValue: 10.6555796
+    parentIndex: 10
+    index: 15
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u5934/\u80E1\u5B502"
+    _fullPathHash: -796437574
+    _maxIndex: 0
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u5DE6\u76D4\u7532"
+    layer: 0
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400030, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 33.3503838, y: 60.9739494}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 0
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 11400030, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 25.7118835, y: 63.5183258}
+      rotation: -3
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 0
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 11400030, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 29.8949852, y: 62.7014961}
+      rotation: 30.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 0
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 11400030, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: 33.3503838, y: 60.9739494}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 0
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 33.3503838
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 25.7118835
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 29.8949852
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 33.3503838
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: 33.3503838
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 60.9739494
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 63.5183258
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 62.7014961
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 60.9739494
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: 60.9739494
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -3
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 30.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    parentIndex: 5
+    index: 16
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u8EAB\u4F53/\u5DE6\u76D4\u7532"
+    _fullPathHash: -1658782869
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u53F3\u76D4\u7532"
+    layer: 7
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400028, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -20.8860741, y: 72.4274979}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 7
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 11400028, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -20.8860741, y: 75.4275055}
+      rotation: -10
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 7
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 11400028, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -20.8860741, y: 72.4274979}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 7
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 11400028, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -20.8860741, y: 72.4274979}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 7
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -20.8860741
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -20.8860741
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -20.8860741
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -20.8860741
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 0
+      defaultValue: -20.8860741
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 72.4274979
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 75.4275055
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 72.4274979
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 72.4274979
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: 72.4274979
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -10
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    parentIndex: 5
+    index: 17
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u8EAB\u4F53/\u53F3\u76D4\u7532"
+    _fullPathHash: -1661230536
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u53F3\u624B"
+    layer: 4
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -33.6951332, y: 54.7545853}
+      rotation: 10.5000019
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -33.6951256, y: 63.8014603}
+      rotation: -22.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -33.6951256, y: 54.7545929}
+      rotation: -4.49999809
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -33.6951332, y: 54.7545853}
+      rotation: 10.5000019
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -33.6951332
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -33.6951256
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -33.6951256
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -33.6951332
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: -33.6951332
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 54.7545853
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 63.8014603
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 54.7545929
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 54.7545853
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: 54.7545853
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 10.5000019
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -22.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -4.49999809
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 10.5000019
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: 10.5000019
+    parentIndex: 5
+    index: 18
+    children: 1300000014000000
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u8EAB\u4F53/\u53F3\u624B"
+    _fullPathHash: -469236303
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u53F3\u81C2"
+    layer: 18
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400010, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -2.68703103, y: 2.03259182}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 18
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 1
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -2.68703103
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 0
+      defaultValue: -2.68703103
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 2.03259182
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 0
+      defaultValue: 2.03259182
+    parentIndex: 18
+    index: 19
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u8EAB\u4F53/\u53F3\u624B/\u53F3\u81C2"
+    _fullPathHash: 1100590413
+    _maxIndex: 0
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u53F3\u7897"
+    layer: 17
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400006, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -2.42209315, y: -7.06300163}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 17
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 11400006, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -2.42198563, y: -7.06300211}
+      rotation: 18.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 17
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 11400006, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -2.42210364, y: -7.06300449}
+      rotation: 25.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 17
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 11400006, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -2.42209315, y: -7.06300163}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 17
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -2.42209315
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -2.42198563
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -2.42210364
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -2.42209315
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: -2.42209315
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -7.06300163
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -7.06300211
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -7.06300449
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -7.06300163
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: -7.06300163
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 18.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 25.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    parentIndex: 18
+    index: 20
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u8EAB\u4F53/\u53F3\u624B/\u53F3\u7897"
+    _fullPathHash: 1100588066
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u53F3\u811A"
+    layer: 4
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -5.74147224, y: 12.9268122}
+      rotation: 15.500001
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -5.74157667, y: 12.9268446}
+      rotation: -32.5
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -5.74147224, y: 12.9268122}
+      rotation: 15.500001
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: -5.74147224, y: 12.9268122}
+      rotation: 15.500001
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 4
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -5.74147224
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -5.74157667
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -5.74147224
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -5.74147224
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: -5.74147224
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 12.9268122
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 12.9268446
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 12.9268122
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 12.9268122
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: 12.9268122
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 15.500001
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -32.5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 15.500001
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 15.500001
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: 15.500001
+    parentIndex: 7
+    index: 21
+    children: 1600000017000000
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u4E0B\u8EAB/\u53F3\u811A"
+    _fullPathHash: 1915000200
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u53F3\u817F"
+    layer: 10
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400008, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -.445745796, y: 1.33720934}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 10
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 1
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -.445745796
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 0
+      defaultValue: -.445745796
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 1.33720934
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 0
+      defaultValue: 1.33720934
+    parentIndex: 21
+    index: 22
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u4E0B\u8EAB/\u53F3\u811A/\u53F3\u817F"
+    _fullPathHash: -278890029
+    _maxIndex: 0
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u53F3\u811A"
+    layer: 11
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 11400004, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -5.34885502, y: -11.1434164}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 11
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 11400004, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -5.34861422, y: -11.1442442}
+      rotation: -30
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 11
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 11400004, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -5.34885502, y: -11.1434164}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 11
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 11400004, guid: 5182ad4fe1b2aae468c1c4e7f5ddc9b3, type: 2}
+      isSpriteValid: 1
+      position: {x: -5.34885502, y: -11.1434164}
+      rotation: 0
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 11
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -5.34885502
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -5.34861422
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -5.34885502
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -5.34885502
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: -5.34885502
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: -11.1434164
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -11.1442442
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: -11.1434164
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: -11.1434164
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: -11.1434164
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: -30
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    parentIndex: 21
+    index: 23
+    children: 
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u4E0B\u8EAB/\u53F3\u811A/\u53F3\u811A"
+    _fullPathHash: -278890130
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  - name: "\u5DE6\u811A"
+    layer: 11
+    keyFrames:
+    - frameIndex: 0
+      time: 0
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 8.11126614, y: 4.95165396}
+      rotation: 7.50000095
+      scale: {x: 1, y: .901813328}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 11
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 2
+      time: .100000001
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 8.11123466, y: 4.95165634}
+      rotation: 23
+      scale: {x: 1, y: 1}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 11
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 4
+      time: .200000003
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 8.11126614, y: 4.95165396}
+      rotation: 7.50000095
+      scale: {x: 1, y: .901813328}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 11
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    - frameIndex: 6
+      time: .300000012
+      sprite: {fileID: 0}
+      isSpriteValid: 0
+      position: {x: 8.11126614, y: 4.95165396}
+      rotation: 7.50000095
+      scale: {x: 1, y: .901813328}
+      shear: {x: 0, y: 0}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      depth: 11
+      refClip: {fileID: 0}
+      refClipStartFrame: 0
+      refClipPlaySpeed: 1
+      isRefClip: 0
+    curves:
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: -.00100000005
+          value: .00499999989
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .0989999995
+          value: 1.005
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .199000001
+          value: 2.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        - time: .299000025
+          value: 3.00500011
+          inSlope: Infinity
+          outSlope: -Infinity
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 0
+      interpolation: 1
+      length: 4
+      defaultValue: 0
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 8.11126614
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 8.11123466
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 8.11126614
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 8.11126614
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 1
+      interpolation: 1
+      length: 4
+      defaultValue: 8.11126614
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 4.95165396
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 4.95165634
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 4.95165396
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 4.95165396
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 2
+      interpolation: 1
+      length: 4
+      defaultValue: 4.95165396
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 7.50000095
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 23
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: 7.50000095
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: 7.50000095
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 3
+      interpolation: 1
+      length: 4
+      defaultValue: 7.50000095
+    - name: 
+      curve:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: .901813328
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .100000001
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .200000003
+          value: .901813328
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .300000012
+          value: .901813328
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      type: 5
+      interpolation: 1
+      length: 4
+      defaultValue: .901813328
+    parentIndex: 7
+    index: 24
+    children: 0200000001000000
+    locked: 0
+    expand: 1
+    showCurve: 0
+    visible: 1
+    rotateLock: 0
+    minRotateAngle: -3600
+    maxRotateAngle: 3600
+    _fullPath: "/root/\u50F5\u5C38/\u4E0B\u8EAB/\u5DE6\u811A"
+    _fullPathHash: 1915079157
+    _maxIndex: 6
+    _length: 0
+    clip: {fileID: 11400000}
+    childs: []
+  playingCurve:
+    startTime: 0
+    endTime: .300000012
+    startValue: 0
+    endValue: 6.05100012
+    wrapMode: 1
+  tick: .0500000007
+  maxFrameIndex: 6

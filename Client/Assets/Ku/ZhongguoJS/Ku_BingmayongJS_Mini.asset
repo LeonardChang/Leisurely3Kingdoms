@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_BingmayongJS_Mini
+  spriteGroups:
+  - {fileID: 11400004}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5175\u9A6C\u4FD1"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 528
+    y: 144
+    width: 43
+    height: 77
+  parentName: Untitled Group
+  parentID: 4386
+  linkedTexturePath: "Assets/lc/zhongguoJS/BingmayongJS/\u5175\u9A6C\u4FD1.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 43
+    height: 77
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 21, y: 42}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5175\u9A6C\u4FD1"
+  vertices:
+  - {x: -21, y: 42, z: 0}
+  - {x: 22, y: 42, z: 0}
+  - {x: 22, y: -35, z: 0}
+  - {x: -21, y: -35, z: 0}
+  uvs:
+  - {x: .515625, y: .71875}
+  - {x: .557617188, y: .71875}
+  - {x: .557617188, y: .568359375}
+  - {x: .515625, y: .568359375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400006}
+  parentName: Ku_BingmayongJS_Mini
+  isExpand: 1
+  groupName: Untitled Group
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5F71\u5B501"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 448
+    y: 424
+    width: 31
+    height: 19
+  parentName: Untitled Group
+  parentID: 4386
+  linkedTexturePath: "Assets/lc/zhongguoJS/BingmayongJS/\u5F71\u5B501.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 31
+    height: 19
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 13, y: 2}
+  position: {x: -2, y: 6}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5F71\u5B501"
+  vertices:
+  - {x: -15, y: 8, z: 0}
+  - {x: 16, y: 8, z: 0}
+  - {x: 16, y: -11, z: 0}
+  - {x: -15, y: -11, z: 0}
+  uvs:
+  - {x: .4375, y: .171875}
+  - {x: .467773438, y: .171875}
+  - {x: .467773438, y: .134765625}
+  - {x: .4375, y: .134765625}
+  fullPath: 
+  useOrigSize: 0

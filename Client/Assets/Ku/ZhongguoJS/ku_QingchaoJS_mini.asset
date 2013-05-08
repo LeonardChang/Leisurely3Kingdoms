@@ -1,0 +1,359 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: ku_QingchaoJS_mini
+  spriteGroups:
+  - {fileID: 11400016}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 988
+    y: 432
+    width: 20
+    height: 25
+  parentName: Untitled Group
+  parentID: 5986
+  linkedTexturePath: "Assets/lc/zhongguoJS/QinchaoJS/\u53F3\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 20
+    height: 25
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 9, y: 3}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u624B"
+  vertices:
+  - {x: -9, y: 3, z: 0}
+  - {x: 11, y: 3, z: 0}
+  - {x: 11, y: -22, z: 0}
+  - {x: -9, y: -22, z: 0}
+  uvs:
+  - {x: .96484375, y: .15625}
+  - {x: .984375, y: .15625}
+  - {x: .984375, y: .107421875}
+  - {x: .96484375, y: .107421875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u624B\u81C2"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 600
+    y: 368
+    width: 18
+    height: 19
+  parentName: Untitled Group
+  parentID: 5986
+  linkedTexturePath: "Assets/lc/zhongguoJS/QinchaoJS/\u53F3\u624B\u81C2.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 19
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 7, y: 2}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u624B\u81C2"
+  vertices:
+  - {x: -7, y: 2, z: 0}
+  - {x: 11, y: 2, z: 0}
+  - {x: 11, y: -17, z: 0}
+  - {x: -7, y: -17, z: 0}
+  uvs:
+  - {x: .5859375, y: .28125}
+  - {x: .603515625, y: .28125}
+  - {x: .603515625, y: .244140625}
+  - {x: .5859375, y: .244140625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5492\u7B26"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 440
+    y: 96
+    width: 23
+    height: 39
+  parentName: Untitled Group
+  parentID: 5986
+  linkedTexturePath: "Assets/lc/zhongguoJS/QinchaoJS/\u5492\u7B26.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 23
+    height: 39
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 10, y: 8}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5492\u7B26"
+  vertices:
+  - {x: -10, y: 8, z: 0}
+  - {x: 13, y: 8, z: 0}
+  - {x: 13, y: -31, z: 0}
+  - {x: -10, y: -31, z: 0}
+  uvs:
+  - {x: .4296875, y: .8125}
+  - {x: .452148438, y: .8125}
+  - {x: .452148438, y: .736328125}
+  - {x: .4296875, y: .736328125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 132
+    y: 140
+    width: 60
+    height: 57
+  parentName: Untitled Group
+  parentID: 5986
+  linkedTexturePath: "Assets/lc/zhongguoJS/QinchaoJS/\u5934.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 60
+    height: 57
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 41, y: 38}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934"
+  vertices:
+  - {x: -41, y: 38, z: 0}
+  - {x: 19, y: 38, z: 0}
+  - {x: 19, y: -19, z: 0}
+  - {x: -41, y: -19, z: 0}
+  uvs:
+  - {x: .12890625, y: .7265625}
+  - {x: .1875, y: .7265625}
+  - {x: .1875, y: .615234375}
+  - {x: .12890625, y: .615234375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 732
+    y: 440
+    width: 21
+    height: 23
+  parentName: Untitled Group
+  parentID: 5986
+  linkedTexturePath: "Assets/lc/zhongguoJS/QinchaoJS/\u5DE6\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 21
+    height: 23
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 12, y: 4}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u624B"
+  vertices:
+  - {x: -12, y: 4, z: 0}
+  - {x: 9, y: 4, z: 0}
+  - {x: 9, y: -19, z: 0}
+  - {x: -12, y: -19, z: 0}
+  uvs:
+  - {x: .71484375, y: .140625}
+  - {x: .735351562, y: .140625}
+  - {x: .735351562, y: .095703125}
+  - {x: .71484375, y: .095703125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u624B\u81C2"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 688
+    y: 456
+    width: 17
+    height: 21
+  parentName: Untitled Group
+  parentID: 5986
+  linkedTexturePath: "Assets/lc/zhongguoJS/QinchaoJS/\u5DE6\u624B\u81C2.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 17
+    height: 21
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 12, y: 12}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u624B\u81C2"
+  vertices:
+  - {x: -12, y: 12, z: 0}
+  - {x: 5, y: 12, z: 0}
+  - {x: 5, y: -9, z: 0}
+  - {x: -12, y: -9, z: 0}
+  uvs:
+  - {x: .671875, y: .109375}
+  - {x: .688476562, y: .109375}
+  - {x: .688476562, y: .068359375}
+  - {x: .671875, y: .068359375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u8EAB\u4F53"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 832
+    y: 368
+    width: 27
+    height: 35
+  parentName: Untitled Group
+  parentID: 5986
+  linkedTexturePath: "Assets/lc/zhongguoJS/QinchaoJS/\u8EAB\u4F53.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 27
+    height: 35
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 15, y: 13}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u8EAB\u4F53"
+  vertices:
+  - {x: -15, y: 13, z: 0}
+  - {x: 12, y: 13, z: 0}
+  - {x: 12, y: -22, z: 0}
+  - {x: -15, y: -22, z: 0}
+  uvs:
+  - {x: .8125, y: .28125}
+  - {x: .838867188, y: .28125}
+  - {x: .838867188, y: .212890625}
+  - {x: .8125, y: .212890625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400006}
+  - {fileID: 11400008}
+  - {fileID: 11400010}
+  - {fileID: 11400012}
+  - {fileID: 11400014}
+  parentName: ku_QingchaoJS_mini
+  isExpand: 1
+  groupName: Untitled Group

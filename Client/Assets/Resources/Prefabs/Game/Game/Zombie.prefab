@@ -1,0 +1,1281 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  - 114: {fileID: 11400006}
+  - 114: {fileID: 11400004}
+  - 65: {fileID: 6500000}
+  - 114: {fileID: 11400002}
+  m_Layer: 9
+  m_Name: Zombie
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 9999999, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!65 &6500000
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 40, y: 200, z: 1}
+  m_Center: {x: 0, y: 30, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -387545964, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: 
+  primitiveCount: 22
+  activePrimitiveCount: 1
+  _activePrimitiveCount:
+    value: 1
+  primitives:
+  - z: .1328125
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 51, z: .1328125}
+    - {x: 9999999, y: 51, z: .1328125}
+    - {x: 9999999, y: -9, z: .1328125}
+    - {x: 9999999, y: -9, z: .1328125}
+    uv:
+    - {x: 0, y: 1}
+    - {x: 1, y: 1}
+    - {x: 1, y: -5.21540642e-08}
+    - {x: 0, y: -5.21540642e-08}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: 0
+    renderMode: 0
+    position:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    uv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    color:
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    size: 1
+    visible: 0
+    ownerID: -1649470
+  - z: 0
+    renderMode: 0
+    position:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    uv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    color:
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    size: 1
+    visible: 0
+    ownerID: -1649470
+  - z: .1328125
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 114.475052, z: .1328125}
+    - {x: 9999999, y: 114.078499, z: .1328125}
+    - {x: 9999999, y: 76.3047943, z: .1328125}
+    - {x: 9999999, y: 76.701355, z: .1328125}
+    uv:
+    - {x: .6171875, y: .67578125}
+    - {x: .696289062, y: .67578125}
+    - {x: .696289062, y: .609375}
+    - {x: .6171875, y: .609375}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .134765625
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 82.2257996, z: .134765625}
+    - {x: 9999999, y: 85.5844498, z: .134765625}
+    - {x: 9999999, y: 65.7559357, z: .134765625}
+    - {x: 9999999, y: 62.3972893, z: .134765625}
+    uv:
+    - {x: .26953125, y: .5}
+    - {x: .314453125, y: .5}
+    - {x: .314453125, y: .46484375}
+    - {x: .26953125, y: .46484375}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .12890625
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 74.4026184, z: .12890625}
+    - {x: 9999999, y: 61.7175064, z: .12890625}
+    - {x: 9999999, y: 43.5510216, z: .12890625}
+    - {x: 9999999, y: 56.2361374, z: .12890625}
+    uv:
+    - {x: .8125, y: .55078125}
+    - {x: .854492188, y: .55078125}
+    - {x: .854492188, y: .506835938}
+    - {x: .8125, y: .506835938}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .126953125
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 81.8239899, z: .126953125}
+    - {x: 9999999, y: 60.2887917, z: .126953125}
+    - {x: 9999999, y: 44.1408081, z: .126953125}
+    - {x: 9999999, y: 65.6760025, z: .126953125}
+    uv:
+    - {x: 0, y: .5390625}
+    - {x: .0712890625, y: .5390625}
+    - {x: .0712890625, y: .5}
+    - {x: 0, y: .5}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .142578125
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 63.5384483, z: .142578125}
+    - {x: 9999999, y: 69.9969406, z: .142578125}
+    - {x: 9999999, y: 51.2478256, z: .142578125}
+    - {x: 9999999, y: 44.7893372, z: .142578125}
+    uv:
+    - {x: .07421875, y: .5390625}
+    - {x: .120117188, y: .5390625}
+    - {x: .120117188, y: .500976562}
+    - {x: .07421875, y: .500976562}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .140625
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 46.4381523, z: .140625}
+    - {x: 9999999, y: 56.1945992, z: .140625}
+    - {x: 9999999, y: 38.4069786, z: .140625}
+    - {x: 9999999, y: 28.6505337, z: .140625}
+    uv:
+    - {x: .07421875, y: .5}
+    - {x: .143554688, y: .5}
+    - {x: .143554688, y: .463867188}
+    - {x: .07421875, y: .463867188}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .138671875
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 80.9556885, z: .138671875}
+    - {x: 9999999, y: 77.9537048, z: .138671875}
+    - {x: 9999999, y: 38.8213997, z: .138671875}
+    - {x: 9999999, y: 41.8233833, z: .138671875}
+    uv:
+    - {x: 0, y: .65625}
+    - {x: .0634765625, y: .65625}
+    - {x: .0634765625, y: .59375}
+    - {x: 0, y: .59375}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .130859375
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 46.6741333, z: .130859375}
+    - {x: 9999999, y: 46.6741333, z: .130859375}
+    - {x: 9999999, y: 28.6741333, z: .130859375}
+    - {x: 9999999, y: 28.6741333, z: .130859375}
+    uv:
+    - {x: .8125, y: .50390625}
+    - {x: .8515625, y: .50390625}
+    - {x: .8515625, y: .46875}
+    - {x: .8125, y: .46875}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .1328125
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 34.2680588, z: .1328125}
+    - {x: 9999999, y: 34.2680588, z: .1328125}
+    - {x: 9999999, y: 10.2680588, z: .1328125}
+    - {x: 9999999, y: 10.2680588, z: .1328125}
+    uv:
+    - {x: .0859375, y: .58984375}
+    - {x: .123046875, y: .58984375}
+    - {x: .123046875, y: .54296875}
+    - {x: .0859375, y: .54296875}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .134765625
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 12.4171772, z: .134765625}
+    - {x: 9999999, y: 12.4171772, z: .134765625}
+    - {x: 9999999, y: -1.0828228, z: .134765625}
+    - {x: 9999999, y: -1.0828228, z: .134765625}
+    uv:
+    - {x: .4296875, y: .5}
+    - {x: .484375, y: .5}
+    - {x: .484375, y: .473632812}
+    - {x: .4296875, y: .473632812}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .142578125
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 51.6571007, z: .142578125}
+    - {x: 9999999, y: 51.6571007, z: .142578125}
+    - {x: 9999999, y: 29.6571007, z: .142578125}
+    - {x: 9999999, y: 29.6571007, z: .142578125}
+    uv:
+    - {x: .9140625, y: .546875}
+    - {x: .95703125, y: .546875}
+    - {x: .95703125, y: .50390625}
+    - {x: .9140625, y: .50390625}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .14453125
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 34.9226761, z: .14453125}
+    - {x: 9999999, y: 36.6880035, z: .14453125}
+    - {x: 9999999, y: 9.77123833, z: .14453125}
+    - {x: 9999999, y: 8.00590706, z: .14453125}
+    uv:
+    - {x: .26953125, y: .59375}
+    - {x: .313476562, y: .59375}
+    - {x: .313476562, y: .541015625}
+    - {x: .26953125, y: .541015625}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: .146484375
+    renderMode: 3
+    position:
+    - {x: 9999999, y: 13.9370842, z: .146484375}
+    - {x: 9999999, y: 14.4257517, z: .146484375}
+    - {x: 9999999, y: .927807808, z: .146484375}
+    - {x: 9999999, y: .43914032, z: .146484375}
+    uv:
+    - {x: .48828125, y: .5}
+    - {x: .54296875, y: .5}
+    - {x: .54296875, y: .473632812}
+    - {x: .48828125, y: .473632812}
+    color:
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    - {r: 1, g: 1, b: 1, a: 1}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: 0
+    renderMode: 0
+    position:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    uv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    color:
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: 0
+    renderMode: 0
+    position:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    uv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    color:
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: 0
+    renderMode: 0
+    position:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    uv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    color:
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: 0
+    renderMode: 0
+    position:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    uv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    color:
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: 0
+    renderMode: 0
+    position:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    uv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    color:
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  - z: 0
+    renderMode: 0
+    position:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    uv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    color:
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    - {r: 0, g: 0, b: 0, a: 0}
+    size: 1
+    visible: 1
+    ownerID: -1649470
+  spriteTransforms:
+  - position: {x: -35, y: 102}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 4
+    visible: 1
+    _isOverride: 0
+    name: root
+    isSpriteValid: 1
+    id: 0
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: 0, y: -4}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 4
+    visible: 1
+    _isOverride: 0
+    name: hip
+    isSpriteValid: 0
+    id: 1
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: -9.92635536, y: 99.2478485}
+    rotation: -1.5
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 7
+    visible: 1
+    _isOverride: 0
+    name: body
+    isSpriteValid: 0
+    id: 2
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: -35.2541809, y: 169.636749}
+    rotation: -.5
+    scale: {x: 1.12204015, y: 1.11103344}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 4
+    visible: 1
+    _isOverride: 0
+    name: head
+    isSpriteValid: 0
+    id: 3
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: -27.5061646, y: 164.054672}
+    rotation: 7.47799015
+    scale: {x: 1.12204015, y: 1.11103344}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 5
+    visible: 1
+    _isOverride: 0
+    name: Mandible
+    isSpriteValid: 0
+    id: 4
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: -28.4210968, y: 117.596687}
+    rotation: -36.1573944
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 2
+    visible: 1
+    _isOverride: 0
+    name: armL
+    isSpriteValid: 0
+    id: 5
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: -60.3864059, y: 117.596245}
+    rotation: -36.1573944
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 1
+    visible: 1
+    _isOverride: 0
+    name: forearmL
+    isSpriteValid: 0
+    id: 6
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: -29.2835102, y: 121.586868}
+    rotation: 15.9518528
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 9
+    visible: 1
+    _isOverride: 0
+    name: armR
+    isSpriteValid: 0
+    id: 7
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: -61.8686829, y: 101.948959}
+    rotation: 15.9518528
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 8
+    visible: 1
+    _isOverride: 0
+    name: forearmR
+    isSpriteValid: 0
+    id: 8
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: -8.01972103, y: 96.2189941}
+    rotation: -4.5
+    scale: {x: 1.17728567, y: 1.22666609}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 7
+    visible: 1
+    _isOverride: 0
+    name: trunk
+    isSpriteValid: 0
+    id: 9
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: -10.9281034, y: 86.3482666}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 3
+    visible: 1
+    _isOverride: 0
+    name: thighL
+    isSpriteValid: 0
+    id: 10
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: -12.9087591, y: 63.5361176}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 4
+    visible: 1
+    _isOverride: 0
+    name: legL
+    isSpriteValid: 0
+    id: 11
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: -7.94097137, y: 20.8343544}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 5
+    visible: 1
+    _isOverride: 0
+    name: flootL
+    isSpriteValid: 0
+    id: 12
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: .992551506, y: 90.3142014}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 9
+    visible: 1
+    _isOverride: 0
+    name: thighR
+    isSpriteValid: 0
+    id: 13
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: 7.95022297, y: 63.4946022}
+    rotation: 4.5
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 10
+    visible: 1
+    _isOverride: 0
+    name: legR
+    isSpriteValid: 0
+    id: 14
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: 31.082943, y: 24.5728741}
+    rotation: 1
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 11
+    visible: 1
+    _isOverride: 0
+    name: flootR
+    isSpriteValid: 0
+    id: 15
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: 0, y: 0}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 0
+    visible: 1
+    _isOverride: 0
+    name: transform
+    isSpriteValid: 0
+    id: 0
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: 0, y: 0}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 0
+    visible: 1
+    _isOverride: 0
+    name: transform
+    isSpriteValid: 0
+    id: 0
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: 0, y: 0}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 0
+    visible: 1
+    _isOverride: 0
+    name: transform
+    isSpriteValid: 0
+    id: 0
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: 0, y: 0}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 0
+    visible: 1
+    _isOverride: 0
+    name: transform
+    isSpriteValid: 0
+    id: 0
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: 0, y: 0}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 0
+    visible: 1
+    _isOverride: 0
+    name: transform
+    isSpriteValid: 0
+    id: 0
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - position: {x: 0, y: 0}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    shear: {x: 0, y: 0}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _sprite: {fileID: 0}
+    layer: 0
+    visible: 1
+    _isOverride: 0
+    name: transform
+    isSpriteValid: 0
+    id: 0
+    localToWorldMatrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  _visible: 1
+  renderMode: {fileID: 11400000, guid: 34fc727889f50394293b2f68ef6d9e19, type: 2}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  updateMode: 0
+  depth: 1
+  applyDepthToTransform: 0
+  plane: 0
+  scaleFactor: 1
+  localScale: {x: 1, y: 1}
+  localRotation: 0
+  anchor: 0
+  pivot: {x: 0, y: 0}
+  invisibleCulling: 0
+  commitToSceneManager: 1
+  showBounding: 0
+  showAttachSpriteBounding: 0
+  showCullingGroupBounding: 0
+  cullingGroup: []
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5406b83f63a57af44ab1675fac6a5022, type: 1}
+  m_Name: 
+  mZombie:
+    mStandNutrient: 0
+  mSAnimation: {fileID: 0}
+  mAnimationName: []
+  mStandPos: 1
+  mParent: {fileID: 0}
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1066810278, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: 
+  _type: 1
+  sendMessage: 1
+  depthOffset: 0
+  thickness: 20
+  basicBoneClip: {fileID: 0}
+  colliderNones:
+  - needAddCollider: 1
+    eventListenerSet: 0
+    nodeName: root
+    nodePath: /root
+    nodePathHash: 0
+    isTrigger: 0
+    depthOffset: 0
+    thickness: 20
+    colliderObject: {fileID: 0}
+  - needAddCollider: 1
+    eventListenerSet: 0
+    nodeName: houtu
+    nodePath: /root/houtu
+    nodePathHash: 0
+    isTrigger: 0
+    depthOffset: 0
+    thickness: 20
+    colliderObject: {fileID: 0}
+  - needAddCollider: 1
+    eventListenerSet: 0
+    nodeName: banshen
+    nodePath: /root/banshen
+    nodePathHash: 0
+    isTrigger: 0
+    depthOffset: 0
+    thickness: 20
+    colliderObject: {fileID: 0}
+  - needAddCollider: 1
+    eventListenerSet: 0
+    nodeName: qiantu
+    nodePath: /root/qiantu
+    nodePathHash: 0
+    isTrigger: 0
+    depthOffset: 0
+    thickness: 20
+    colliderObject: {fileID: 0}
+  - needAddCollider: 1
+    eventListenerSet: 0
+    nodeName: tou
+    nodePath: /root/tou
+    nodePathHash: 0
+    isTrigger: 0
+    depthOffset: 0
+    thickness: 20
+    colliderObject: {fileID: 0}
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1913008262, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: 
+  updateMode: 1
+  clip: {fileID: 11400000, guid: caf6bdccccb063c49a661c96f900ebce, type: 2}
+  playAutomatically: 1
+  animateOnlyIfVisible: 0
+  smoothAnimation: 1
+  autoApplyAfterUpdate: 1
+  animations:
+  - {fileID: 11400000, guid: caf6bdccccb063c49a661c96f900ebce, type: 2}
+  - {fileID: 11400000, guid: 74bdf96b90c8c9643863f70b9952e974, type: 2}
+  - {fileID: 11400000, guid: d62e049fc1132e545b691ce743a4b3e2, type: 2}
+  - {fileID: 11400000, guid: c1db8b1ce9406884ea10c3755a82cd48, type: 2}
+  - {fileID: 11400000, guid: 1e84a7e1d41470e46a90999ed8dc37d2, type: 2}
+  - {fileID: 11400000, guid: 0052340cedebcc441813aaa1f2063648, type: 2}
+  - {fileID: 11400000, guid: 0052340cedebcc441813aaa1f2063648, type: 2}
+  - {fileID: 11400000, guid: 0052340cedebcc441813aaa1f2063648, type: 2}
+  - {fileID: 11400000, guid: e62267a50d5d9f946a02cafb951f344d, type: 2}
+  - {fileID: 11400000, guid: 7e8bfb539c64d204ba753ac03d79ca95, type: 2}
+  - {fileID: 11400000, guid: b32488fb44ddb8943bd53c90e6e608c5, type: 2}
+  - {fileID: 11400000, guid: b32488fb44ddb8943bd53c90e6e608c5, type: 2}
+  - {fileID: 11400000, guid: f2a1f866f48c25e4986668cc3fa6fa60, type: 2}
+  timeScale: 1
+  rotateClosestWhenCrossFade: 0
+  applyRootToTransform: 0
+  applyRootColorToSpriteRenderer: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

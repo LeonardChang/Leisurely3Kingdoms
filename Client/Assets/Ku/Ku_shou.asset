@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_shou
+  spriteGroups:
+  - {fileID: 11400008}
+  isExpand: 0
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u524D\u571F\u5806"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 996
+    y: 68
+    width: 26
+    height: 11
+  parentName: Untitled Group
+  parentID: 3602
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 26
+    height: 11
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 12.6448927, y: 4.74183226}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u524D\u571F\u5806"
+  vertices:
+  - {x: -12.6448927, y: 4.74183226, z: 0}
+  - {x: 13.3551073, y: 4.74183226, z: 0}
+  - {x: 13.3551073, y: -6.25816774, z: 0}
+  - {x: -12.6448927, y: -6.25816774, z: 0}
+  uvs:
+  - {x: .97265625, y: .93359375}
+  - {x: .998046875, y: .93359375}
+  - {x: .998046875, y: .922851562}
+  - {x: .97265625, y: .922851562}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u540E\u571F\u5806"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 752
+    y: 580
+    width: 24
+    height: 13
+  parentName: Untitled Group
+  parentID: 3602
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 24
+    height: 13
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 10.5374079, y: 4.74183273}
+  position: {x: 0, y: -2}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u540E\u571F\u5806"
+  vertices:
+  - {x: -10.5374079, y: 2.74183273, z: 0}
+  - {x: 13.4625921, y: 2.74183273, z: 0}
+  - {x: 13.4625921, y: -10.2581673, z: 0}
+  - {x: -10.5374079, y: -10.2581673, z: 0}
+  uvs:
+  - {x: .734375, y: .43359375}
+  - {x: .7578125, y: .43359375}
+  - {x: .7578125, y: .420898438}
+  - {x: .734375, y: .420898438}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u624B"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 1004
+    y: 176
+    width: 19
+    height: 35
+  parentName: Untitled Group
+  parentID: 3602
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 19
+    height: 35
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 6.32244492, y: 30.0316086}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u624B"
+  vertices:
+  - {x: -6.32244492, y: 30.0316086, z: 0}
+  - {x: 12.6775551, y: 30.0316086, z: 0}
+  - {x: 12.6775551, y: -4.96839142, z: 0}
+  - {x: -6.32244492, y: -4.96839142, z: 0}
+  uvs:
+  - {x: .98046875, y: .828125}
+  - {x: .999023438, y: .828125}
+  - {x: .999023438, y: .793945312}
+  - {x: .98046875, y: .793945312}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400006}
+  parentName: Ku_shou
+  isExpand: 1
+  groupName: Untitled Group

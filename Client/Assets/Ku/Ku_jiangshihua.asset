@@ -1,0 +1,453 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_jiangshihua
+  spriteGroups:
+  - {fileID: 11400012}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u8FB9\u53F6\u5B50"
+  atlas: {fileID: 11400000, guid: ae58a0376c6852d47918c64b43277c9c, type: 2}
+  image: {fileID: 2800000, guid: 949c181f5ce8a734185c8457daef7d4e, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 132
+    y: 248
+    width: 39
+    height: 39
+  parentName: Untitled Group
+  parentID: 7894
+  linkedTexturePath: "Assets/lc/jiangshihua/\u53F3\u8FB9\u53F6\u5B50.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 39
+    height: 39
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 1, y: 22}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u8FB9\u53F6\u5B50"
+  vertices:
+  - {x: -1, y: 22, z: 0}
+  - {x: 38, y: 22, z: 0}
+  - {x: 38, y: -17, z: 0}
+  - {x: -1, y: -17, z: 0}
+  uvs:
+  - {x: .2578125, y: .515625}
+  - {x: .333984375, y: .515625}
+  - {x: .333984375, y: .439453125}
+  - {x: .2578125, y: .439453125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934\u90E8"
+  atlas: {fileID: 11400000, guid: ae58a0376c6852d47918c64b43277c9c, type: 2}
+  image: {fileID: 2800000, guid: 949c181f5ce8a734185c8457daef7d4e, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 336
+    y: 96
+    width: 61
+    height: 65
+  parentName: Untitled Group
+  parentID: 7894
+  linkedTexturePath: "Assets/lc/jiangshihua/\u5934\u90E8.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 61
+    height: 65
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 31, y: 33}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934\u90E8"
+  vertices:
+  - {x: -31, y: 33, z: 0}
+  - {x: 30, y: 33, z: 0}
+  - {x: 30, y: -32, z: 0}
+  - {x: -31, y: -32, z: 0}
+  uvs:
+  - {x: .65625, y: .8125}
+  - {x: .775390625, y: .8125}
+  - {x: .775390625, y: .685546875}
+  - {x: .65625, y: .685546875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u8FB9\u53F6\u5B50"
+  atlas: {fileID: 11400000, guid: ae58a0376c6852d47918c64b43277c9c, type: 2}
+  image: {fileID: 2800000, guid: 949c181f5ce8a734185c8457daef7d4e, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 244
+    y: 248
+    width: 45
+    height: 33
+  parentName: Untitled Group
+  parentID: 7894
+  linkedTexturePath: "Assets/lc/jiangshihua/\u5DE6\u8FB9\u53F6\u5B50.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 45
+    height: 33
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 40, y: 17}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u8FB9\u53F6\u5B50"
+  vertices:
+  - {x: -40, y: 17, z: 0}
+  - {x: 5, y: 17, z: 0}
+  - {x: 5, y: -16, z: 0}
+  - {x: -40, y: -16, z: 0}
+  uvs:
+  - {x: .4765625, y: .515625}
+  - {x: .564453125, y: .515625}
+  - {x: .564453125, y: .451171875}
+  - {x: .4765625, y: .451171875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u82B1\u6735"
+  atlas: {fileID: 11400000, guid: ae58a0376c6852d47918c64b43277c9c, type: 2}
+  image: {fileID: 2800000, guid: 949c181f5ce8a734185c8457daef7d4e, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 336
+    y: 0
+    width: 101
+    height: 94
+  parentName: Untitled Group
+  parentID: 7894
+  linkedTexturePath: "Assets/lc/jiangshihua/\u82B1\u6735.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 101
+    height: 94
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 48, y: 53}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u82B1\u6735"
+  vertices:
+  - {x: -48, y: 53, z: 0}
+  - {x: 53, y: 53, z: 0}
+  - {x: 53, y: -41, z: 0}
+  - {x: -48, y: -41, z: 0}
+  uvs:
+  - {x: .65625, y: 1}
+  - {x: .853515625, y: 1}
+  - {x: .853515625, y: .81640625}
+  - {x: .65625, y: .81640625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u82B1\u8EAF\u5E72"
+  atlas: {fileID: 11400000, guid: ae58a0376c6852d47918c64b43277c9c, type: 2}
+  image: {fileID: 2800000, guid: 949c181f5ce8a734185c8457daef7d4e, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 292
+    y: 248
+    width: 23
+    height: 52
+  parentName: Untitled Group
+  parentID: 7894
+  linkedTexturePath: "Assets/lc/jiangshihua/\u82B1\u8EAF\u5E72.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 23
+    height: 52
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 11, y: 9}
+  position: {x: 1, y: 6}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u82B1\u8EAF\u5E72"
+  vertices:
+  - {x: -10, y: 15, z: 0}
+  - {x: 13, y: 15, z: 0}
+  - {x: 13, y: -37, z: 0}
+  - {x: -10, y: -37, z: 0}
+  uvs:
+  - {x: .5703125, y: .515625}
+  - {x: .615234375, y: .515625}
+  - {x: .615234375, y: .4140625}
+  - {x: .5703125, y: .4140625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400006}
+  - {fileID: 11400008}
+  - {fileID: 11400010}
+  - {fileID: 11400016}
+  - {fileID: 11400018}
+  - {fileID: 11400020}
+  - {fileID: 11400014}
+  parentName: Ku_jiangshihua
+  isExpand: 1
+  groupName: Untitled Group
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u4FA7\u9762\u5934"
+  atlas: {fileID: 11400000, guid: ae58a0376c6852d47918c64b43277c9c, type: 2}
+  image: {fileID: 2800000, guid: 949c181f5ce8a734185c8457daef7d4e, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 204
+    y: 160
+    width: 60
+    height: 60
+  parentName: Untitled Group
+  parentID: 7894
+  linkedTexturePath: "Assets/lc/jiangshihua/\u4FA7\u9762\u5934.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 60
+    height: 60
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 35, y: 35}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u4FA7\u9762\u5934"
+  vertices:
+  - {x: -35, y: 35, z: 0}
+  - {x: 25, y: 35, z: 0}
+  - {x: 25, y: -25, z: 0}
+  - {x: -35, y: -25, z: 0}
+  uvs:
+  - {x: .3984375, y: .6875}
+  - {x: .515625, y: .6875}
+  - {x: .515625, y: .5703125}
+  - {x: .3984375, y: .5703125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u4FA7\u53F6\u5B50"
+  atlas: {fileID: 11400000, guid: ae58a0376c6852d47918c64b43277c9c, type: 2}
+  image: {fileID: 2800000, guid: 949c181f5ce8a734185c8457daef7d4e, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 124
+    y: 288
+    width: 33
+    height: 24
+  parentName: Untitled Group
+  parentID: 7894
+  linkedTexturePath: "Assets/lc/jiangshihua/\u53F3\u4FA7\u53F6\u5B50.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 33
+    height: 24
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 21, y: 10}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u4FA7\u53F6\u5B50"
+  vertices:
+  - {x: -21, y: 10, z: 0}
+  - {x: 12, y: 10, z: 0}
+  - {x: 12, y: -14, z: 0}
+  - {x: -21, y: -14, z: 0}
+  uvs:
+  - {x: .2421875, y: .4375}
+  - {x: .306640625, y: .4375}
+  - {x: .306640625, y: .390625}
+  - {x: .2421875, y: .390625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u4FA7\u53F6\u5B50"
+  atlas: {fileID: 11400000, guid: ae58a0376c6852d47918c64b43277c9c, type: 2}
+  image: {fileID: 2800000, guid: 949c181f5ce8a734185c8457daef7d4e, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 52
+    y: 312
+    width: 25
+    height: 27
+  parentName: Untitled Group
+  parentID: 7894
+  linkedTexturePath: "Assets/lc/jiangshihua/\u5DE6\u4FA7\u53F6\u5B50.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 25
+    height: 27
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 7, y: 13}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u4FA7\u53F6\u5B50"
+  vertices:
+  - {x: -7, y: 13, z: 0}
+  - {x: 18, y: 13, z: 0}
+  - {x: 18, y: -14, z: 0}
+  - {x: -7, y: -14, z: 0}
+  uvs:
+  - {x: .1015625, y: .390625}
+  - {x: .150390625, y: .390625}
+  - {x: .150390625, y: .337890625}
+  - {x: .1015625, y: .337890625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u8EAF\u5E72"
+  atlas: {fileID: 0}
+  image: {fileID: 2800000, guid: 1e60e8941f993044d92fe046de14c95e, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 268
+    y: 284
+    width: 21
+    height: 36
+  parentName: Untitled Group
+  parentID: 7894
+  linkedTexturePath: "Assets/lc/jiangshihua/\u8EAF\u5E72.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 21
+    height: 36
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 11, y: 17}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u8EAF\u5E72"
+  vertices:
+  - {x: -11, y: 17, z: 0}
+  - {x: 10, y: 17, z: 0}
+  - {x: 10, y: -19, z: 0}
+  - {x: -11, y: -19, z: 0}
+  uvs:
+  - {x: .5234375, y: -.109375}
+  - {x: .564453125, y: -.109375}
+  - {x: .564453125, y: -.25}
+  - {x: .5234375, y: -.25}
+  fullPath: 
+  useOrigSize: 0

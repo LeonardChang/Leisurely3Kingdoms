@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LZ_china_lv2
+  serializedVersion: 3
+  m_Compressed: 0
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00769513473, y: .177513033, z: 0}
+        inSlope: {x: -.0180770364, y: -.0592172258, z: 0}
+        outSlope: {x: -.0180770364, y: -.0592172258, z: 0}
+        tangentMode: -559038737
+      - time: 1.25
+        value: {x: -.0149011603, y: .1034915, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -559038737
+      - time: 2.5
+        value: {x: .00769513473, y: .177513033, z: 0}
+        inSlope: {x: .0180770364, y: .0592172258, z: 0}
+        outSlope: {x: .0180770364, y: .0592172258, z: 0}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Plane_lazhu_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .229972571, y: -.0163320862, z: 0}
+        inSlope: {x: .0398940332, y: .11905767, z: 0}
+        outSlope: {x: .0398940332, y: .11905767, z: 0}
+        tangentMode: -559038737
+      - time: 1.25
+        value: {x: .279840112, y: .132489994, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -559038737
+      - time: 2.5
+        value: {x: .229972571, y: -.0163320862, z: 0}
+        inSlope: {x: -.0398940332, y: -.11905767, z: 0}
+        outSlope: {x: -.0398940332, y: -.11905767, z: 0}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Plane_lazhu_2
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 2
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .00769513473
+        inSlope: -.0180770364
+        outSlope: -.0180770364
+        tangentMode: 10
+      - time: 1.25
+        value: -.0149011603
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: .00769513473
+        inSlope: .0180770364
+        outSlope: .0180770364
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Plane_lazhu_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .177513033
+        inSlope: -.0592172258
+        outSlope: -.0592172258
+        tangentMode: 10
+      - time: 1.25
+        value: .1034915
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: .177513033
+        inSlope: .0592172258
+        outSlope: .0592172258
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Plane_lazhu_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Plane_lazhu_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .229972571
+        inSlope: .0398940332
+        outSlope: .0398940332
+        tangentMode: 10
+      - time: 1.25
+        value: .279840112
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: .229972571
+        inSlope: -.0398940332
+        outSlope: -.0398940332
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Plane_lazhu_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0163320862
+        inSlope: .11905767
+        outSlope: .11905767
+        tangentMode: 10
+      - time: 1.25
+        value: .132489994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: -.0163320862
+        inSlope: -.11905767
+        outSlope: -.11905767
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Plane_lazhu_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Plane_lazhu_2
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []

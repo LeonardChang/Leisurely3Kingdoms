@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_RLshibing
+  spriteGroups:
+  - {fileID: 11400014}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 264
+    y: 336
+    width: 31
+    height: 37
+  parentName: Untitled Group
+  parentID: 8302
+  linkedTexturePath: "Assets/lc/BOSS/RLshibing/\u53F3\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 31
+    height: 37
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 23, y: 11}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u624B"
+  vertices:
+  - {x: -23, y: 11, z: 0}
+  - {x: 8, y: 11, z: 0}
+  - {x: 8, y: -26, z: 0}
+  - {x: -23, y: -26, z: 0}
+  uvs:
+  - {x: .2578125, y: .34375}
+  - {x: .288085938, y: .34375}
+  - {x: .288085938, y: .271484375}
+  - {x: .2578125, y: .271484375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u811A"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 444
+    y: 444
+    width: 23
+    height: 20
+  parentName: Untitled Group
+  parentID: 8302
+  linkedTexturePath: "Assets/lc/BOSS/RLshibing/\u53F3\u811A.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 23
+    height: 20
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 13, y: 3}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u811A"
+  vertices:
+  - {x: -13, y: 3, z: 0}
+  - {x: 10, y: 3, z: 0}
+  - {x: 10, y: -17, z: 0}
+  - {x: -13, y: -17, z: 0}
+  uvs:
+  - {x: .43359375, y: .1328125}
+  - {x: .456054688, y: .1328125}
+  - {x: .456054688, y: .09375}
+  - {x: .43359375, y: .09375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 296
+    y: 148
+    width: 59
+    height: 53
+  parentName: Untitled Group
+  parentID: 8302
+  linkedTexturePath: "Assets/lc/BOSS/RLshibing/\u5934.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 59
+    height: 53
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 29, y: 29}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934"
+  vertices:
+  - {x: -29, y: 29, z: 0}
+  - {x: 30, y: 29, z: 0}
+  - {x: 30, y: -24, z: 0}
+  - {x: -29, y: -24, z: 0}
+  uvs:
+  - {x: .2890625, y: .7109375}
+  - {x: .346679688, y: .7109375}
+  - {x: .346679688, y: .607421875}
+  - {x: .2890625, y: .607421875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 396
+    y: 276
+    width: 51
+    height: 33
+  parentName: Untitled Group
+  parentID: 8302
+  linkedTexturePath: "Assets/lc/BOSS/RLshibing/\u5DE6\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 51
+    height: 33
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 33, y: 8}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u624B"
+  vertices:
+  - {x: -33, y: 8, z: 0}
+  - {x: 18, y: 8, z: 0}
+  - {x: 18, y: -25, z: 0}
+  - {x: -33, y: -25, z: 0}
+  uvs:
+  - {x: .38671875, y: .4609375}
+  - {x: .436523438, y: .4609375}
+  - {x: .436523438, y: .396484375}
+  - {x: .38671875, y: .396484375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u811A"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 180
+    y: 444
+    width: 23
+    height: 21
+  parentName: Untitled Group
+  parentID: 8302
+  linkedTexturePath: "Assets/lc/BOSS/RLshibing/\u5DE6\u811A.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 23
+    height: 21
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 12, y: 4}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u811A"
+  vertices:
+  - {x: -12, y: 4, z: 0}
+  - {x: 11, y: 4, z: 0}
+  - {x: 11, y: -17, z: 0}
+  - {x: -12, y: -17, z: 0}
+  uvs:
+  - {x: .17578125, y: .1328125}
+  - {x: .198242188, y: .1328125}
+  - {x: .198242188, y: .091796875}
+  - {x: .17578125, y: .091796875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u8EAB\u4F53"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 296
+    y: 324
+    width: 41
+    height: 31
+  parentName: Untitled Group
+  parentID: 8302
+  linkedTexturePath: "Assets/lc/BOSS/RLshibing/\u8EAB\u4F53.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 41
+    height: 31
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 18, y: 11}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u8EAB\u4F53"
+  vertices:
+  - {x: -18, y: 11, z: 0}
+  - {x: 23, y: 11, z: 0}
+  - {x: 23, y: -20, z: 0}
+  - {x: -18, y: -20, z: 0}
+  uvs:
+  - {x: .2890625, y: .3671875}
+  - {x: .329101562, y: .3671875}
+  - {x: .329101562, y: .306640625}
+  - {x: .2890625, y: .306640625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400006}
+  - {fileID: 11400008}
+  - {fileID: 11400010}
+  - {fileID: 11400012}
+  parentName: Ku_RLshibing
+  isExpand: 1
+  groupName: Untitled Group

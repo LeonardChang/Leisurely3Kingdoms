@@ -1,0 +1,688 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_daitu1
+  spriteGroups:
+  - {fileID: 11400048}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp1
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 128
+    y: 0
+    width: 67
+    height: 58
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp1.png
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 67
+    height: 58
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 29, y: 24}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp1
+  vertices:
+  - {x: -29, y: 24, z: 0}
+  - {x: 38, y: 24, z: 0}
+  - {x: 38, y: -34, z: 0}
+  - {x: -29, y: -34, z: 0}
+  uvs:
+  - {x: .5, y: 1}
+  - {x: .76171875, y: 1}
+  - {x: .76171875, y: .546875}
+  - {x: .5, y: .546875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp2
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 60
+    y: 0
+    width: 66
+    height: 63
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp2.png
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 66
+    height: 63
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 29, y: 33}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp2
+  vertices:
+  - {x: -29, y: 33, z: 0}
+  - {x: 37, y: 33, z: 0}
+  - {x: 37, y: -30, z: 0}
+  - {x: -29, y: -30, z: 0}
+  uvs:
+  - {x: .234375, y: 1}
+  - {x: .4921875, y: 1}
+  - {x: .4921875, y: .5078125}
+  - {x: .234375, y: .5078125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp3
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 57
+    height: 73
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp3.png
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 57
+    height: 73
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 30, y: 43}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp3
+  vertices:
+  - {x: -30, y: 43, z: 0}
+  - {x: 27, y: 43, z: 0}
+  - {x: 27, y: -30, z: 0}
+  - {x: -30, y: -30, z: 0}
+  uvs:
+  - {x: 0, y: 1}
+  - {x: .22265625, y: 1}
+  - {x: .22265625, y: .4296875}
+  - {x: 0, y: .4296875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp4
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 128
+    y: 60
+    width: 60
+    height: 55
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp4.png
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 60
+    height: 55
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 29, y: 32}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp4
+  vertices:
+  - {x: -29, y: 32, z: 0}
+  - {x: 31, y: 32, z: 0}
+  - {x: 31, y: -23, z: 0}
+  - {x: -29, y: -23, z: 0}
+  uvs:
+  - {x: .5, y: .53125}
+  - {x: .734375, y: .53125}
+  - {x: .734375, y: .1015625}
+  - {x: .5, y: .1015625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp32
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 84
+    y: 112
+    width: 22
+    height: 14
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp32.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 22
+    height: 14
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp32
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 22, y: 0, z: 0}
+  - {x: 22, y: -14, z: 0}
+  - {x: 0, y: -14, z: 0}
+  uvs:
+  - {x: .328125, y: .125}
+  - {x: .4140625, y: .125}
+  - {x: .4140625, y: .015625}
+  - {x: .328125, y: .015625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp5
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 76
+    width: 53
+    height: 47
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp5.png
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 53
+    height: 47
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 25, y: 24}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp5
+  vertices:
+  - {x: -25, y: 24, z: 0}
+  - {x: 28, y: 24, z: 0}
+  - {x: 28, y: -23, z: 0}
+  - {x: -25, y: -23, z: 0}
+  uvs:
+  - {x: 0, y: .40625}
+  - {x: .20703125, y: .40625}
+  - {x: .20703125, y: .0390625}
+  - {x: 0, y: .0390625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp43
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 56
+    y: 112
+    width: 27
+    height: 13
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp43.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 27
+    height: 13
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp43
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 27, y: 0, z: 0}
+  - {x: 27, y: -13, z: 0}
+  - {x: 0, y: -13, z: 0}
+  uvs:
+  - {x: .21875, y: .125}
+  - {x: .32421875, y: .125}
+  - {x: .32421875, y: .0234375}
+  - {x: .21875, y: .0234375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp6
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 192
+    y: 60
+    width: 45
+    height: 58
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp6.png
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 45
+    height: 58
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 22, y: 33}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp6
+  vertices:
+  - {x: -22, y: 33, z: 0}
+  - {x: 23, y: 33, z: 0}
+  - {x: 23, y: -25, z: 0}
+  - {x: -22, y: -25, z: 0}
+  uvs:
+  - {x: .75, y: .53125}
+  - {x: .92578125, y: .53125}
+  - {x: .92578125, y: .078125}
+  - {x: .75, y: .078125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp7
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 196
+    y: 0
+    width: 56
+    height: 59
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp7.png
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 56
+    height: 59
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 30, y: 36}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp7
+  vertices:
+  - {x: -30, y: 36, z: 0}
+  - {x: 26, y: 36, z: 0}
+  - {x: 26, y: -23, z: 0}
+  - {x: -30, y: -23, z: 0}
+  uvs:
+  - {x: .765625, y: 1}
+  - {x: .984375, y: 1}
+  - {x: .984375, y: .5390625}
+  - {x: .765625, y: .5390625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp62
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 240
+    y: 80
+    width: 14
+    height: 16
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp62.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 14
+    height: 16
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp62
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 14, y: 0, z: 0}
+  - {x: 14, y: -16, z: 0}
+  - {x: 0, y: -16, z: 0}
+  uvs:
+  - {x: .9375, y: .375}
+  - {x: .9921875, y: .375}
+  - {x: .9921875, y: .25}
+  - {x: .9375, y: .25}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp8
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 60
+    y: 64
+    width: 67
+    height: 44
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp8.png
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 67
+    height: 44
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 32, y: 25}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp8
+  vertices:
+  - {x: -32, y: 25, z: 0}
+  - {x: 35, y: 25, z: 0}
+  - {x: 35, y: -19, z: 0}
+  - {x: -32, y: -19, z: 0}
+  uvs:
+  - {x: .234375, y: .5}
+  - {x: .49609375, y: .5}
+  - {x: .49609375, y: .15625}
+  - {x: .234375, y: .15625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp82
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 240
+    y: 100
+    width: 15
+    height: 14
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp82.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 15
+    height: 14
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp82
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 15, y: 0, z: 0}
+  - {x: 15, y: -14, z: 0}
+  - {x: 0, y: -14, z: 0}
+  uvs:
+  - {x: .9375, y: .21875}
+  - {x: .99609375, y: .21875}
+  - {x: .99609375, y: .109375}
+  - {x: .9375, y: .109375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp83
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 108
+    y: 112
+    width: 15
+    height: 13
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp83.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 15
+    height: 13
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp83
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 15, y: 0, z: 0}
+  - {x: 15, y: -13, z: 0}
+  - {x: 0, y: -13, z: 0}
+  uvs:
+  - {x: .421875, y: .125}
+  - {x: .48046875, y: .125}
+  - {x: .48046875, y: .0234375}
+  - {x: .421875, y: .0234375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bigmap1sp84
+  atlas: {fileID: 11400000, guid: 225644b0e8d9bc84f927f07c61ebda8f, type: 2}
+  image: {fileID: 2800000, guid: d1afc718add4d1e44ad8b80709a61595, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 240
+    y: 60
+    width: 15
+    height: 16
+  parentName: Untitled Group
+  parentID: 7236
+  linkedTexturePath: Assets/donyuting/bigmap1sp84.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 15
+    height: 16
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 0, y: 0}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: bigmap1sp84
+  vertices:
+  - {x: 0, y: 0, z: 0}
+  - {x: 15, y: 0, z: 0}
+  - {x: 15, y: -16, z: 0}
+  - {x: 0, y: -16, z: 0}
+  uvs:
+  - {x: .9375, y: .53125}
+  - {x: .99609375, y: .53125}
+  - {x: .99609375, y: .40625}
+  - {x: .9375, y: .40625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400010}
+  - {fileID: 11400018}
+  - {fileID: 11400026}
+  - {fileID: 11400038}
+  - {fileID: 11400040}
+  - {fileID: 11400042}
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400006}
+  - {fileID: 11400008}
+  - {fileID: 11400014}
+  - {fileID: 11400020}
+  - {fileID: 11400024}
+  - {fileID: 11400028}
+  parentName: Ku_daitu1
+  isExpand: 1
+  groupName: Untitled Group

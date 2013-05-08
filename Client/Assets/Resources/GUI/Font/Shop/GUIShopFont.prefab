@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: GUIShopFont
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 1}
+  m_Name: 
+  material: {fileID: 2100000, guid: 42b4743c5fa61ef4ba744d0272477fe2, type: 2}
+  sprites:
+  - name: 8
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 145
+      width: 56
+      height: 55
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 145
+      width: 56
+      height: 55
+    paddingLeft: .0714285746
+    paddingRight: .0714285746
+    paddingTop: .0727272704
+    paddingBottom: .0727272704
+  - name: 6
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 89
+      width: 56
+      height: 55
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 89
+      width: 56
+      height: 55
+    paddingLeft: .0714285746
+    paddingRight: .0714285746
+    paddingTop: .0727272704
+    paddingBottom: .0727272704
+  - name: 1
+    outer:
+      serializedVersion: 2
+      x: 57
+      y: 34
+      width: 24
+      height: 55
+    inner:
+      serializedVersion: 2
+      x: 57
+      y: 34
+      width: 24
+      height: 55
+    paddingLeft: .166666672
+    paddingRight: .166666672
+    paddingTop: .0727272704
+    paddingBottom: .0727272704
+  - name: 9
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 201
+      width: 58
+      height: 55
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 201
+      width: 58
+      height: 55
+    paddingLeft: .068965517
+    paddingRight: .068965517
+    paddingTop: .0727272704
+    paddingBottom: .0727272704
+  - name: 7
+    outer:
+      serializedVersion: 2
+      x: 59
+      y: 201
+      width: 58
+      height: 55
+    inner:
+      serializedVersion: 2
+      x: 59
+      y: 201
+      width: 58
+      height: 55
+    paddingLeft: .068965517
+    paddingRight: .068965517
+    paddingTop: .0727272704
+    paddingBottom: .0727272704
+  - name: 4
+    outer:
+      serializedVersion: 2
+      x: 118
+      y: 201
+      width: 58
+      height: 55
+    inner:
+      serializedVersion: 2
+      x: 118
+      y: 201
+      width: 58
+      height: 55
+    paddingLeft: .068965517
+    paddingRight: .068965517
+    paddingTop: .0727272704
+    paddingBottom: .0727272704
+  - name: 3
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 33
+      width: 55
+      height: 55
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 33
+      width: 55
+      height: 55
+    paddingLeft: .0727272704
+    paddingRight: .0727272704
+    paddingTop: .0727272704
+    paddingBottom: .0727272704
+  - name: 2
+    outer:
+      serializedVersion: 2
+      x: 57
+      y: 90
+      width: 54
+      height: 55
+    inner:
+      serializedVersion: 2
+      x: 57
+      y: 90
+      width: 54
+      height: 55
+    paddingLeft: .0740740746
+    paddingRight: .0740740746
+    paddingTop: .0727272704
+    paddingBottom: .0727272704
+  - name: 0
+    outer:
+      serializedVersion: 2
+      x: 177
+      y: 201
+      width: 58
+      height: 55
+    inner:
+      serializedVersion: 2
+      x: 177
+      y: 201
+      width: 58
+      height: 55
+    paddingLeft: .068965517
+    paddingRight: .068965517
+    paddingTop: .0727272704
+    paddingBottom: .0727272704
+  - name: 5
+    outer:
+      serializedVersion: 2
+      x: 57
+      y: 146
+      width: 56
+      height: 54
+    inner:
+      serializedVersion: 2
+      x: 57
+      y: 146
+      width: 56
+      height: 54
+    paddingLeft: .0714285746
+    paddingRight: .0714285746
+    paddingTop: .0740740746
+    paddingBottom: .0740740746
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

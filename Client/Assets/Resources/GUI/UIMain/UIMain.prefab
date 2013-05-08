@@ -1,0 +1,1926 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: UIMain
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 1}
+  m_Name: 
+  material: {fileID: 2100000, guid: cce2c783e26b2274a9a6976373ae8f89, type: 2}
+  sprites:
+  - name: Main_ZombieTalk_Rect
+    outer:
+      serializedVersion: 2
+      x: 745
+      y: 893
+      width: 131
+      height: 66
+    inner:
+      serializedVersion: 2
+      x: 745
+      y: 893
+      width: 131
+      height: 66
+    paddingLeft: .0305343512
+    paddingRight: .0305343512
+    paddingTop: .0606060624
+    paddingBottom: .0606060624
+  - name: Panel_Right_Down
+    outer:
+      serializedVersion: 2
+      x: 505
+      y: 362
+      width: 54
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 505
+      y: 362
+      width: 54
+      height: 80
+    paddingLeft: .0740740746
+    paddingRight: .0740740746
+    paddingTop: .0500000007
+    paddingBottom: .0500000007
+  - name: Main_Teach_Rect
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 214
+      width: 164
+      height: 174
+    inner:
+      serializedVersion: 2
+      x: 56
+      y: 237
+      width: 67
+      height: 68
+    paddingLeft: .0365853645
+    paddingRight: .0609756112
+    paddingTop: .0344827585
+    paddingBottom: 0
+  - name: Map_NodName_Rect
+    outer:
+      serializedVersion: 2
+      x: 820
+      y: 563
+      width: 135
+      height: 38
+    inner:
+      serializedVersion: 2
+      x: 840
+      y: 563
+      width: 95
+      height: 38
+    paddingLeft: .0296296291
+    paddingRight: .0296296291
+    paddingTop: .105263159
+    paddingBottom: .105263159
+  - name: Main_Coin
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 31
+      width: 48
+      height: 41
+    inner:
+      serializedVersion: 2
+      x: 165
+      y: 31
+      width: 48
+      height: 41
+    paddingLeft: .0833333358
+    paddingRight: .0833333358
+    paddingTop: .097560972
+    paddingBottom: .097560972
+  - name: Panel_Left_Down
+    outer:
+      serializedVersion: 2
+      x: 447
+      y: 137
+      width: 55
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 447
+      y: 137
+      width: 55
+      height: 80
+    paddingLeft: .0727272704
+    paddingRight: .0727272704
+    paddingTop: .0500000007
+    paddingBottom: .0500000007
+  - name: Main_Gem
+    outer:
+      serializedVersion: 2
+      x: 956
+      y: 563
+      width: 55
+      height: 38
+    inner:
+      serializedVersion: 2
+      x: 956
+      y: 563
+      width: 55
+      height: 38
+    paddingLeft: .0727272704
+    paddingRight: .0727272704
+    paddingTop: .105263159
+    paddingBottom: .105263159
+  - name: Panel_Title_Bar
+    outer:
+      serializedVersion: 2
+      x: 217
+      y: 889
+      width: 527
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 217
+      y: 889
+      width: 527
+      height: 70
+    paddingLeft: .00759013277
+    paddingRight: .00759013277
+    paddingTop: .0571428575
+    paddingBottom: .0571428575
+  - name: Main_LevelBoard
+    outer:
+      serializedVersion: 2
+      x: 859
+      y: 973
+      width: 123
+      height: 51
+    inner:
+      serializedVersion: 2
+      x: 859
+      y: 973
+      width: 123
+      height: 51
+    paddingLeft: .032520324
+    paddingRight: .032520324
+    paddingTop: .0784313753
+    paddingBottom: .0784313753
+  - name: Panel_Close_Down
+    outer:
+      serializedVersion: 2
+      x: 624
+      y: 386
+      width: 72
+      height: 56
+    inner:
+      serializedVersion: 2
+      x: 624
+      y: 386
+      width: 72
+      height: 56
+    paddingLeft: .055555556
+    paddingRight: .055555556
+    paddingTop: .0714285746
+    paddingBottom: .0714285746
+  - name: Panel_Close_Nor
+    outer:
+      serializedVersion: 2
+      x: 697
+      y: 386
+      width: 72
+      height: 56
+    inner:
+      serializedVersion: 2
+      x: 697
+      y: 386
+      width: 72
+      height: 56
+    paddingLeft: .055555556
+    paddingRight: .055555556
+    paddingTop: .0714285746
+    paddingBottom: .0714285746
+  - name: Main_Experience_Back
+    outer:
+      serializedVersion: 2
+      x: 217
+      y: 960
+      width: 641
+      height: 64
+    inner:
+      serializedVersion: 2
+      x: 217
+      y: 960
+      width: 641
+      height: 64
+    paddingLeft: .00624024961
+    paddingRight: .00624024961
+    paddingTop: 0
+    paddingBottom: .0625
+  - name: Main_SingleColor
+    outer:
+      serializedVersion: 2
+      x: 203
+      y: 293
+      width: 6
+      height: 6
+    inner:
+      serializedVersion: 2
+      x: 205
+      y: 295
+      width: 2
+      height: 2
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Main_Experience_Bar
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 217
+      width: 16
+      height: 8
+    inner:
+      serializedVersion: 2
+      x: 169
+      y: 217
+      width: 8
+      height: 8
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Panel_Left_Nor
+    outer:
+      serializedVersion: 2
+      x: 449
+      y: 27
+      width: 55
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 449
+      y: 27
+      width: 55
+      height: 80
+    paddingLeft: .0727272704
+    paddingRight: .0727272704
+    paddingTop: .0500000007
+    paddingBottom: .0500000007
+  - name: Panel_Right_Nor
+    outer:
+      serializedVersion: 2
+      x: 505
+      y: 281
+      width: 54
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 505
+      y: 281
+      width: 54
+      height: 80
+    paddingLeft: .0740740746
+    paddingRight: .0740740746
+    paddingTop: .0500000007
+    paddingBottom: .0500000007
+  - name: Panel_Collection_ZombieBack_UnOpen
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 565
+      width: 214
+      height: 229
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 565
+      width: 214
+      height: 229
+    paddingLeft: .0186915882
+    paddingRight: .0186915882
+    paddingTop: .0174672492
+    paddingBottom: .0174672492
+  - name: Panel_Collection_Star
+    outer:
+      serializedVersion: 2
+      x: 310
+      y: 34
+      width: 32
+      height: 31
+    inner:
+      serializedVersion: 2
+      x: 310
+      y: 34
+      width: 32
+      height: 31
+    paddingLeft: .125
+    paddingRight: .125
+    paddingTop: .129032254
+    paddingBottom: .129032254
+  - name: Panel_Collection_ZombieBack_Open
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 795
+      width: 216
+      height: 229
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 795
+      width: 216
+      height: 229
+    paddingLeft: .0185185187
+    paddingRight: .0185185187
+    paddingTop: .0174672492
+    paddingBottom: .0174672492
+  - name: Panel_Login_Coin
+    outer:
+      serializedVersion: 2
+      x: 217
+      y: 99
+      width: 133
+      height: 176
+    inner:
+      serializedVersion: 2
+      x: 217
+      y: 99
+      width: 133
+      height: 176
+    paddingLeft: .0300751887
+    paddingRight: .0300751887
+    paddingTop: .0227272734
+    paddingBottom: .0227272734
+  - name: Panel_Login_CBack
+    outer:
+      serializedVersion: 2
+      x: 217
+      y: 276
+      width: 133
+      height: 176
+    inner:
+      serializedVersion: 2
+      x: 217
+      y: 276
+      width: 133
+      height: 176
+    paddingLeft: .0300751887
+    paddingRight: .0300751887
+    paddingTop: .0227272734
+    paddingBottom: .0227272734
+  - name: Panel_Login_Gem
+    outer:
+      serializedVersion: 2
+      x: 217
+      y: 453
+      width: 133
+      height: 176
+    inner:
+      serializedVersion: 2
+      x: 217
+      y: 453
+      width: 133
+      height: 176
+    paddingLeft: .0300751887
+    paddingRight: .0300751887
+    paddingTop: .0227272734
+    paddingBottom: .0227272734
+  - name: Panel_Login_Zombie
+    outer:
+      serializedVersion: 2
+      x: 217
+      y: 630
+      width: 133
+      height: 176
+    inner:
+      serializedVersion: 2
+      x: 217
+      y: 630
+      width: 133
+      height: 176
+    paddingLeft: .0300751887
+    paddingRight: .0300751887
+    paddingTop: .0227272734
+    paddingBottom: .0227272734
+  - name: Panel_Shop_TagBack
+    outer:
+      serializedVersion: 2
+      x: 351
+      y: 705
+      width: 226
+      height: 101
+    inner:
+      serializedVersion: 2
+      x: 351
+      y: 705
+      width: 226
+      height: 101
+    paddingLeft: .00884955749
+    paddingRight: .00884955749
+    paddingTop: .0198019799
+    paddingBottom: .0198019799
+  - name: Main_JinDu_Surface
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 389
+      width: 9
+      height: 5
+    inner:
+      serializedVersion: 2
+      x: 166
+      y: 389
+      width: 7
+      height: 5
+    paddingLeft: .444444448
+    paddingRight: .444444448
+    paddingTop: 0
+    paddingBottom: .800000012
+  - name: Main_JinDu_Left
+    outer:
+      serializedVersion: 2
+      x: 983
+      y: 961
+      width: 36
+      height: 31
+    inner:
+      serializedVersion: 2
+      x: 983
+      y: 961
+      width: 36
+      height: 31
+    paddingLeft: .111111112
+    paddingRight: .111111112
+    paddingTop: .129032254
+    paddingBottom: .129032254
+  - name: Main_JinDu_Bar
+    outer:
+      serializedVersion: 2
+      x: 994
+      y: 896
+      width: 14
+      height: 18
+    inner:
+      serializedVersion: 2
+      x: 996
+      y: 896
+      width: 10
+      height: 18
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Main_JinDu_Right
+    outer:
+      serializedVersion: 2
+      x: 983
+      y: 993
+      width: 36
+      height: 31
+    inner:
+      serializedVersion: 2
+      x: 983
+      y: 993
+      width: 36
+      height: 31
+    paddingLeft: .111111112
+    paddingRight: .111111112
+    paddingTop: .129032254
+    paddingBottom: .129032254
+  - name: Panel_Attack_XueTiao
+    outer:
+      serializedVersion: 2
+      x: 213
+      y: 331
+      width: 2
+      height: 8
+    inner:
+      serializedVersion: 2
+      x: 214
+      y: 332
+      width: 0
+      height: 6
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Panel_Attack_XueCao
+    outer:
+      serializedVersion: 2
+      x: 799
+      y: 372
+      width: 136
+      height: 13
+    inner:
+      serializedVersion: 2
+      x: 799
+      y: 372
+      width: 136
+      height: 13
+    paddingLeft: .0294117648
+    paddingRight: .0294117648
+    paddingTop: .307692319
+    paddingBottom: .307692319
+  - name: Main_Map_NodInfo2
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 39
+      width: 164
+      height: 174
+    inner:
+      serializedVersion: 2
+      x: 58
+      y: 95
+      width: 52
+      height: 15
+    paddingLeft: .0365853645
+    paddingRight: .0609756112
+    paddingTop: .0344827585
+    paddingBottom: 0
+  - name: Main_Map_NodInfo
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 389
+      width: 164
+      height: 175
+    inner:
+      serializedVersion: 2
+      x: 49
+      y: 486
+      width: 82
+      height: 47
+    paddingLeft: .0670731738
+    paddingRight: .0304878056
+    paddingTop: .0285714287
+    paddingBottom: 0
+  - name: MachineA_Icon_HaoHuaLaZu
+    outer:
+      serializedVersion: 2
+      x: 560
+      y: 51
+      width: 60
+      height: 66
+    inner:
+      serializedVersion: 2
+      x: 560
+      y: 51
+      width: 60
+      height: 66
+    paddingLeft: .0666666701
+    paddingRight: .0666666701
+    paddingTop: .0606060624
+    paddingBottom: .0606060624
+  - name: MachineA_Icon_LaZu
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 276
+      width: 37
+      height: 63
+    inner:
+      serializedVersion: 2
+      x: 165
+      y: 276
+      width: 37
+      height: 63
+    paddingLeft: .108108111
+    paddingRight: .108108111
+    paddingTop: .0634920672
+    paddingBottom: .0634920672
+  - name: MachineA_Icon_ShanDian
+    outer:
+      serializedVersion: 2
+      x: 928
+      y: 456
+      width: 52
+      height: 34
+    inner:
+      serializedVersion: 2
+      x: 928
+      y: 456
+      width: 52
+      height: 34
+    paddingLeft: .0769230798
+    paddingRight: .0769230798
+    paddingTop: .117647059
+    paddingBottom: .117647059
+  - name: MachineA_Icon_GaoJiShanDian
+    outer:
+      serializedVersion: 2
+      x: 560
+      y: 1
+      width: 61
+      height: 49
+    inner:
+      serializedVersion: 2
+      x: 560
+      y: 1
+      width: 61
+      height: 49
+    paddingLeft: .0655737668
+    paddingRight: .0655737668
+    paddingTop: .0816326514
+    paddingBottom: .0816326514
+  - name: MachineP_Icon_ChaoJiJiaSu
+    outer:
+      serializedVersion: 2
+      x: 716
+      y: 726
+      width: 130
+      height: 44
+    inner:
+      serializedVersion: 2
+      x: 716
+      y: 726
+      width: 130
+      height: 44
+    paddingLeft: .0307692308
+    paddingRight: .0307692308
+    paddingTop: .0909090936
+    paddingBottom: .0909090936
+  - name: MachineP_Icon_DaJiaSu
+    outer:
+      serializedVersion: 2
+      x: 820
+      y: 518
+      width: 109
+      height: 44
+    inner:
+      serializedVersion: 2
+      x: 820
+      y: 518
+      width: 109
+      height: 44
+    paddingLeft: .0366972461
+    paddingRight: .0366972461
+    paddingTop: .0909090936
+    paddingBottom: .0909090936
+  - name: MachineP_Icon_JiaSu
+    outer:
+      serializedVersion: 2
+      x: 669
+      y: 493
+      width: 59
+      height: 39
+    inner:
+      serializedVersion: 2
+      x: 669
+      y: 493
+      width: 59
+      height: 39
+    paddingLeft: .0677966103
+    paddingRight: .0677966103
+    paddingTop: .102564104
+    paddingBottom: .102564104
+  - name: MachineP_Icon_KengWei
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1
+      width: 117
+      height: 37
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1
+      width: 117
+      height: 37
+    paddingLeft: .0341880359
+    paddingRight: .0341880359
+    paddingTop: .108108111
+    paddingBottom: .108108111
+  - name: MachineP_Icon_ShengJi
+    outer:
+      serializedVersion: 2
+      x: 976
+      y: 915
+      width: 41
+      height: 44
+    inner:
+      serializedVersion: 2
+      x: 976
+      y: 915
+      width: 41
+      height: 44
+    paddingLeft: .097560972
+    paddingRight: .097560972
+    paddingTop: .0909090936
+    paddingBottom: .0909090936
+  - name: MachineI_Icon_MeiHongPing
+    outer:
+      serializedVersion: 2
+      x: 624
+      y: 59
+      width: 55
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 624
+      y: 59
+      width: 55
+      height: 70
+    paddingLeft: .0727272704
+    paddingRight: .0727272704
+    paddingTop: .0571428575
+    paddingBottom: .0571428575
+  - name: MachineI_Icon_LvPing
+    outer:
+      serializedVersion: 2
+      x: 743
+      y: 315
+      width: 55
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 743
+      y: 315
+      width: 55
+      height: 70
+    paddingLeft: .0727272704
+    paddingRight: .0727272704
+    paddingTop: .0571428575
+    paddingBottom: .0571428575
+  - name: MachineI_Icon_ZiPing
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 495
+      width: 49
+      height: 69
+    inner:
+      serializedVersion: 2
+      x: 165
+      y: 495
+      width: 49
+      height: 69
+    paddingLeft: .0816326514
+    paddingRight: .0816326514
+    paddingTop: .0579710156
+    paddingBottom: .0579710156
+  - name: MachineI_Icon_LanPing
+    outer:
+      serializedVersion: 2
+      x: 687
+      y: 315
+      width: 55
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 687
+      y: 315
+      width: 55
+      height: 70
+    paddingLeft: .0727272704
+    paddingRight: .0727272704
+    paddingTop: .0571428575
+    paddingBottom: .0571428575
+  - name: Teach_Arrow
+    outer:
+      serializedVersion: 2
+      x: 957
+      y: 622
+      width: 61
+      height: 82
+    inner:
+      serializedVersion: 2
+      x: 957
+      y: 622
+      width: 61
+      height: 82
+    paddingLeft: .0655737668
+    paddingRight: .0655737668
+    paddingTop: .048780486
+    paddingBottom: .048780486
+  - name: Main_Tips_Back
+    outer:
+      serializedVersion: 2
+      x: 945
+      y: 807
+      width: 66
+      height: 81
+    inner:
+      serializedVersion: 2
+      x: 945
+      y: 807
+      width: 66
+      height: 81
+    paddingLeft: .0606060624
+    paddingRight: .0606060624
+    paddingTop: 0
+    paddingBottom: .0493827164
+  - name: Panel_Collection_Info_Rect
+    outer:
+      serializedVersion: 2
+      x: 505
+      y: 93
+      width: 54
+      height: 57
+    inner:
+      serializedVersion: 2
+      x: 523
+      y: 111
+      width: 18
+      height: 21
+    paddingLeft: .0740740746
+    paddingRight: .0740740746
+    paddingTop: 0
+    paddingBottom: .0701754391
+  - name: Option_Back_Down
+    outer:
+      serializedVersion: 2
+      x: 560
+      y: 313
+      width: 63
+      height: 64
+    inner:
+      serializedVersion: 2
+      x: 560
+      y: 313
+      width: 63
+      height: 64
+    paddingLeft: .0634920672
+    paddingRight: .0634920672
+    paddingTop: .0625
+    paddingBottom: .0625
+  - name: Option_Back_Nor
+    outer:
+      serializedVersion: 2
+      x: 560
+      y: 118
+      width: 63
+      height: 64
+    inner:
+      serializedVersion: 2
+      x: 560
+      y: 118
+      width: 63
+      height: 64
+    paddingLeft: .0634920672
+    paddingRight: .0634920672
+    paddingTop: .0625
+    paddingBottom: .0625
+  - name: Option_Sound_Down
+    outer:
+      serializedVersion: 2
+      x: 560
+      y: 183
+      width: 63
+      height: 64
+    inner:
+      serializedVersion: 2
+      x: 560
+      y: 183
+      width: 63
+      height: 64
+    paddingLeft: .0634920672
+    paddingRight: .0634920672
+    paddingTop: .0625
+    paddingBottom: .0625
+  - name: Option_Music_Nor
+    outer:
+      serializedVersion: 2
+      x: 624
+      y: 194
+      width: 62
+      height: 63
+    inner:
+      serializedVersion: 2
+      x: 624
+      y: 194
+      width: 62
+      height: 63
+    paddingLeft: .0645161271
+    paddingRight: .0645161271
+    paddingTop: .0634920672
+    paddingBottom: .0634920672
+  - name: Option_Down
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 395
+      width: 49
+      height: 49
+    inner:
+      serializedVersion: 2
+      x: 165
+      y: 395
+      width: 49
+      height: 49
+    paddingLeft: .0816326514
+    paddingRight: .0816326514
+    paddingTop: .0816326514
+    paddingBottom: .0816326514
+  - name: Option_Music_Down
+    outer:
+      serializedVersion: 2
+      x: 624
+      y: 322
+      width: 62
+      height: 63
+    inner:
+      serializedVersion: 2
+      x: 624
+      y: 322
+      width: 62
+      height: 63
+    paddingLeft: .0645161271
+    paddingRight: .0645161271
+    paddingTop: .0634920672
+    paddingBottom: .0634920672
+  - name: Option_Sound_Nor
+    outer:
+      serializedVersion: 2
+      x: 560
+      y: 378
+      width: 63
+      height: 64
+    inner:
+      serializedVersion: 2
+      x: 560
+      y: 378
+      width: 63
+      height: 64
+    paddingLeft: .0634920672
+    paddingRight: .0634920672
+    paddingTop: .0625
+    paddingBottom: .0625
+  - name: Option_Nor
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 445
+      width: 49
+      height: 49
+    inner:
+      serializedVersion: 2
+      x: 165
+      y: 445
+      width: 49
+      height: 49
+    paddingLeft: .0816326514
+    paddingRight: .0816326514
+    paddingTop: .0816326514
+    paddingBottom: .0816326514
+  - name: Option_Music_Close_Nor
+    outer:
+      serializedVersion: 2
+      x: 624
+      y: 258
+      width: 62
+      height: 63
+    inner:
+      serializedVersion: 2
+      x: 624
+      y: 258
+      width: 62
+      height: 63
+    paddingLeft: .0645161271
+    paddingRight: .0645161271
+    paddingTop: .0634920672
+    paddingBottom: .0634920672
+  - name: Option_Music_Close_Down
+    outer:
+      serializedVersion: 2
+      x: 624
+      y: 130
+      width: 62
+      height: 63
+    inner:
+      serializedVersion: 2
+      x: 624
+      y: 130
+      width: 62
+      height: 63
+    paddingLeft: .0645161271
+    paddingRight: .0645161271
+    paddingTop: .0634920672
+    paddingBottom: .0634920672
+  - name: Option_Sound_Close_Nor
+    outer:
+      serializedVersion: 2
+      x: 930
+      y: 498
+      width: 63
+      height: 64
+    inner:
+      serializedVersion: 2
+      x: 930
+      y: 498
+      width: 63
+      height: 64
+    paddingLeft: .0634920672
+    paddingRight: .0634920672
+    paddingTop: .0625
+    paddingBottom: .0625
+  - name: Option_Sound_Close_Down
+    outer:
+      serializedVersion: 2
+      x: 560
+      y: 248
+      width: 63
+      height: 64
+    inner:
+      serializedVersion: 2
+      x: 560
+      y: 248
+      width: 63
+      height: 64
+    paddingLeft: .0634920672
+    paddingRight: .0634920672
+    paddingTop: .0625
+    paddingBottom: .0625
+  - name: Map_NameBG
+    outer:
+      serializedVersion: 2
+      x: 217
+      y: 807
+      width: 298
+      height: 81
+    inner:
+      serializedVersion: 2
+      x: 217
+      y: 807
+      width: 298
+      height: 81
+    paddingLeft: .00671140943
+    paddingRight: .00335570471
+    paddingTop: .0123456791
+    paddingBottom: .0246913582
+  - name: Panel_GunDongZhou
+    outer:
+      serializedVersion: 2
+      x: 687
+      y: 212
+      width: 15
+      height: 102
+    inner:
+      serializedVersion: 2
+      x: 687
+      y: 212
+      width: 15
+      height: 102
+    paddingLeft: .266666681
+    paddingRight: .266666681
+    paddingTop: .0392156877
+    paddingBottom: .0392156877
+  - name: Panel_GunDongTiao
+    outer:
+      serializedVersion: 2
+      x: 203
+      y: 300
+      width: 9
+      height: 39
+    inner:
+      serializedVersion: 2
+      x: 203
+      y: 302
+      width: 9
+      height: 29
+    paddingLeft: .444444448
+    paddingRight: .444444448
+    paddingTop: 0
+    paddingBottom: .102564104
+  - name: Teach_Hand
+    outer:
+      serializedVersion: 2
+      x: 351
+      y: 218
+      width: 104
+      height: 135
+    inner:
+      serializedVersion: 2
+      x: 351
+      y: 218
+      width: 104
+      height: 135
+    paddingLeft: .0384615399
+    paddingRight: .0384615399
+    paddingTop: .0296296291
+    paddingBottom: .0296296291
+  - name: Main_PopTips_Up
+    outer:
+      serializedVersion: 2
+      x: 351
+      y: 602
+      width: 221
+      height: 102
+    inner:
+      serializedVersion: 2
+      x: 351
+      y: 602
+      width: 221
+      height: 102
+    paddingLeft: .0180995483
+    paddingRight: .0180995483
+    paddingTop: 0
+    paddingBottom: .0392156877
+  - name: Stage_Info_NameBack
+    outer:
+      serializedVersion: 2
+      x: 505
+      y: 491
+      width: 163
+      height: 110
+    inner:
+      serializedVersion: 2
+      x: 582
+      y: 491
+      width: 6
+      height: 110
+    paddingLeft: .0245398767
+    paddingRight: .0245398767
+    paddingTop: 0
+    paddingBottom: .0363636352
+  - name: Main_ShiQi_Icon_Empty
+    outer:
+      serializedVersion: 2
+      x: 310
+      y: 7
+      width: 25
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 310
+      y: 7
+      width: 25
+      height: 26
+    paddingLeft: .159999996
+    paddingRight: .159999996
+    paddingTop: 0
+    paddingBottom: .15384616
+  - name: Main_ShiQi_Icon
+    outer:
+      serializedVersion: 2
+      x: 118
+      y: 3
+      width: 35
+      height: 35
+    inner:
+      serializedVersion: 2
+      x: 118
+      y: 3
+      width: 35
+      height: 35
+    paddingLeft: .114285715
+    paddingRight: .114285715
+    paddingTop: 0
+    paddingBottom: .114285715
+  - name: Panel_Collection_Star_U
+    outer:
+      serializedVersion: 2
+      x: 310
+      y: 66
+      width: 33
+      height: 32
+    inner:
+      serializedVersion: 2
+      x: 310
+      y: 66
+      width: 33
+      height: 32
+    paddingLeft: .121212125
+    paddingRight: .121212125
+    paddingTop: .125
+    paddingBottom: .125
+  - name: Main_JinDu_Back
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 3
+      width: 50
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 165
+      y: 3
+      width: 50
+      height: 27
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: .148148149
+  - name: Teach_Aim_Rect
+    outer:
+      serializedVersion: 2
+      x: 217
+      y: 4
+      width: 92
+      height: 94
+    inner:
+      serializedVersion: 2
+      x: 262
+      y: 49
+      width: 2
+      height: 4
+    paddingLeft: .0434782617
+    paddingRight: .0434782617
+    paddingTop: 0
+    paddingBottom: .0425531901
+  - name: Opion_BG
+    outer:
+      serializedVersion: 2
+      x: 665
+      y: 632
+      width: 105
+      height: 72
+    inner:
+      serializedVersion: 2
+      x: 682
+      y: 669
+      width: 39
+      height: 10
+    paddingLeft: .0380952395
+    paddingRight: .0380952395
+    paddingTop: .055555556
+    paddingBottom: .055555556
+  - name: Main_Btn1_Nor
+    outer:
+      serializedVersion: 2
+      x: 351
+      y: 354
+      width: 148
+      height: 123
+    inner:
+      serializedVersion: 2
+      x: 411
+      y: 354
+      width: 28
+      height: 123
+    paddingLeft: .0270270277
+    paddingRight: .0270270277
+    paddingTop: 0
+    paddingBottom: .032520324
+  - name: Main_Btn1_Down
+    outer:
+      serializedVersion: 2
+      x: 351
+      y: 478
+      width: 153
+      height: 123
+    inner:
+      serializedVersion: 2
+      x: 411
+      y: 478
+      width: 23
+      height: 123
+    paddingLeft: .0261437912
+    paddingRight: .0261437912
+    paddingTop: 0
+    paddingBottom: .032520324
+  - name: Main_Btn0_No
+    outer:
+      serializedVersion: 2
+      x: 802
+      y: 807
+      width: 142
+      height: 81
+    inner:
+      serializedVersion: 2
+      x: 842
+      y: 807
+      width: 57
+      height: 81
+    paddingLeft: .0281690136
+    paddingRight: .0281690136
+    paddingTop: 0
+    paddingBottom: .0493827164
+  - name: Main_Btn0_Nor
+    outer:
+      serializedVersion: 2
+      x: 659
+      y: 807
+      width: 142
+      height: 81
+    inner:
+      serializedVersion: 2
+      x: 699
+      y: 807
+      width: 57
+      height: 81
+    paddingLeft: .0281690136
+    paddingRight: .0281690136
+    paddingTop: 0
+    paddingBottom: .0493827164
+  - name: Main_Btn0_Down
+    outer:
+      serializedVersion: 2
+      x: 516
+      y: 807
+      width: 142
+      height: 81
+    inner:
+      serializedVersion: 2
+      x: 556
+      y: 807
+      width: 57
+      height: 81
+    paddingLeft: .0281690136
+    paddingRight: .0281690136
+    paddingTop: 0
+    paddingBottom: .0493827164
+  - name: MachineP_Background
+    outer:
+      serializedVersion: 2
+      x: 573
+      y: 619
+      width: 91
+      height: 85
+    inner:
+      serializedVersion: 2
+      x: 588
+      y: 634
+      width: 59
+      height: 57
+    paddingLeft: .0439560451
+    paddingRight: .0439560451
+    paddingTop: 0
+    paddingBottom: .0470588244
+  - name: Panel_Collection_Title
+    outer:
+      serializedVersion: 2
+      x: 893
+      y: 391
+      width: 53
+      height: 51
+    inner:
+      serializedVersion: 2
+      x: 893
+      y: 391
+      width: 53
+      height: 51
+    paddingLeft: .0754716992
+    paddingRight: .0754716992
+    paddingTop: 0
+    paddingBottom: .0784313753
+  - name: Main_ShiQi_4
+    outer:
+      serializedVersion: 2
+      x: 770
+      y: 416
+      width: 122
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 770
+      y: 416
+      width: 122
+      height: 26
+    paddingLeft: .0327868834
+    paddingRight: .0327868834
+    paddingTop: 0
+    paddingBottom: .15384616
+  - name: Main_ShiQi_5
+    outer:
+      serializedVersion: 2
+      x: 770
+      y: 389
+      width: 122
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 770
+      y: 389
+      width: 122
+      height: 26
+    paddingLeft: .0327868834
+    paddingRight: .0327868834
+    paddingTop: 0
+    paddingBottom: .15384616
+  - name: Main_ShiQi_1
+    outer:
+      serializedVersion: 2
+      x: 578
+      y: 706
+      width: 122
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 578
+      y: 706
+      width: 122
+      height: 26
+    paddingLeft: .0327868834
+    paddingRight: .0327868834
+    paddingTop: 0
+    paddingBottom: .15384616
+  - name: Main_ShiQi_3
+    outer:
+      serializedVersion: 2
+      x: 682
+      y: 464
+      width: 122
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 682
+      y: 464
+      width: 122
+      height: 26
+    paddingLeft: .0327868834
+    paddingRight: .0327868834
+    paddingTop: 0
+    paddingBottom: .15384616
+  - name: Main_ShiQi_2
+    outer:
+      serializedVersion: 2
+      x: 805
+      y: 464
+      width: 122
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 805
+      y: 464
+      width: 122
+      height: 26
+    paddingLeft: .0327868834
+    paddingRight: .0327868834
+    paddingTop: 0
+    paddingBottom: .15384616
+  - name: Main_ShiQiBack
+    outer:
+      serializedVersion: 2
+      x: 716
+      y: 771
+      width: 223
+      height: 35
+    inner:
+      serializedVersion: 2
+      x: 716
+      y: 771
+      width: 223
+      height: 35
+    paddingLeft: .0179372206
+    paddingRight: .0179372206
+    paddingTop: 0
+    paddingBottom: .114285715
+  - name: Main_Critical
+    outer:
+      serializedVersion: 2
+      x: 578
+      y: 733
+      width: 137
+      height: 73
+    inner:
+      serializedVersion: 2
+      x: 578
+      y: 733
+      width: 137
+      height: 73
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Main_Sun
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 118
+      width: 47
+      height: 46
+    inner:
+      serializedVersion: 2
+      x: 165
+      y: 118
+      width: 47
+      height: 46
+    paddingLeft: .0851063803
+    paddingRight: .0851063803
+    paddingTop: .0869565234
+    paddingBottom: .0869565234
+  - name: Main_Exp
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 340
+      width: 50
+      height: 48
+    inner:
+      serializedVersion: 2
+      x: 165
+      y: 340
+      width: 50
+      height: 48
+    paddingLeft: .0799999982
+    paddingRight: .0799999982
+    paddingTop: .0833333358
+    paddingBottom: .0833333358
+  - name: Machine_Icon_Rare
+    outer:
+      serializedVersion: 2
+      x: 947
+      y: 392
+      width: 52
+      height: 50
+    inner:
+      serializedVersion: 2
+      x: 947
+      y: 392
+      width: 52
+      height: 50
+    paddingLeft: .0769230798
+    paddingRight: .0769230798
+    paddingTop: 0
+    paddingBottom: .0799999982
+  - name: Machine_Icon_Property
+    outer:
+      serializedVersion: 2
+      x: 505
+      y: 40
+      width: 53
+      height: 52
+    inner:
+      serializedVersion: 2
+      x: 505
+      y: 40
+      width: 53
+      height: 52
+    paddingLeft: .0754716992
+    paddingRight: .0754716992
+    paddingTop: 0
+    paddingBottom: .0769230798
+  - name: Machine_Icon_Speed
+    outer:
+      serializedVersion: 2
+      x: 351
+      y: 1
+      width: 86
+      height: 50
+    inner:
+      serializedVersion: 2
+      x: 351
+      y: 1
+      width: 86
+      height: 50
+    paddingLeft: .0465116277
+    paddingRight: .0465116277
+    paddingTop: 0
+    paddingBottom: .0799999982
+  - name: Machine_Icon_Catalyst
+    outer:
+      serializedVersion: 2
+      x: 505
+      y: 443
+      width: 98
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 505
+      y: 443
+      width: 98
+      height: 47
+    paddingLeft: .0408163257
+    paddingRight: .0408163257
+    paddingTop: 0
+    paddingBottom: .0851063803
+  - name: Main_Gift
+    outer:
+      serializedVersion: 2
+      x: 351
+      y: 108
+      width: 95
+      height: 109
+    inner:
+      serializedVersion: 2
+      x: 351
+      y: 108
+      width: 95
+      height: 109
+    paddingLeft: .042105265
+    paddingRight: .042105265
+    paddingTop: 0
+    paddingBottom: .0366972461
+  - name: Panel_ZombieUp
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 73
+      width: 45
+      height: 44
+    inner:
+      serializedVersion: 2
+      x: 165
+      y: 73
+      width: 45
+      height: 44
+    paddingLeft: .088888891
+    paddingRight: .088888891
+    paddingTop: 0
+    paddingBottom: .0909090936
+  - name: Tips_Exclamation
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 226
+      width: 47
+      height: 49
+    inner:
+      serializedVersion: 2
+      x: 165
+      y: 226
+      width: 47
+      height: 49
+    paddingLeft: .0851063803
+    paddingRight: .0851063803
+    paddingTop: 0
+    paddingBottom: .0816326514
+  - name: Laba_Light_Off
+    outer:
+      serializedVersion: 2
+      x: 976
+      y: 897
+      width: 17
+      height: 17
+    inner:
+      serializedVersion: 2
+      x: 976
+      y: 897
+      width: 17
+      height: 17
+    paddingLeft: .235294119
+    paddingRight: .235294119
+    paddingTop: 0
+    paddingBottom: .235294119
+  - name: Laba_Light_On
+    outer:
+      serializedVersion: 2
+      x: 165
+      y: 165
+      width: 47
+      height: 48
+    inner:
+      serializedVersion: 2
+      x: 165
+      y: 165
+      width: 47
+      height: 48
+    paddingLeft: .0851063803
+    paddingRight: .0851063803
+    paddingTop: 0
+    paddingBottom: .0833333358
+  - name: MachineA_ZhanBu_Icon
+    outer:
+      serializedVersion: 2
+      x: 505
+      y: 214
+      width: 53
+      height: 66
+    inner:
+      serializedVersion: 2
+      x: 505
+      y: 214
+      width: 53
+      height: 66
+    paddingLeft: .0754716992
+    paddingRight: .0754716992
+    paddingTop: 0
+    paddingBottom: .0606060624
+  - name: Panel_Task_Rect
+    outer:
+      serializedVersion: 2
+      x: 863
+      y: 632
+      width: 93
+      height: 72
+    inner:
+      serializedVersion: 2
+      x: 923
+      y: 632
+      width: 7
+      height: 72
+    paddingLeft: .0430107526
+    paddingRight: .0430107526
+    paddingTop: 0
+    paddingBottom: .055555556
+  - name: Panel_Task_Back
+    outer:
+      serializedVersion: 2
+      x: 604
+      y: 443
+      width: 77
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 631
+      y: 443
+      width: 43
+      height: 47
+    paddingLeft: .0519480519
+    paddingRight: .0519480519
+    paddingTop: 0
+    paddingBottom: .0851063803
+  - name: Tips_NeedAgent_Rect
+    outer:
+      serializedVersion: 2
+      x: 940
+      y: 714
+      width: 81
+      height: 92
+    inner:
+      serializedVersion: 2
+      x: 940
+      y: 714
+      width: 81
+      height: 92
+    paddingLeft: .0493827164
+    paddingRight: .0493827164
+    paddingTop: 0
+    paddingBottom: .0434782617
+  - name: Tips_NeedAgent_Bottle
+    outer:
+      serializedVersion: 2
+      x: 505
+      y: 151
+      width: 52
+      height: 62
+    inner:
+      serializedVersion: 2
+      x: 505
+      y: 151
+      width: 52
+      height: 62
+    paddingLeft: .0769230798
+    paddingRight: .0769230798
+    paddingTop: 0
+    paddingBottom: .0645161271
+  - name: Main_Coin_1
+    outer:
+      serializedVersion: 2
+      x: 456
+      y: 312
+      width: 48
+      height: 41
+    inner:
+      serializedVersion: 2
+      x: 456
+      y: 312
+      width: 48
+      height: 41
+    paddingLeft: .0833333358
+    paddingRight: .0833333358
+    paddingTop: .097560972
+    paddingBottom: .097560972
+  - name: Panel_Skill_RecIcon
+    outer:
+      serializedVersion: 2
+      x: 747
+      y: 529
+      width: 72
+      height: 72
+    inner:
+      serializedVersion: 2
+      x: 747
+      y: 529
+      width: 72
+      height: 72
+    paddingLeft: .055555556
+    paddingRight: .055555556
+    paddingTop: 0
+    paddingBottom: .055555556
+  - name: Panel_Skill_SpeedIcon
+    outer:
+      serializedVersion: 2
+      x: 877
+      y: 896
+      width: 98
+      height: 63
+    inner:
+      serializedVersion: 2
+      x: 877
+      y: 896
+      width: 98
+      height: 63
+    paddingLeft: .0408163257
+    paddingRight: .0408163257
+    paddingTop: 0
+    paddingBottom: .0634920672
+  - name: Panel_Skill__AttackIcon
+    outer:
+      serializedVersion: 2
+      x: 847
+      y: 705
+      width: 68
+      height: 65
+    inner:
+      serializedVersion: 2
+      x: 847
+      y: 705
+      width: 68
+      height: 65
+    paddingLeft: .0588235296
+    paddingRight: .0588235296
+    paddingTop: 0
+    paddingBottom: .0615384616
+  - name: Panel_Skill_ExpIcon
+    outer:
+      serializedVersion: 2
+      x: 351
+      y: 52
+      width: 97
+      height: 55
+    inner:
+      serializedVersion: 2
+      x: 351
+      y: 52
+      width: 97
+      height: 55
+    paddingLeft: .0412371121
+    paddingRight: .0412371121
+    paddingTop: 0
+    paddingBottom: .0727272704
+  - name: Main_Coin_2
+    outer:
+      serializedVersion: 2
+      x: 747
+      y: 491
+      width: 49
+      height: 37
+    inner:
+      serializedVersion: 2
+      x: 747
+      y: 491
+      width: 49
+      height: 37
+    paddingLeft: .0816326514
+    paddingRight: .0816326514
+    paddingTop: .108108111
+    paddingBottom: .108108111
+  - name: Panel_Stage_Lock
+    outer:
+      serializedVersion: 2
+      x: 771
+      y: 625
+      width: 91
+      height: 79
+    inner:
+      serializedVersion: 2
+      x: 771
+      y: 625
+      width: 91
+      height: 79
+    paddingLeft: .0439560451
+    paddingRight: .0439560451
+    paddingTop: 0
+    paddingBottom: .0506329127
+  - name: Panel_Stage_Link
+    outer:
+      serializedVersion: 2
+      x: 669
+      y: 533
+      width: 77
+      height: 68
+    inner:
+      serializedVersion: 2
+      x: 669
+      y: 533
+      width: 77
+      height: 68
+    paddingLeft: .0519480519
+    paddingRight: .0519480519
+    paddingTop: 0
+    paddingBottom: .0588235296
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

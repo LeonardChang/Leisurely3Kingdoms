@@ -1,0 +1,359 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_BingXueNvWang
+  spriteGroups:
+  - {fileID: 11400012}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u51B0"
+  atlas: {fileID: 11400000, guid: ef3ea7dd43e1ac34a99ca509e9d7e7c4, type: 2}
+  image: {fileID: 2800000, guid: 51f0adda06427714caca3117c83950dc, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 228
+    y: 68
+    width: 21
+    height: 39
+  parentName: Untitled Group
+  parentID: -33542
+  linkedTexturePath: "Assets/lc/bingxuenvwang/\u51B0.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 21
+    height: 39
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 11, y: 28}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u51B0"
+  vertices:
+  - {x: -11, y: 28, z: 0}
+  - {x: 10, y: 28, z: 0}
+  - {x: 10, y: -11, z: 0}
+  - {x: -11, y: -11, z: 0}
+  uvs:
+  - {x: .921875, y: 1}
+  - {x: .942382812, y: 1}
+  - {x: .942382812, y: .84765625}
+  - {x: .921875, y: .84765625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934\u53D1"
+  atlas: {fileID: 11400000, guid: ef3ea7dd43e1ac34a99ca509e9d7e7c4, type: 2}
+  image: {fileID: 2800000, guid: 51f0adda06427714caca3117c83950dc, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 116
+    y: 136
+    width: 91
+    height: 97
+  parentName: Untitled Group
+  parentID: -33542
+  linkedTexturePath: "Assets/lc/bingxuenvwang/\u5934\u53D1.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 91
+    height: 97
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 19, y: 26}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934\u53D1"
+  vertices:
+  - {x: -19, y: 26, z: 0}
+  - {x: 72, y: 26, z: 0}
+  - {x: 72, y: -71, z: 0}
+  - {x: -19, y: -71, z: 0}
+  uvs:
+  - {x: .796875, y: 1}
+  - {x: .885742188, y: 1}
+  - {x: .885742188, y: .62109375}
+  - {x: .796875, y: .62109375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u624B"
+  atlas: {fileID: 11400000, guid: ef3ea7dd43e1ac34a99ca509e9d7e7c4, type: 2}
+  image: {fileID: 2800000, guid: 51f0adda06427714caca3117c83950dc, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 116
+    y: 0
+    width: 77
+    height: 132
+  parentName: Untitled Group
+  parentID: -33542
+  linkedTexturePath: "Assets/lc/bingxuenvwang/\u53F3\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 77
+    height: 132
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 64, y: 53}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u624B"
+  vertices:
+  - {x: -64, y: 53, z: 0}
+  - {x: 13, y: 53, z: 0}
+  - {x: 13, y: -79, z: 0}
+  - {x: -64, y: -79, z: 0}
+  uvs:
+  - {x: .71875, y: 1}
+  - {x: .793945312, y: 1}
+  - {x: .793945312, y: .484375}
+  - {x: .71875, y: .484375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400006}
+  - {fileID: 11400010}
+  - {fileID: 11400008}
+  - {fileID: 11400014}
+  - {fileID: 11400016}
+  - {fileID: 11400018}
+  - {fileID: 11400020}
+  parentName: Ku_BingXueNvWang
+  isExpand: 1
+  groupName: Untitled Group
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5973\u738B"
+  atlas: {fileID: 11400000, guid: ef3ea7dd43e1ac34a99ca509e9d7e7c4, type: 2}
+  image: {fileID: 2800000, guid: 51f0adda06427714caca3117c83950dc, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 115
+    height: 171
+  parentName: Untitled Group
+  parentID: -33542
+  linkedTexturePath: "Assets/lc/bingxuenvwang/\u5973\u738B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 115
+    height: 171
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 46, y: 85}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5973\u738B"
+  vertices:
+  - {x: -46, y: 85, z: 0}
+  - {x: 69, y: 85, z: 0}
+  - {x: 69, y: -86, z: 0}
+  - {x: -46, y: -86, z: 0}
+  uvs:
+  - {x: .60546875, y: 1}
+  - {x: .717773438, y: 1}
+  - {x: .717773438, y: .33203125}
+  - {x: .60546875, y: .33203125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: 111111111
+  atlas: {fileID: 11400000, guid: ef3ea7dd43e1ac34a99ca509e9d7e7c4, type: 2}
+  image: {fileID: 2800000, guid: 51f0adda06427714caca3117c83950dc, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 196
+    y: 68
+    width: 30
+    height: 30
+  parentName: Untitled Group
+  parentID: -33542
+  linkedTexturePath: Assets/lc/bingxuenvwang/111111111.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 30
+    height: 30
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 14, y: 15}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: 111111111
+  vertices:
+  - {x: -14, y: 15, z: 0}
+  - {x: 16, y: 15, z: 0}
+  - {x: 16, y: -15, z: 0}
+  - {x: -14, y: -15, z: 0}
+  uvs:
+  - {x: .9609375, y: 1}
+  - {x: .990234375, y: 1}
+  - {x: .990234375, y: .8828125}
+  - {x: .9609375, y: .8828125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bing1
+  atlas: {fileID: 11400000, guid: ef3ea7dd43e1ac34a99ca509e9d7e7c4, type: 2}
+  image: {fileID: 2800000, guid: 51f0adda06427714caca3117c83950dc, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 196
+    y: 0
+    width: 39
+    height: 66
+  parentName: Untitled Group
+  parentID: -33542
+  linkedTexturePath: Assets/lc/bingxuenvwang/bing1.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 39
+    height: 66
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 17, y: 27}
+  position: {x: 0, y: 0}
+  rotation: -35.5
+  scale: {x: 1, y: 1}
+  spriteName: 1
+  vertices:
+  - {x: 1.83901656, y: 31.8530693, z: 0}
+  - {x: 33.5895195, y: 9.20565319, z: 0}
+  - {x: -4.73687458, y: -44.5259705, z: 0}
+  - {x: -36.4873772, y: -21.8785534, z: 0}
+  uvs:
+  - {x: .88671875, y: 1}
+  - {x: .924804688, y: 1}
+  - {x: .924804688, y: .7421875}
+  - {x: .88671875, y: .7421875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: bing2
+  atlas: {fileID: 11400000, guid: ef3ea7dd43e1ac34a99ca509e9d7e7c4, type: 2}
+  image: {fileID: 2800000, guid: 51f0adda06427714caca3117c83950dc, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 196
+    y: 100
+    width: 21
+    height: 27
+  parentName: Untitled Group
+  parentID: -33542
+  linkedTexturePath: Assets/lc/bingxuenvwang/bing2.tga
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 21
+    height: 27
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 12, y: 8}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: 2
+  vertices:
+  - {x: -12, y: 8, z: 0}
+  - {x: 9, y: 8, z: 0}
+  - {x: 9, y: -19, z: 0}
+  - {x: -12, y: -19, z: 0}
+  uvs:
+  - {x: .92578125, y: .859375}
+  - {x: .946289062, y: .859375}
+  - {x: .946289062, y: .75390625}
+  - {x: .92578125, y: .75390625}
+  fullPath: 
+  useOrigSize: 0

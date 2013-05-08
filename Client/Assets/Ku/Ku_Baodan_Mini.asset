@@ -1,0 +1,359 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_Baodan_Mini
+  spriteGroups:
+  - {fileID: 11400016}
+  isExpand: 0
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u624B"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 428
+    y: 372
+    width: 29
+    height: 41
+  parentName: Untitled Group
+  parentID: 4362
+  linkedTexturePath: "Assets/yanzheng/pic/\u7206\u5F39\u4FA7\u9762 TGA/\u53F3\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 29
+    height: 41
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 22.0835419, y: 34.5655327}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u624B"
+  vertices:
+  - {x: -22.0835419, y: 34.5655327, z: 0}
+  - {x: 6.91645813, y: 34.5655327, z: 0}
+  - {x: 6.91645813, y: -6.43446732, z: 0}
+  - {x: -22.0835419, y: -6.43446732, z: 0}
+  uvs:
+  - {x: .41796875, y: .63671875}
+  - {x: .446289062, y: .63671875}
+  - {x: .446289062, y: .596679688}
+  - {x: .41796875, y: .596679688}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u817F"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 124
+    y: 544
+    width: 18
+    height: 23
+  parentName: Untitled Group
+  parentID: 4362
+  linkedTexturePath: "Assets/yanzheng/pic/\u7206\u5F39\u4FA7\u9762 TGA/\u53F3\u817F.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 23
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 9.60153675, y: 5.76092196}
+  position: {x: -1, y: -1}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u817F"
+  vertices:
+  - {x: -10.6015368, y: 4.76092196, z: 0}
+  - {x: 7.39846325, y: 4.76092196, z: 0}
+  - {x: 7.39846325, y: -18.2390785, z: 0}
+  - {x: -10.6015368, y: -18.2390785, z: 0}
+  uvs:
+  - {x: .12109375, y: .46875}
+  - {x: .138671875, y: .46875}
+  - {x: .138671875, y: .446289062}
+  - {x: .12109375, y: .446289062}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 624
+    y: 532
+    width: 42
+    height: 46
+  parentName: Untitled Group
+  parentID: 4362
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 42
+    height: 46
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 10, y: 33}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934"
+  vertices:
+  - {x: -10, y: 33, z: 0}
+  - {x: 32, y: 33, z: 0}
+  - {x: 32, y: -13, z: 0}
+  - {x: -10, y: -13, z: 0}
+  uvs:
+  - {x: .609375, y: .48046875}
+  - {x: .650390625, y: .48046875}
+  - {x: .650390625, y: .435546875}
+  - {x: .609375, y: .435546875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u624B"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 824
+    y: 768
+    width: 25
+    height: 38
+  parentName: Untitled Group
+  parentID: 4362
+  linkedTexturePath: "Assets/yanzheng/pic/\u7206\u5F39\u4FA7\u9762 TGA/\u5DE6\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 25
+    height: 38
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 6.24099874, y: 30.7249165}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u624B"
+  vertices:
+  - {x: -6.24099874, y: 30.7249165, z: 0}
+  - {x: 18.7590008, y: 30.7249165, z: 0}
+  - {x: 18.7590008, y: -7.27508354, z: 0}
+  - {x: -6.24099874, y: -7.27508354, z: 0}
+  uvs:
+  - {x: .8046875, y: .25}
+  - {x: .829101562, y: .25}
+  - {x: .829101562, y: .212890625}
+  - {x: .8046875, y: .212890625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u817F"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 648
+    y: 580
+    width: 18
+    height: 23
+  parentName: Untitled Group
+  parentID: 4362
+  linkedTexturePath: "Assets/yanzheng/pic/\u7206\u5F39\u4FA7\u9762 TGA/\u5DE6\u817F.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 23
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 9.12145996, y: 6.72107553}
+  position: {x: 0, y: -2}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u817F"
+  vertices:
+  - {x: -9.12145996, y: 4.72107553, z: 0}
+  - {x: 8.87854004, y: 4.72107553, z: 0}
+  - {x: 8.87854004, y: -18.2789249, z: 0}
+  - {x: -9.12145996, y: -18.2789249, z: 0}
+  uvs:
+  - {x: .6328125, y: .43359375}
+  - {x: .650390625, y: .43359375}
+  - {x: .650390625, y: .411132812}
+  - {x: .6328125, y: .411132812}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u70B8\u5F39"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 888
+    y: 744
+    width: 33
+    height: 31
+  parentName: Untitled Group
+  parentID: 4362
+  linkedTexturePath: "Assets/yanzheng/pic/\u7206\u5F39\u4FA7\u9762 TGA/\u70B8\u5F39.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 33
+    height: 31
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 12.9620743, y: 15.842536}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u70B8\u5F39"
+  vertices:
+  - {x: -12.9620743, y: 15.842536, z: 0}
+  - {x: 20.0379257, y: 15.842536, z: 0}
+  - {x: 20.0379257, y: -15.157464, z: 0}
+  - {x: -12.9620743, y: -15.157464, z: 0}
+  uvs:
+  - {x: .8671875, y: .2734375}
+  - {x: .899414062, y: .2734375}
+  - {x: .899414062, y: .243164062}
+  - {x: .8671875, y: .243164062}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u8EAB\u4F53"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 616
+    y: 764
+    width: 31
+    height: 31
+  parentName: Untitled Group
+  parentID: 4362
+  linkedTexturePath: "Assets/yanzheng/pic/\u7206\u5F39\u4FA7\u9762 TGA/\u8EAB\u4F53.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 31
+    height: 31
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 17.7628441, y: 13.9222279}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u8EAB\u4F53"
+  vertices:
+  - {x: -17.7628441, y: 13.9222279, z: 0}
+  - {x: 13.2371559, y: 13.9222279, z: 0}
+  - {x: 13.2371559, y: -17.0777721, z: 0}
+  - {x: -17.7628441, y: -17.0777721, z: 0}
+  uvs:
+  - {x: .6015625, y: .25390625}
+  - {x: .631835938, y: .25390625}
+  - {x: .631835938, y: .223632812}
+  - {x: .6015625, y: .223632812}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400008}
+  - {fileID: 11400010}
+  - {fileID: 11400012}
+  - {fileID: 11400014}
+  - {fileID: 11400006}
+  parentName: Ku_Baodan_Mini
+  isExpand: 1
+  groupName: Untitled Group

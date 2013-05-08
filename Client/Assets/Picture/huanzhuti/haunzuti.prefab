@@ -1,0 +1,278 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: haunzuti
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 1}
+  m_Name: 
+  material: {fileID: 2100000, guid: 370d98d1e742c8a459b3a828a558a39e, type: 2}
+  sprites:
+  - name: "\u4E3B\u9898\u754C\u9762"
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1088
+      width: 640
+      height: 960
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1088
+      width: 640
+      height: 960
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: biaotikuang
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1017
+      width: 527
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1017
+      width: 527
+      height: 70
+    paddingLeft: .00759013277
+    paddingRight: .00759013277
+    paddingTop: .0571428575
+    paddingBottom: .0571428575
+  - name: shizijia
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1239
+      width: 73
+      height: 88
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1239
+      width: 73
+      height: 88
+    paddingLeft: .0547945201
+    paddingRight: .0547945201
+    paddingTop: .0454545468
+    paddingBottom: .0454545468
+  - name: shizijia2
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1328
+      width: 74
+      height: 88
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1328
+      width: 74
+      height: 88
+    paddingLeft: .0540540554
+    paddingRight: .0540540554
+    paddingTop: .0454545468
+    paddingBottom: .0454545468
+  - name: current
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1417
+      width: 226
+      height: 101
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1417
+      width: 226
+      height: 101
+    paddingLeft: .017699115
+    paddingRight: .017699115
+    paddingTop: .0396039598
+    paddingBottom: .0396039598
+  - name: zhuti
+    outer:
+      serializedVersion: 2
+      x: 868
+      y: 1462
+      width: 123
+      height: 56
+    inner:
+      serializedVersion: 2
+      x: 868
+      y: 1462
+      width: 123
+      height: 56
+    paddingLeft: .032520324
+    paddingRight: .032520324
+    paddingTop: .0714285746
+    paddingBottom: .0714285746
+  - name: opendiwen
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1860
+      width: 377
+      height: 188
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1860
+      width: 377
+      height: 188
+    paddingLeft: .0106100794
+    paddingRight: .0106100794
+    paddingTop: .0212765951
+    paddingBottom: .0212765951
+  - name: tomb
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1519
+      width: 345
+      height: 151
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1519
+      width: 345
+      height: 151
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: lockdiwen
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1671
+      width: 377
+      height: 188
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1671
+      width: 377
+      height: 188
+    paddingLeft: .0106100794
+    paddingRight: .0106100794
+    paddingTop: .0212765951
+    paddingBottom: .0212765951
+  - name: money
+    outer:
+      serializedVersion: 2
+      x: 868
+      y: 1420
+      width: 48
+      height: 41
+    inner:
+      serializedVersion: 2
+      x: 868
+      y: 1420
+      width: 48
+      height: 41
+    paddingLeft: .0833333358
+    paddingRight: .0833333358
+    paddingTop: .097560972
+    paddingBottom: .097560972
+  - name: 9
+    outer:
+      serializedVersion: 2
+      x: 987
+      y: 1535
+      width: 35
+      height: 32
+    inner:
+      serializedVersion: 2
+      x: 987
+      y: 1535
+      width: 35
+      height: 32
+    paddingLeft: .114285715
+    paddingRight: .114285715
+    paddingTop: .125
+    paddingBottom: .125
+  - name: gundongzhou
+    outer:
+      serializedVersion: 2
+      x: 987
+      y: 1568
+      width: 15
+      height: 102
+    inner:
+      serializedVersion: 2
+      x: 987
+      y: 1568
+      width: 15
+      height: 102
+    paddingLeft: .266666681
+    paddingRight: .266666681
+    paddingTop: .0392156877
+    paddingBottom: .0392156877
+  - name: gundongtiao
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 598
+      width: 9
+      height: 418
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 598
+      width: 9
+      height: 418
+    paddingLeft: .444444448
+    paddingRight: .444444448
+    paddingTop: .00956937764
+    paddingBottom: .00956937764
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

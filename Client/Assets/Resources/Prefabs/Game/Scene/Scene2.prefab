@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Scene2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: .150682464, y: .466911495, z: .268799245}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95f791cdcd955fb428129792f7777a9f, type: 1}
+  m_Name: 
+  DustLine1: {fileID: 11400030, guid: f10c111d86eb21f4c89be7f08265ae6f, type: 2}
+  DustLine2: {fileID: 11400032, guid: f10c111d86eb21f4c89be7f08265ae6f, type: 2}
+  DustLine3: {fileID: 11400034, guid: f10c111d86eb21f4c89be7f08265ae6f, type: 2}
+  DustLine4: {fileID: 2800000, guid: 98c80e9797ff26c4ab720d17962ce0c2, type: 1}
+  IrrigationMotion:
+  - {fileID: 11400000, guid: f45ad16a3b1787c439b6f9ae25db0152, type: 2}
+  - {fileID: 11400000, guid: b64e309aedc09c1418bdacde0943a1b6, type: 2}
+  - {fileID: 11400000, guid: 9b9edcfd7c5e3af4da3ffe72db41ebb3, type: 2}
+  - {fileID: 11400000, guid: a4f502509573b72429b065b7f76cffc6, type: 2}
+  - {fileID: 11400000, guid: 9db89d6989680bd4fb6e34b913e6e9cf, type: 2}
+  - {fileID: 11400000, guid: 04810abb5d350944f8e96221c01b6343, type: 2}
+  - {fileID: 11400000, guid: 75b0584f7f42d7748bd96bead7ec5282, type: 2}
+  - {fileID: 11400000, guid: 72c17b5b2bb94764d9932bc94089e80d, type: 2}
+  - {fileID: 11400000, guid: 3acb2034aa224f549ae3c43372e46e5f, type: 2}
+  - {fileID: 11400000, guid: 8fc0de73818aab24eb25ad795d52ffab, type: 2}
+  MachineMotion:
+  - {fileID: 11400000, guid: 408be649418467a42bebf64ad5cc0a58, type: 2}
+  - {fileID: 11400000, guid: 11f9d348df60f3141b7da70ad5e0a596, type: 2}
+  - {fileID: 11400000, guid: 04cafb93e47b9694b94a4e24cfcc6f67, type: 2}
+  - {fileID: 11400000, guid: 5b94e2b8ca648b74a8330897c687f428, type: 2}
+  - {fileID: 11400000, guid: 85b2d1ce6c6c8d043aae055e09921864, type: 2}
+  - {fileID: 11400000, guid: 8edafe3397d8f734ea8b35c1e4f16615, type: 2}
+  - {fileID: 11400000, guid: 0b52492c370cc174f80b21b4515c12cd, type: 2}
+  - {fileID: 11400000, guid: 4451c071838b45947a84e9b1ef08dd5f, type: 2}
+  - {fileID: 11400000, guid: 4be059564ad7faa4da67797dd7b6eb83, type: 2}
+  - {fileID: 11400000, guid: e60b92d9c3b9ca44481c0ac87d88e5c5, type: 2}
+  AltarMotion:
+  - {fileID: 11400000, guid: 2b579a43d9dd7164db7c8c171789fa05, type: 2}
+  - {fileID: 11400000, guid: 617a06d0cf55015458c93af7a4d991c4, type: 2}
+  - {fileID: 11400000, guid: 1d8a6d377f6b30c43b83325bf7009cad, type: 2}
+  - {fileID: 11400000, guid: 81bfcd6c4513d454fa8c3760b6b287d4, type: 2}
+  - {fileID: 11400000, guid: 0db22732943b6024f921675da3ecac24, type: 2}
+  - {fileID: 11400000, guid: 6d2098d349b697e4b9d8b28e5efb88e6, type: 2}
+  - {fileID: 11400000, guid: b68d4fb67bbf3f64f8d1a306d8caae30, type: 2}
+  - {fileID: 11400000, guid: 701f5ef9618bb6c418a4e7ac4f92ceef, type: 2}
+  - {fileID: 11400000, guid: 68d961f380a83df449eadb9350b7cc5b, type: 2}
+  - {fileID: 11400000, guid: 996fc31e5d7e6a94881023a900783101, type: 2}
+  Scene: {fileID: 100048, guid: b84828994f24be847a32cc10cdea0a69, type: 2}
+  MoneySprite: Main_Coin_1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

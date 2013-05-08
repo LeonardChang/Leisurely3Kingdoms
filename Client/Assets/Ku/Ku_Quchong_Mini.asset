@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_Quchong_Mini
+  spriteGroups:
+  - {fileID: 11400008}
+  isExpand: 0
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934\u53D1"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 724
+    y: 472
+    width: 55
+    height: 41
+  parentName: Untitled Group
+  parentID: 1920
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 55
+    height: 41
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 31, y: 12}
+  position: {x: 1, y: -0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934\u53D1"
+  vertices:
+  - {x: -30, y: 12, z: 0}
+  - {x: 25, y: 12, z: 0}
+  - {x: 25, y: -29, z: 0}
+  - {x: -30, y: -29, z: 0}
+  uvs:
+  - {x: .70703125, y: .5390625}
+  - {x: .760742188, y: .5390625}
+  - {x: .760742188, y: .499023438}
+  - {x: .70703125, y: .499023438}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u866B1"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 852
+    y: 796
+    width: 27
+    height: 32
+  parentName: Untitled Group
+  parentID: 1920
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 27
+    height: 32
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 11, y: 19}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u866B1"
+  vertices:
+  - {x: -11, y: 19, z: 0}
+  - {x: 16, y: 19, z: 0}
+  - {x: 16, y: -13, z: 0}
+  - {x: -11, y: -13, z: 0}
+  uvs:
+  - {x: .83203125, y: .22265625}
+  - {x: .858398438, y: .22265625}
+  - {x: .858398438, y: .19140625}
+  - {x: .83203125, y: .19140625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u866B2"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 740
+    y: 880
+    width: 24
+    height: 18
+  parentName: Untitled Group
+  parentID: 1920
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 24
+    height: 18
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 4, y: 7}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u866B2"
+  vertices:
+  - {x: -4, y: 7, z: 0}
+  - {x: 20, y: 7, z: 0}
+  - {x: 20, y: -11, z: 0}
+  - {x: -4, y: -11, z: 0}
+  uvs:
+  - {x: .72265625, y: .140625}
+  - {x: .74609375, y: .140625}
+  - {x: .74609375, y: .123046875}
+  - {x: .72265625, y: .123046875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400006}
+  - {fileID: 11400010}
+  parentName: Ku_Quchong_Mini
+  isExpand: 1
+  groupName: Untitled Group
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934"
+  atlas: {fileID: 11400000, guid: 347dd9375c1b9e445afa638ce48bea4e, type: 2}
+  image: {fileID: 2800000, guid: 4f7beee650c8d334b9c56d7b83c58eaf, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 828
+    y: 516
+    width: 45
+    height: 45
+  parentName: Untitled Group
+  parentID: 1920
+  linkedTexturePath: 
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 45
+    height: 45
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 9, y: 34}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934"
+  vertices:
+  - {x: -9, y: 34, z: 0}
+  - {x: 36, y: 34, z: 0}
+  - {x: 36, y: -11, z: 0}
+  - {x: -9, y: -11, z: 0}
+  uvs:
+  - {x: .80859375, y: .49609375}
+  - {x: .852539062, y: .49609375}
+  - {x: .852539062, y: .452148438}
+  - {x: .80859375, y: .452148438}
+  fullPath: 
+  useOrigSize: 0

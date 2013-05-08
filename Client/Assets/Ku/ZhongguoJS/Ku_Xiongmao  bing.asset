@@ -1,0 +1,359 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_Xiongmao  bing
+  spriteGroups:
+  - {fileID: 11400016}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 932
+    y: 324
+    width: 33
+    height: 37
+  parentName: Untitled Group
+  parentID: 10008
+  linkedTexturePath: "Assets/lc/BOSS/Xiongmao/\u53F3\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 33
+    height: 37
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 21, y: 12}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u624B"
+  vertices:
+  - {x: -21, y: 12, z: 0}
+  - {x: 12, y: 12, z: 0}
+  - {x: 12, y: -25, z: 0}
+  - {x: -21, y: -25, z: 0}
+  uvs:
+  - {x: .91015625, y: .3671875}
+  - {x: .942382812, y: .3671875}
+  - {x: .942382812, y: .294921875}
+  - {x: .91015625, y: .294921875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u811A"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 380
+    width: 28
+    height: 32
+  parentName: Untitled Group
+  parentID: 10008
+  linkedTexturePath: "Assets/lc/BOSS/Xiongmao/\u53F3\u811A.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 28
+    height: 32
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 17, y: 8}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u811A"
+  vertices:
+  - {x: -17, y: 8, z: 0}
+  - {x: 11, y: 8, z: 0}
+  - {x: 11, y: -24, z: 0}
+  - {x: -17, y: -24, z: 0}
+  uvs:
+  - {x: 0, y: .2578125}
+  - {x: .02734375, y: .2578125}
+  - {x: .02734375, y: .1953125}
+  - {x: 0, y: .1953125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 244
+    y: 156
+    width: 51
+    height: 55
+  parentName: Untitled Group
+  parentID: 10008
+  linkedTexturePath: "Assets/lc/BOSS/Xiongmao/\u5934.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 51
+    height: 55
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 24, y: 27}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934"
+  vertices:
+  - {x: -24, y: 27, z: 0}
+  - {x: 27, y: 27, z: 0}
+  - {x: 27, y: -28, z: 0}
+  - {x: -24, y: -28, z: 0}
+  uvs:
+  - {x: .23828125, y: .6953125}
+  - {x: .288085938, y: .6953125}
+  - {x: .288085938, y: .587890625}
+  - {x: .23828125, y: .587890625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 488
+    y: 152
+    width: 37
+    height: 47
+  parentName: Untitled Group
+  parentID: 10008
+  linkedTexturePath: "Assets/lc/BOSS/Xiongmao/\u5DE6\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 37
+    height: 47
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 26, y: 9}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u624B"
+  vertices:
+  - {x: -26, y: 9, z: 0}
+  - {x: 11, y: 9, z: 0}
+  - {x: 11, y: -38, z: 0}
+  - {x: -26, y: -38, z: 0}
+  uvs:
+  - {x: .4765625, y: .703125}
+  - {x: .512695312, y: .703125}
+  - {x: .512695312, y: .611328125}
+  - {x: .4765625, y: .611328125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u811A"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 216
+    y: 376
+    width: 27
+    height: 34
+  parentName: Untitled Group
+  parentID: 10008
+  linkedTexturePath: "Assets/lc/BOSS/Xiongmao/\u5DE6\u811A.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 27
+    height: 34
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 17, y: 8}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u811A"
+  vertices:
+  - {x: -17, y: 8, z: 0}
+  - {x: 10, y: 8, z: 0}
+  - {x: 10, y: -26, z: 0}
+  - {x: -17, y: -26, z: 0}
+  uvs:
+  - {x: .2109375, y: .265625}
+  - {x: .237304688, y: .265625}
+  - {x: .237304688, y: .19921875}
+  - {x: .2109375, y: .19921875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u62AB\u98CE"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 416
+    y: 344
+    width: 43
+    height: 27
+  parentName: Untitled Group
+  parentID: 10008
+  linkedTexturePath: "Assets/lc/BOSS/Xiongmao/\u62AB\u98CE.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 43
+    height: 27
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 12, y: 13}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u62AB\u98CE"
+  vertices:
+  - {x: -12, y: 13, z: 0}
+  - {x: 31, y: 13, z: 0}
+  - {x: 31, y: -14, z: 0}
+  - {x: -12, y: -14, z: 0}
+  uvs:
+  - {x: .40625, y: .328125}
+  - {x: .448242188, y: .328125}
+  - {x: .448242188, y: .275390625}
+  - {x: .40625, y: .275390625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u8EAB\u4F53"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 512
+    y: 224
+    width: 53
+    height: 41
+  parentName: Untitled Group
+  parentID: 10008
+  linkedTexturePath: "Assets/lc/BOSS/Xiongmao/\u8EAB\u4F53.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 53
+    height: 41
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 31, y: 16}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u8EAB\u4F53"
+  vertices:
+  - {x: -31, y: 16, z: 0}
+  - {x: 22, y: 16, z: 0}
+  - {x: 22, y: -25, z: 0}
+  - {x: -31, y: -25, z: 0}
+  uvs:
+  - {x: .5, y: .5625}
+  - {x: .551757812, y: .5625}
+  - {x: .551757812, y: .482421875}
+  - {x: .5, y: .482421875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400006}
+  - {fileID: 11400008}
+  - {fileID: 11400010}
+  - {fileID: 11400012}
+  - {fileID: 11400014}
+  parentName: Ku_Xiongmao  bing
+  isExpand: 1
+  groupName: Untitled Group

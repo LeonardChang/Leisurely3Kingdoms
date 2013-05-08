@@ -1,0 +1,406 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: ku_JingjuJS_mini
+  spriteGroups:
+  - {fileID: 11400018}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u4E0B\u8EAB"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 904
+    y: 404
+    width: 33
+    height: 22
+  parentName: Untitled Group
+  parentID: 7882
+  linkedTexturePath: "Assets/lc/zhongguoJS/JingjuJS/\u4E0B\u8EAB.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 33
+    height: 22
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 17, y: 2}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u4E0B\u8EAB"
+  vertices:
+  - {x: -17, y: 2, z: 0}
+  - {x: 16, y: 2, z: 0}
+  - {x: 16, y: -20, z: 0}
+  - {x: -17, y: -20, z: 0}
+  uvs:
+  - {x: .8828125, y: .2109375}
+  - {x: .915039062, y: .2109375}
+  - {x: .915039062, y: .16796875}
+  - {x: .8828125, y: .16796875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 856
+    y: 420
+    width: 25
+    height: 24
+  parentName: Untitled Group
+  parentID: 7882
+  linkedTexturePath: "Assets/lc/zhongguoJS/JingjuJS/\u53F3\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 25
+    height: 24
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 5, y: 5}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u624B"
+  vertices:
+  - {x: -5, y: 5, z: 0}
+  - {x: 20, y: 5, z: 0}
+  - {x: 20, y: -19, z: 0}
+  - {x: -5, y: -19, z: 0}
+  uvs:
+  - {x: .8359375, y: .1796875}
+  - {x: .860351562, y: .1796875}
+  - {x: .860351562, y: .1328125}
+  - {x: .8359375, y: .1328125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 260
+    y: 256
+    width: 44
+    height: 43
+  parentName: Untitled Group
+  parentID: 7882
+  linkedTexturePath: "Assets/lc/zhongguoJS/JingjuJS/\u5934.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 44
+    height: 43
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 18, y: 28}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934"
+  vertices:
+  - {x: -18, y: 28, z: 0}
+  - {x: 26, y: 28, z: 0}
+  - {x: 26, y: -15, z: 0}
+  - {x: -18, y: -15, z: 0}
+  uvs:
+  - {x: .25390625, y: .5}
+  - {x: .296875, y: .5}
+  - {x: .296875, y: .416015625}
+  - {x: .25390625, y: .416015625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934\u51A0"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 244
+    y: 212
+    width: 61
+    height: 40
+  parentName: Untitled Group
+  parentID: 7882
+  linkedTexturePath: "Assets/lc/zhongguoJS/JingjuJS/\u5934\u51A0.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 61
+    height: 40
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 26, y: 22}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934\u51A0"
+  vertices:
+  - {x: -26, y: 22, z: 0}
+  - {x: 35, y: 22, z: 0}
+  - {x: 35, y: -18, z: 0}
+  - {x: -26, y: -18, z: 0}
+  uvs:
+  - {x: .23828125, y: .5859375}
+  - {x: .297851562, y: .5859375}
+  - {x: .297851562, y: .5078125}
+  - {x: .23828125, y: .5078125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 844
+    y: 332
+    width: 37
+    height: 32
+  parentName: Untitled Group
+  parentID: 7882
+  linkedTexturePath: "Assets/lc/zhongguoJS/JingjuJS/\u5DE6\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 37
+    height: 32
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 17, y: 4}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u624B"
+  vertices:
+  - {x: -17, y: 4, z: 0}
+  - {x: 20, y: 4, z: 0}
+  - {x: 20, y: -28, z: 0}
+  - {x: -17, y: -28, z: 0}
+  uvs:
+  - {x: .82421875, y: .3515625}
+  - {x: .860351562, y: .3515625}
+  - {x: .860351562, y: .2890625}
+  - {x: .82421875, y: .2890625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u65D7\u5E1C1"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 180
+    y: 368
+    width: 32
+    height: 31
+  parentName: Untitled Group
+  parentID: 7882
+  linkedTexturePath: "Assets/lc/zhongguoJS/JingjuJS/\u65D7\u5E1C1.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 32
+    height: 31
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 23, y: 21}
+  position: {x: -1, y: -1}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u65D7\u5E1C1"
+  vertices:
+  - {x: -24, y: 20, z: 0}
+  - {x: 8, y: 20, z: 0}
+  - {x: 8, y: -11, z: 0}
+  - {x: -24, y: -11, z: 0}
+  uvs:
+  - {x: .17578125, y: .28125}
+  - {x: .20703125, y: .28125}
+  - {x: .20703125, y: .220703125}
+  - {x: .17578125, y: .220703125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u65D7\u5E1C2"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 912
+    y: 364
+    width: 27
+    height: 38
+  parentName: Untitled Group
+  parentID: 7882
+  linkedTexturePath: "Assets/lc/zhongguoJS/JingjuJS/\u65D7\u5E1C2.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 27
+    height: 38
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 19, y: 22}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u65D7\u5E1C2"
+  vertices:
+  - {x: -19, y: 22, z: 0}
+  - {x: 8, y: 22, z: 0}
+  - {x: 8, y: -16, z: 0}
+  - {x: -19, y: -16, z: 0}
+  uvs:
+  - {x: .890625, y: .2890625}
+  - {x: .916992188, y: .2890625}
+  - {x: .916992188, y: .21484375}
+  - {x: .890625, y: .21484375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u8EAB\u4F53"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 392
+    y: 408
+    width: 29
+    height: 24
+  parentName: Untitled Group
+  parentID: 7882
+  linkedTexturePath: "Assets/lc/zhongguoJS/JingjuJS/\u8EAB\u4F53.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 29
+    height: 24
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 18, y: 12}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u8EAB\u4F53"
+  vertices:
+  - {x: -18, y: 12, z: 0}
+  - {x: 11, y: 12, z: 0}
+  - {x: 11, y: -12, z: 0}
+  - {x: -18, y: -12, z: 0}
+  uvs:
+  - {x: .3828125, y: .203125}
+  - {x: .411132812, y: .203125}
+  - {x: .411132812, y: .15625}
+  - {x: .3828125, y: .15625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400006}
+  - {fileID: 11400008}
+  - {fileID: 11400010}
+  - {fileID: 11400012}
+  - {fileID: 11400014}
+  - {fileID: 11400016}
+  parentName: ku_JingjuJS_mini
+  isExpand: 1
+  groupName: Untitled Group

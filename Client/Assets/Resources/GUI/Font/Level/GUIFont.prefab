@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: GUIFont
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 1}
+  m_Name: 
+  material: {fileID: 2100000, guid: f457b6b3e04ebe449a1185418fd011d8, type: 2}
+  sprites:
+  - name: 5
+    outer:
+      serializedVersion: 2
+      x: 21
+      y: 110
+      width: 20
+      height: 18
+    inner:
+      serializedVersion: 2
+      x: 21
+      y: 110
+      width: 20
+      height: 18
+    paddingLeft: .200000003
+    paddingRight: .200000003
+    paddingTop: .222222224
+    paddingBottom: .222222224
+  - name: 6
+    outer:
+      serializedVersion: 2
+      x: 39
+      y: 91
+      width: 18
+      height: 18
+    inner:
+      serializedVersion: 2
+      x: 39
+      y: 91
+      width: 18
+      height: 18
+    paddingLeft: .222222224
+    paddingRight: .222222224
+    paddingTop: .222222224
+    paddingBottom: .222222224
+  - name: 7
+    outer:
+      serializedVersion: 2
+      x: 42
+      y: 110
+      width: 19
+      height: 18
+    inner:
+      serializedVersion: 2
+      x: 42
+      y: 110
+      width: 19
+      height: 18
+    paddingLeft: .210526317
+    paddingRight: .210526317
+    paddingTop: .222222224
+    paddingBottom: .222222224
+  - name: 1
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 54
+      width: 6
+      height: 18
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 54
+      width: 6
+      height: 18
+    paddingLeft: .666666687
+    paddingRight: .666666687
+    paddingTop: .222222224
+    paddingBottom: .222222224
+  - name: 9
+    outer:
+      serializedVersion: 2
+      x: 20
+      y: 73
+      width: 19
+      height: 17
+    inner:
+      serializedVersion: 2
+      x: 20
+      y: 73
+      width: 19
+      height: 17
+    paddingLeft: .210526317
+    paddingRight: .210526317
+    paddingTop: .235294119
+    paddingBottom: .235294119
+  - name: 0
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 73
+      width: 19
+      height: 17
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 73
+      width: 19
+      height: 17
+    paddingLeft: .210526317
+    paddingRight: .210526317
+    paddingTop: .235294119
+    paddingBottom: .235294119
+  - name: 4
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 110
+      width: 20
+      height: 18
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 110
+      width: 20
+      height: 18
+    paddingLeft: .200000003
+    paddingRight: .200000003
+    paddingTop: .222222224
+    paddingBottom: .222222224
+  - name: 2
+    outer:
+      serializedVersion: 2
+      x: 20
+      y: 91
+      width: 18
+      height: 18
+    inner:
+      serializedVersion: 2
+      x: 20
+      y: 91
+      width: 18
+      height: 18
+    paddingLeft: .222222224
+    paddingRight: .222222224
+    paddingTop: .222222224
+    paddingBottom: .222222224
+  - name: 8
+    outer:
+      serializedVersion: 2
+      x: 40
+      y: 73
+      width: 18
+      height: 17
+    inner:
+      serializedVersion: 2
+      x: 40
+      y: 73
+      width: 18
+      height: 17
+    paddingLeft: .222222224
+    paddingRight: .222222224
+    paddingTop: .235294119
+    paddingBottom: .235294119
+  - name: 3
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 91
+      width: 19
+      height: 18
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 91
+      width: 19
+      height: 18
+    paddingLeft: .210526317
+    paddingRight: .210526317
+    paddingTop: .222222224
+    paddingBottom: .222222224
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

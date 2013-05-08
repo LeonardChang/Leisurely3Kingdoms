@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Zombie_35
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: .150682464, y: .466911495, z: .268799245}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5416b5a74298e0d489c807e317e21cda, type: 1}
+  m_Name: 
+  ComeOut: {fileID: 11400000, guid: cb6b903db0c642d4483419fbd90ef5b3, type: 2}
+  Stand1: {fileID: 11400000, guid: 6d8eda74ab774c049876c70dc3a5274e, type: 2}
+  Stand2: {fileID: 11400000, guid: 6d8eda74ab774c049876c70dc3a5274e, type: 2}
+  PickUp: {fileID: 11400000, guid: fe313235bf9b65b4580ee79bed8ad402, type: 2}
+  Draging: {fileID: 11400000, guid: 7a5aed3001969374185a7f16da12962a, type: 2}
+  GoAway: {fileID: 11400000, guid: 3662ec9a28c20284ca864165d9165582, type: 2}
+  Move: {fileID: 11400000, guid: 36ec77e4984b913409dedc57f694057f, type: 2}
+  Attack: {fileID: 11400000, guid: 8f4afac3dd596714d868da12ad2e3321, type: 2}
+  Draging_2: {fileID: 0}
+  Draging_3: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

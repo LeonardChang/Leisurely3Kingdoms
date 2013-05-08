@@ -1,0 +1,500 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_Lixiaolong_mini
+  spriteGroups:
+  - {fileID: 11400016}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 0
+    y: 416
+    width: 25
+    height: 26
+  parentName: Untitled Group
+  parentID: 6662
+  linkedTexturePath: "Assets/lc/zhongguoJS/LixiaolongJS/\u53F3\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 25
+    height: 26
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 10, y: 4}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u624B"
+  vertices:
+  - {x: -10, y: 4, z: 0}
+  - {x: 15, y: 4, z: 0}
+  - {x: 15, y: -22, z: 0}
+  - {x: -10, y: -22, z: 0}
+  uvs:
+  - {x: 0, y: .1875}
+  - {x: .0244140625, y: .1875}
+  - {x: .0244140625, y: .13671875}
+  - {x: 0, y: .13671875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u624B\u81C2"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 644
+    y: 448
+    width: 21
+    height: 21
+  parentName: Untitled Group
+  parentID: 6662
+  linkedTexturePath: "Assets/lc/zhongguoJS/LixiaolongJS/\u53F3\u624B\u81C2.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 21
+    height: 21
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 11, y: 7}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u624B\u81C2"
+  vertices:
+  - {x: -11, y: 7, z: 0}
+  - {x: 10, y: 7, z: 0}
+  - {x: 10, y: -14, z: 0}
+  - {x: -11, y: -14, z: 0}
+  uvs:
+  - {x: .62890625, y: .125}
+  - {x: .649414062, y: .125}
+  - {x: .649414062, y: .083984375}
+  - {x: .62890625, y: .083984375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u811A"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 288
+    y: 456
+    width: 19
+    height: 21
+  parentName: Untitled Group
+  parentID: 6662
+  linkedTexturePath: "Assets/lc/zhongguoJS/LixiaolongJS/\u53F3\u811A.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 19
+    height: 21
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 11, y: 5}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u811A"
+  vertices:
+  - {x: -11, y: 5, z: 0}
+  - {x: 8, y: 5, z: 0}
+  - {x: 8, y: -16, z: 0}
+  - {x: -11, y: -16, z: 0}
+  uvs:
+  - {x: .28125, y: .109375}
+  - {x: .299804688, y: .109375}
+  - {x: .299804688, y: .068359375}
+  - {x: .28125, y: .068359375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5634\u5DF4"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 440
+    y: 136
+    width: 18
+    height: 15
+  parentName: Untitled Group
+  parentID: 6662
+  linkedTexturePath: "Assets/lc/zhongguoJS/LixiaolongJS/\u5634\u5DF4.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 15
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 6, y: 7}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5634\u5DF4"
+  vertices:
+  - {x: -6, y: 7, z: 0}
+  - {x: 12, y: 7, z: 0}
+  - {x: 12, y: -8, z: 0}
+  - {x: -6, y: -8, z: 0}
+  uvs:
+  - {x: .4296875, y: .734375}
+  - {x: .447265625, y: .734375}
+  - {x: .447265625, y: .705078125}
+  - {x: .4296875, y: .705078125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u624B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 356
+    y: 424
+    width: 31
+    height: 19
+  parentName: Untitled Group
+  parentID: 6662
+  linkedTexturePath: "Assets/lc/zhongguoJS/LixiaolongJS/\u5DE6\u624B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 31
+    height: 19
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 4, y: 9}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u624B"
+  vertices:
+  - {x: -4, y: 9, z: 0}
+  - {x: 27, y: 9, z: 0}
+  - {x: 27, y: -10, z: 0}
+  - {x: -4, y: -10, z: 0}
+  uvs:
+  - {x: .34765625, y: .171875}
+  - {x: .377929688, y: .171875}
+  - {x: .377929688, y: .134765625}
+  - {x: .34765625, y: .134765625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u811A"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 668
+    y: 456
+    width: 18
+    height: 20
+  parentName: Untitled Group
+  parentID: 6662
+  linkedTexturePath: "Assets/lc/zhongguoJS/LixiaolongJS/\u5DE6\u811A.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 20
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 8, y: 4}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u811A"
+  vertices:
+  - {x: -8, y: 4, z: 0}
+  - {x: 10, y: 4, z: 0}
+  - {x: 10, y: -16, z: 0}
+  - {x: -8, y: -16, z: 0}
+  uvs:
+  - {x: .65234375, y: .109375}
+  - {x: .669921875, y: .109375}
+  - {x: .669921875, y: .0703125}
+  - {x: .65234375, y: .0703125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u8EAB\u4F53"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 600
+    y: 388
+    width: 28
+    height: 31
+  parentName: Untitled Group
+  parentID: 6662
+  linkedTexturePath: "Assets/lc/zhongguoJS/LixiaolongJS/\u8EAB\u4F53.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 28
+    height: 31
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 15, y: 14}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u8EAB\u4F53"
+  vertices:
+  - {x: -15, y: 14, z: 0}
+  - {x: 13, y: 14, z: 0}
+  - {x: 13, y: -17, z: 0}
+  - {x: -15, y: -17, z: 0}
+  uvs:
+  - {x: .5859375, y: .2421875}
+  - {x: .61328125, y: .2421875}
+  - {x: .61328125, y: .181640625}
+  - {x: .5859375, y: .181640625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  - {fileID: 11400006}
+  - {fileID: 11400010}
+  - {fileID: 11400012}
+  - {fileID: 11400014}
+  - {fileID: 11400018}
+  - {fileID: 11400020}
+  - {fileID: 11400008}
+  - {fileID: 11400022}
+  parentName: Ku_Lixiaolong_mini
+  isExpand: 1
+  groupName: Untitled Group
+--- !u!114 &11400018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u53F3\u811A1"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 780
+    y: 448
+    width: 21
+    height: 21
+  parentName: Untitled Group
+  parentID: 6662
+  linkedTexturePath: "Assets/lc/zhongguoJS/LixiaolongJS/\u53F3\u811A1.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 21
+    height: 21
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 13, y: 4}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u53F3\u811A1"
+  vertices:
+  - {x: -13, y: 4, z: 0}
+  - {x: 8, y: 4, z: 0}
+  - {x: 8, y: -17, z: 0}
+  - {x: -13, y: -17, z: 0}
+  uvs:
+  - {x: .76171875, y: .125}
+  - {x: .782226562, y: .125}
+  - {x: .782226562, y: .083984375}
+  - {x: .76171875, y: .083984375}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5DE6\u811A2"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 388
+    y: 436
+    width: 31
+    height: 16
+  parentName: Untitled Group
+  parentID: 6662
+  linkedTexturePath: "Assets/lc/zhongguoJS/LixiaolongJS/\u5DE6\u811A2.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 31
+    height: 16
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 6, y: 5}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5DE6\u811A2"
+  vertices:
+  - {x: -6, y: 5, z: 0}
+  - {x: 25, y: 5, z: 0}
+  - {x: 25, y: -11, z: 0}
+  - {x: -6, y: -11, z: 0}
+  uvs:
+  - {x: .37890625, y: .1484375}
+  - {x: .409179688, y: .1484375}
+  - {x: .409179688, y: .1171875}
+  - {x: .37890625, y: .1171875}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5934"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 808
+    y: 224
+    width: 45
+    height: 47
+  parentName: Untitled Group
+  parentID: 6662
+  linkedTexturePath: "Assets/lc/zhongguoJS/LixiaolongJS/\u5934.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 45
+    height: 47
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 24, y: 26}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5934"
+  vertices:
+  - {x: -24, y: 26, z: 0}
+  - {x: 21, y: 26, z: 0}
+  - {x: 21, y: -21, z: 0}
+  - {x: -24, y: -21, z: 0}
+  uvs:
+  - {x: .7890625, y: .5625}
+  - {x: .833007812, y: .5625}
+  - {x: .833007812, y: .470703125}
+  - {x: .7890625, y: .470703125}
+  fullPath: 
+  useOrigSize: 0

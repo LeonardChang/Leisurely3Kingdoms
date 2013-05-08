@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1273304503, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Ku_XiongmaoJS
+  spriteGroups:
+  - {fileID: 11400006}
+  isExpand: 1
+  showInViewer: 1
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u5149"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 488
+    y: 200
+    width: 33
+    height: 23
+  parentName: Untitled Group
+  parentID: 3860
+  linkedTexturePath: "Assets/lc/zhongguoJS/XiongmaoJS/\u5149.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 33
+    height: 23
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 15, y: 8}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u5149"
+  vertices:
+  - {x: -15, y: 8, z: 0}
+  - {x: 18, y: 8, z: 0}
+  - {x: 18, y: -15, z: 0}
+  - {x: -15, y: -15, z: 0}
+  uvs:
+  - {x: .4765625, y: .609375}
+  - {x: .508789062, y: .609375}
+  - {x: .508789062, y: .564453125}
+  - {x: .4765625, y: .564453125}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1244771867, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: "\u718A\u732B"
+  atlas: {fileID: 11400000, guid: b0deaac5ba2fe7348a87ca5b590b4d25, type: 2}
+  image: {fileID: 2800000, guid: a1aeb1af85e41b0409dba4f82f1b9da9, type: 1}
+  image2nd: {fileID: 0}
+  imageRect:
+    serializedVersion: 2
+    x: 920
+    y: 76
+    width: 67
+    height: 66
+  parentName: Untitled Group
+  parentID: 3860
+  linkedTexturePath: "Assets/lc/zhongguoJS/XiongmaoJS/\u718A\u732B.tga"
+  linkedImageRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 67
+    height: 66
+  origTextureSize: {x: 0, y: 0}
+  pivot: {x: 37, y: 34}
+  position: {x: 0, y: 0}
+  rotation: 0
+  scale: {x: 1, y: 1}
+  spriteName: "\u718A\u732B"
+  vertices:
+  - {x: -37, y: 34, z: 0}
+  - {x: 30, y: 34, z: 0}
+  - {x: 30, y: -32, z: 0}
+  - {x: -37, y: -32, z: 0}
+  uvs:
+  - {x: .8984375, y: .8515625}
+  - {x: .963867188, y: .8515625}
+  - {x: .963867188, y: .72265625}
+  - {x: .8984375, y: .72265625}
+  fullPath: 
+  useOrigSize: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 958978413, guid: dee3954a8e1c5804fb3b2594d3e5bde7, type: 1}
+  m_Name: Untitled Group
+  frames:
+  - {fileID: 11400002}
+  - {fileID: 11400004}
+  parentName: Ku_XiongmaoJS
+  isExpand: 1
+  groupName: Untitled Group

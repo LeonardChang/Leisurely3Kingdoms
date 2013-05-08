@@ -1,0 +1,329 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: guangai
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 1}
+  m_Name: 
+  material: {fileID: 2100000, guid: 956317dfe5fbe334fbad33228388e3be, type: 2}
+  sprites:
+  - name: "\u673A\u68B0\u754C\u97622_1"
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1088
+      width: 640
+      height: 960
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1088
+      width: 640
+      height: 960
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: zise_nor
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1564
+      width: 140
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1564
+      width: 140
+      height: 142
+    paddingLeft: .0285714287
+    paddingRight: .0285714287
+    paddingTop: .0281690136
+    paddingBottom: .0281690136
+  - name: zise_down
+    outer:
+      serializedVersion: 2
+      x: 782
+      y: 1564
+      width: 140
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 782
+      y: 1564
+      width: 140
+      height: 142
+    paddingLeft: .0285714287
+    paddingRight: .0285714287
+    paddingTop: .0281690136
+    paddingBottom: .0281690136
+  - name: lvping_down
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1421
+      width: 140
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1421
+      width: 140
+      height: 142
+    paddingLeft: .0285714287
+    paddingRight: .0285714287
+    paddingTop: .0281690136
+    paddingBottom: .0281690136
+  - name: lvping_nor
+    outer:
+      serializedVersion: 2
+      x: 782
+      y: 1421
+      width: 140
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 782
+      y: 1421
+      width: 140
+      height: 142
+    paddingLeft: .0285714287
+    paddingRight: .0285714287
+    paddingTop: .0281690136
+    paddingBottom: .0281690136
+  - name: hongping_down
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1278
+      width: 140
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1278
+      width: 140
+      height: 142
+    paddingLeft: .0285714287
+    paddingRight: .0285714287
+    paddingTop: .0281690136
+    paddingBottom: .0281690136
+  - name: hongping_nor
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1135
+      width: 140
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1135
+      width: 140
+      height: 142
+    paddingLeft: .0285714287
+    paddingRight: .0285714287
+    paddingTop: .0281690136
+    paddingBottom: .0281690136
+  - name: jieshikuang
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1840
+      width: 321
+      height: 208
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1840
+      width: 321
+      height: 208
+    paddingLeft: .0124610588
+    paddingRight: .0124610588
+    paddingTop: .0192307699
+    paddingBottom: .0192307699
+  - name: lanping_nor
+    outer:
+      serializedVersion: 2
+      x: 782
+      y: 1278
+      width: 140
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 782
+      y: 1278
+      width: 140
+      height: 142
+    paddingLeft: .0285714287
+    paddingRight: .0285714287
+    paddingTop: .0281690136
+    paddingBottom: .0281690136
+  - name: lanping_down
+    outer:
+      serializedVersion: 2
+      x: 782
+      y: 1135
+      width: 140
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 782
+      y: 1135
+      width: 140
+      height: 142
+    paddingLeft: .0285714287
+    paddingRight: .0285714287
+    paddingTop: .0281690136
+    paddingBottom: .0281690136
+  - name: quan
+    outer:
+      serializedVersion: 2
+      x: 895
+      y: 1744
+      width: 96
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 895
+      y: 1744
+      width: 96
+      height: 95
+    paddingLeft: .0416666679
+    paddingRight: .0416666679
+    paddingTop: .042105265
+    paddingBottom: .042105265
+  - name: lvup nor
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 863
+      width: 140
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 863
+      width: 140
+      height: 142
+    paddingLeft: .0285714287
+    paddingRight: .0285714287
+    paddingTop: .0281690136
+    paddingBottom: .0281690136
+  - name: lvup down
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 720
+      width: 140
+      height: 142
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 720
+      width: 140
+      height: 142
+    paddingLeft: .0285714287
+    paddingRight: .0285714287
+    paddingTop: .0281690136
+    paddingBottom: .0281690136
+  - name: wenzifanli
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 1707
+      width: 253
+      height: 132
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 1707
+      width: 253
+      height: 132
+    paddingLeft: .0158102773
+    paddingRight: .0158102773
+    paddingTop: .0303030312
+    paddingBottom: .0303030312
+  - name: shuomingkuang
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1006
+      width: 658
+      height: 81
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1006
+      width: 658
+      height: 81
+    paddingLeft: .00607902743
+    paddingRight: .00607902743
+    paddingTop: .0493827164
+    paddingBottom: .0493827164
+  - name: shengjiwenzi
+    outer:
+      serializedVersion: 2
+      x: 659
+      y: 1038
+      width: 364
+      height: 49
+    inner:
+      serializedVersion: 2
+      x: 659
+      y: 1038
+      width: 364
+      height: 49
+    paddingLeft: .0109890113
+    paddingRight: .0109890113
+    paddingTop: .0816326514
+    paddingBottom: .0816326514
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

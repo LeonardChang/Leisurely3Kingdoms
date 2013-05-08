@@ -1,0 +1,397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 3
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: chenglieshi11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 1}
+  m_Name: 
+  material: {fileID: 2100000, guid: b2ee1e6514868554fb2dcb3d07c10867, type: 2}
+  sprites:
+  - name: "\u9648\u5217\u5BA4\u754C\u9762v2.0"
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 640
+      height: 960
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 640
+      height: 960
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: shizijia
+    outer:
+      serializedVersion: 2
+      x: 716
+      y: 75
+      width: 73
+      height: 88
+    inner:
+      serializedVersion: 2
+      x: 716
+      y: 75
+      width: 73
+      height: 88
+    paddingLeft: .0547945201
+    paddingRight: .0547945201
+    paddingTop: .0454545468
+    paddingBottom: .0454545468
+  - name: shizijia2
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 75
+      width: 74
+      height: 88
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 75
+      width: 74
+      height: 88
+    paddingLeft: .0540540554
+    paddingRight: .0540540554
+    paddingTop: .0454545468
+    paddingBottom: .0454545468
+  - name: chenglieshi
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 7
+      width: 214
+      height: 56
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 7
+      width: 214
+      height: 56
+    paddingLeft: .0186915882
+    paddingRight: .0186915882
+    paddingTop: .0714285746
+    paddingBottom: .0714285746
+  - name: biaotikuang
+    outer:
+      serializedVersion: 2
+      x: 1111
+      y: 954
+      width: 527
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 1111
+      y: 954
+      width: 527
+      height: 70
+    paddingLeft: .00759013277
+    paddingRight: .00759013277
+    paddingTop: .0571428575
+    paddingBottom: .0571428575
+  - name: mianban
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 394
+      width: 469
+      height: 630
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 394
+      width: 469
+      height: 630
+    paddingLeft: .00852878485
+    paddingRight: .00852878485
+    paddingTop: .00634920644
+    paddingBottom: .00634920644
+  - name: 01
+    outer:
+      serializedVersion: 2
+      x: 248
+      y: 45
+      width: 51
+      height: 18
+    inner:
+      serializedVersion: 2
+      x: 248
+      y: 45
+      width: 51
+      height: 18
+    paddingLeft: .0784313753
+    paddingRight: .0784313753
+    paddingTop: .222222224
+    paddingBottom: .222222224
+  - name: kaiqikuang
+    outer:
+      serializedVersion: 2
+      x: 641
+      y: 164
+      width: 216
+      height: 229
+    inner:
+      serializedVersion: 2
+      x: 641
+      y: 164
+      width: 216
+      height: 229
+    paddingLeft: .0185185187
+    paddingRight: .0185185187
+    paddingTop: .0174672492
+    paddingBottom: .0174672492
+  - name: zombie
+    outer:
+      serializedVersion: 2
+      x: 858
+      y: 57
+      width: 55
+      height: 106
+    inner:
+      serializedVersion: 2
+      x: 858
+      y: 57
+      width: 55
+      height: 106
+    paddingLeft: .0727272704
+    paddingRight: .0727272704
+    paddingTop: .0377358496
+    paddingBottom: .0377358496
+  - name: 0
+    outer:
+      serializedVersion: 2
+      x: 248
+      y: 20
+      width: 16
+      height: 24
+    inner:
+      serializedVersion: 2
+      x: 248
+      y: 20
+      width: 16
+      height: 24
+    paddingLeft: .25
+    paddingRight: .25
+    paddingTop: .166666672
+    paddingBottom: .166666672
+  - name: 1
+    outer:
+      serializedVersion: 2
+      x: 300
+      y: 39
+      width: 14
+      height: 24
+    inner:
+      serializedVersion: 2
+      x: 300
+      y: 39
+      width: 14
+      height: 24
+    paddingLeft: .285714298
+    paddingRight: .285714298
+    paddingTop: .166666672
+    paddingBottom: .166666672
+  - name: 3
+    outer:
+      serializedVersion: 2
+      x: 265
+      y: 20
+      width: 15
+      height: 24
+    inner:
+      serializedVersion: 2
+      x: 265
+      y: 20
+      width: 15
+      height: 24
+    paddingLeft: .266666681
+    paddingRight: .266666681
+    paddingTop: .166666672
+    paddingBottom: .166666672
+  - name: 2
+    outer:
+      serializedVersion: 2
+      x: 281
+      y: 20
+      width: 15
+      height: 24
+    inner:
+      serializedVersion: 2
+      x: 281
+      y: 20
+      width: 15
+      height: 24
+    paddingLeft: .266666681
+    paddingRight: .266666681
+    paddingTop: .166666672
+    paddingBottom: .166666672
+  - name: 4
+    outer:
+      serializedVersion: 2
+      x: 215
+      y: 7
+      width: 18
+      height: 24
+    inner:
+      serializedVersion: 2
+      x: 215
+      y: 7
+      width: 18
+      height: 24
+    paddingLeft: .222222224
+    paddingRight: .222222224
+    paddingTop: .166666672
+    paddingBottom: .166666672
+  - name: star
+    outer:
+      serializedVersion: 2
+      x: 215
+      y: 32
+      width: 32
+      height: 31
+    inner:
+      serializedVersion: 2
+      x: 215
+      y: 32
+      width: 32
+      height: 31
+    paddingLeft: .125
+    paddingRight: .125
+    paddingTop: .129032254
+    paddingBottom: .129032254
+  - name: weikaiqi
+    outer:
+      serializedVersion: 2
+      x: 858
+      y: 164
+      width: 214
+      height: 229
+    inner:
+      serializedVersion: 2
+      x: 858
+      y: 164
+      width: 214
+      height: 229
+    paddingLeft: .0186915882
+    paddingRight: .0186915882
+    paddingTop: .0174672492
+    paddingBottom: .0174672492
+  - name: right nor
+    outer:
+      serializedVersion: 2
+      x: 914
+      y: 2
+      width: 54
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 914
+      y: 2
+      width: 54
+      height: 80
+    paddingLeft: .0740740746
+    paddingRight: .0740740746
+    paddingTop: .0500000007
+    paddingBottom: .0500000007
+  - name: lift nor
+    outer:
+      serializedVersion: 2
+      x: 790
+      y: 83
+      width: 55
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 790
+      y: 83
+      width: 55
+      height: 80
+    paddingLeft: .0727272704
+    paddingRight: .0727272704
+    paddingTop: .0500000007
+    paddingBottom: .0500000007
+  - name: right down
+    outer:
+      serializedVersion: 2
+      x: 970
+      y: 83
+      width: 54
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 970
+      y: 83
+      width: 54
+      height: 80
+    paddingLeft: .0740740746
+    paddingRight: .0740740746
+    paddingTop: .0500000007
+    paddingBottom: .0500000007
+  - name: lift down
+    outer:
+      serializedVersion: 2
+      x: 914
+      y: 83
+      width: 55
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 914
+      y: 83
+      width: 55
+      height: 80
+    paddingLeft: .0727272704
+    paddingRight: .0727272704
+    paddingTop: .0500000007
+    paddingBottom: .0500000007
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
